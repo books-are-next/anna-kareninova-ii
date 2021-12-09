@@ -33,14 +33,15 @@
       {
         "isSection": true,
         "id": "section-1",
+        "listType": "plain",
         "children": [
           {
             "filename": "anna_karenina_2_001.md",
             "xhtml": "anna_karenina_2_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "cover",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -48,9 +49,9 @@
             "filename": "anna_karenina_2_002.md",
             "xhtml": "anna_karenina_2_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -58,9 +59,9 @@
             "filename": "anna_karenina_2_003.md",
             "xhtml": "anna_karenina_2_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -68,9 +69,9 @@
             "filename": "anna_karenina_2_004.md",
             "xhtml": "anna_karenina_2_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           },
@@ -82,337 +83,372 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_006.md",
-            "xhtml": "anna_karenina_2_006.xhtml",
-            "id": 5,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_007.md",
-            "xhtml": "anna_karenina_2_007.xhtml",
-            "id": 6,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_008.md",
-            "xhtml": "anna_karenina_2_008.xhtml",
-            "id": 7,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_009.md",
-            "xhtml": "anna_karenina_2_009.xhtml",
-            "id": 8,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_010.md",
-            "xhtml": "anna_karenina_2_010.xhtml",
-            "id": 9,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_011.md",
-            "xhtml": "anna_karenina_2_011.xhtml",
-            "id": 10,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_012.md",
-            "xhtml": "anna_karenina_2_012.xhtml",
-            "id": 11,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_013.md",
-            "xhtml": "anna_karenina_2_013.xhtml",
-            "id": 12,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_014.md",
-            "xhtml": "anna_karenina_2_014.xhtml",
-            "id": 13,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_015.md",
-            "xhtml": "anna_karenina_2_015.xhtml",
-            "id": 14,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_016.md",
-            "xhtml": "anna_karenina_2_016.xhtml",
-            "id": 15,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_017.md",
-            "xhtml": "anna_karenina_2_017.xhtml",
-            "id": 16,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_018.md",
-            "xhtml": "anna_karenina_2_018.xhtml",
-            "id": 17,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_019.md",
-            "xhtml": "anna_karenina_2_019.xhtml",
-            "id": 18,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_020.md",
-            "xhtml": "anna_karenina_2_020.xhtml",
-            "id": 19,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_021.md",
-            "xhtml": "anna_karenina_2_021.xhtml",
-            "id": 20,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_022.md",
-            "xhtml": "anna_karenina_2_022.xhtml",
-            "id": 21,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_023.md",
-            "xhtml": "anna_karenina_2_023.xhtml",
-            "id": 22,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_024.md",
-            "xhtml": "anna_karenina_2_024.xhtml",
-            "id": 23,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_025.md",
-            "xhtml": "anna_karenina_2_025.xhtml",
-            "id": 24,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_026.md",
-            "xhtml": "anna_karenina_2_026.xhtml",
-            "id": 25,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_027.md",
-            "xhtml": "anna_karenina_2_027.xhtml",
-            "id": 26,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_028.md",
-            "xhtml": "anna_karenina_2_028.xhtml",
-            "id": 27,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_029.md",
-            "xhtml": "anna_karenina_2_029.xhtml",
-            "id": 28,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_030.md",
-            "xhtml": "anna_karenina_2_030.xhtml",
-            "id": 29,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_031.md",
-            "xhtml": "anna_karenina_2_031.xhtml",
-            "id": 30,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_032.md",
-            "xhtml": "anna_karenina_2_032.xhtml",
-            "id": 31,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_033.md",
-            "xhtml": "anna_karenina_2_033.xhtml",
-            "id": 32,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_034.md",
-            "xhtml": "anna_karenina_2_034.xhtml",
-            "id": 33,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_035.md",
-            "xhtml": "anna_karenina_2_035.xhtml",
-            "id": 34,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_036.md",
-            "xhtml": "anna_karenina_2_036.xhtml",
-            "id": 35,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_037.md",
-            "xhtml": "anna_karenina_2_037.xhtml",
-            "id": 36,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_038.md",
-            "xhtml": "anna_karenina_2_038.xhtml",
-            "id": 37,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "anna_karenina_2_006.md",
+                "xhtml": "anna_karenina_2_006.xhtml",
+                "id": 5,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "I"
+              },
+              {
+                "filename": "anna_karenina_2_007.md",
+                "xhtml": "anna_karenina_2_007.xhtml",
+                "id": 6,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "II"
+              },
+              {
+                "filename": "anna_karenina_2_008.md",
+                "xhtml": "anna_karenina_2_008.xhtml",
+                "id": 7,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "III"
+              },
+              {
+                "filename": "anna_karenina_2_009.md",
+                "xhtml": "anna_karenina_2_009.xhtml",
+                "id": 8,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "IV"
+              },
+              {
+                "filename": "anna_karenina_2_010.md",
+                "xhtml": "anna_karenina_2_010.xhtml",
+                "id": 9,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "V"
+              },
+              {
+                "filename": "anna_karenina_2_011.md",
+                "xhtml": "anna_karenina_2_011.xhtml",
+                "id": 10,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "VI"
+              },
+              {
+                "filename": "anna_karenina_2_012.md",
+                "xhtml": "anna_karenina_2_012.xhtml",
+                "id": 11,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "VII"
+              },
+              {
+                "filename": "anna_karenina_2_013.md",
+                "xhtml": "anna_karenina_2_013.xhtml",
+                "id": 12,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "VIII"
+              },
+              {
+                "filename": "anna_karenina_2_014.md",
+                "xhtml": "anna_karenina_2_014.xhtml",
+                "id": 13,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "IX"
+              },
+              {
+                "filename": "anna_karenina_2_015.md",
+                "xhtml": "anna_karenina_2_015.xhtml",
+                "id": 14,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "X"
+              },
+              {
+                "filename": "anna_karenina_2_016.md",
+                "xhtml": "anna_karenina_2_016.xhtml",
+                "id": 15,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XI"
+              },
+              {
+                "filename": "anna_karenina_2_017.md",
+                "xhtml": "anna_karenina_2_017.xhtml",
+                "id": 16,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XII"
+              },
+              {
+                "filename": "anna_karenina_2_018.md",
+                "xhtml": "anna_karenina_2_018.xhtml",
+                "id": 17,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XIII"
+              },
+              {
+                "filename": "anna_karenina_2_019.md",
+                "xhtml": "anna_karenina_2_019.xhtml",
+                "id": 18,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XIV"
+              },
+              {
+                "filename": "anna_karenina_2_020.md",
+                "xhtml": "anna_karenina_2_020.xhtml",
+                "id": 19,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XV"
+              },
+              {
+                "filename": "anna_karenina_2_021.md",
+                "xhtml": "anna_karenina_2_021.xhtml",
+                "id": 20,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XVI"
+              },
+              {
+                "filename": "anna_karenina_2_022.md",
+                "xhtml": "anna_karenina_2_022.xhtml",
+                "id": 21,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XVII"
+              },
+              {
+                "filename": "anna_karenina_2_023.md",
+                "xhtml": "anna_karenina_2_023.xhtml",
+                "id": 22,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XVIII"
+              },
+              {
+                "filename": "anna_karenina_2_024.md",
+                "xhtml": "anna_karenina_2_024.xhtml",
+                "id": 23,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XIX"
+              },
+              {
+                "filename": "anna_karenina_2_025.md",
+                "xhtml": "anna_karenina_2_025.xhtml",
+                "id": 24,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XX Smrt"
+              },
+              {
+                "filename": "anna_karenina_2_026.md",
+                "xhtml": "anna_karenina_2_026.xhtml",
+                "id": 25,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXI"
+              },
+              {
+                "filename": "anna_karenina_2_027.md",
+                "xhtml": "anna_karenina_2_027.xhtml",
+                "id": 26,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXII"
+              },
+              {
+                "filename": "anna_karenina_2_028.md",
+                "xhtml": "anna_karenina_2_028.xhtml",
+                "id": 27,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXIII"
+              },
+              {
+                "filename": "anna_karenina_2_029.md",
+                "xhtml": "anna_karenina_2_029.xhtml",
+                "id": 28,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXIV"
+              },
+              {
+                "filename": "anna_karenina_2_030.md",
+                "xhtml": "anna_karenina_2_030.xhtml",
+                "id": 29,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXV"
+              },
+              {
+                "filename": "anna_karenina_2_031.md",
+                "xhtml": "anna_karenina_2_031.xhtml",
+                "id": 30,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXVI"
+              },
+              {
+                "filename": "anna_karenina_2_032.md",
+                "xhtml": "anna_karenina_2_032.xhtml",
+                "id": 31,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXVII"
+              },
+              {
+                "filename": "anna_karenina_2_033.md",
+                "xhtml": "anna_karenina_2_033.xhtml",
+                "id": 32,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXVIII"
+              },
+              {
+                "filename": "anna_karenina_2_034.md",
+                "xhtml": "anna_karenina_2_034.xhtml",
+                "id": 33,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXIX"
+              },
+              {
+                "filename": "anna_karenina_2_035.md",
+                "xhtml": "anna_karenina_2_035.xhtml",
+                "id": 34,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXX"
+              },
+              {
+                "filename": "anna_karenina_2_036.md",
+                "xhtml": "anna_karenina_2_036.xhtml",
+                "id": 35,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXXI"
+              },
+              {
+                "filename": "anna_karenina_2_037.md",
+                "xhtml": "anna_karenina_2_037.xhtml",
+                "id": 36,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXXII"
+              },
+              {
+                "filename": "anna_karenina_2_038.md",
+                "xhtml": "anna_karenina_2_038.xhtml",
+                "id": 37,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXXIII"
+              }
+            ],
+            "title": "ČÁST PÁTÁ"
           },
           {
             "filename": "anna_karenina_2_039.md",
@@ -422,327 +458,361 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_040.md",
-            "xhtml": "anna_karenina_2_040.xhtml",
-            "id": 39,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_041.md",
-            "xhtml": "anna_karenina_2_041.xhtml",
-            "id": 40,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_042.md",
-            "xhtml": "anna_karenina_2_042.xhtml",
-            "id": 41,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_043.md",
-            "xhtml": "anna_karenina_2_043.xhtml",
-            "id": 42,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_044.md",
-            "xhtml": "anna_karenina_2_044.xhtml",
-            "id": 43,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_045.md",
-            "xhtml": "anna_karenina_2_045.xhtml",
-            "id": 44,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_046.md",
-            "xhtml": "anna_karenina_2_046.xhtml",
-            "id": 45,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_047.md",
-            "xhtml": "anna_karenina_2_047.xhtml",
-            "id": 46,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_048.md",
-            "xhtml": "anna_karenina_2_048.xhtml",
-            "id": 47,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_049.md",
-            "xhtml": "anna_karenina_2_049.xhtml",
-            "id": 48,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_050.md",
-            "xhtml": "anna_karenina_2_050.xhtml",
-            "id": 49,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_051.md",
-            "xhtml": "anna_karenina_2_051.xhtml",
-            "id": 50,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_052.md",
-            "xhtml": "anna_karenina_2_052.xhtml",
-            "id": 51,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_053.md",
-            "xhtml": "anna_karenina_2_053.xhtml",
-            "id": 52,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_054.md",
-            "xhtml": "anna_karenina_2_054.xhtml",
-            "id": 53,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_055.md",
-            "xhtml": "anna_karenina_2_055.xhtml",
-            "id": 54,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_056.md",
-            "xhtml": "anna_karenina_2_056.xhtml",
-            "id": 55,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_057.md",
-            "xhtml": "anna_karenina_2_057.xhtml",
-            "id": 56,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_058.md",
-            "xhtml": "anna_karenina_2_058.xhtml",
-            "id": 57,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_059.md",
-            "xhtml": "anna_karenina_2_059.xhtml",
-            "id": 58,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_060.md",
-            "xhtml": "anna_karenina_2_060.xhtml",
-            "id": 59,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_061.md",
-            "xhtml": "anna_karenina_2_061.xhtml",
-            "id": 60,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_062.md",
-            "xhtml": "anna_karenina_2_062.xhtml",
-            "id": 61,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_063.md",
-            "xhtml": "anna_karenina_2_063.xhtml",
-            "id": 62,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_064.md",
-            "xhtml": "anna_karenina_2_064.xhtml",
-            "id": 63,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_065.md",
-            "xhtml": "anna_karenina_2_065.xhtml",
-            "id": 64,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_066.md",
-            "xhtml": "anna_karenina_2_066.xhtml",
-            "id": 65,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_067.md",
-            "xhtml": "anna_karenina_2_067.xhtml",
-            "id": 66,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_068.md",
-            "xhtml": "anna_karenina_2_068.xhtml",
-            "id": 67,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_069.md",
-            "xhtml": "anna_karenina_2_069.xhtml",
-            "id": 68,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_070.md",
-            "xhtml": "anna_karenina_2_070.xhtml",
-            "id": 69,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_071.md",
-            "xhtml": "anna_karenina_2_071.xhtml",
-            "id": 70,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "anna_karenina_2_040.md",
+                "xhtml": "anna_karenina_2_040.xhtml",
+                "id": 39,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "I"
+              },
+              {
+                "filename": "anna_karenina_2_041.md",
+                "xhtml": "anna_karenina_2_041.xhtml",
+                "id": 40,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "II"
+              },
+              {
+                "filename": "anna_karenina_2_042.md",
+                "xhtml": "anna_karenina_2_042.xhtml",
+                "id": 41,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "III"
+              },
+              {
+                "filename": "anna_karenina_2_043.md",
+                "xhtml": "anna_karenina_2_043.xhtml",
+                "id": 42,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "IV"
+              },
+              {
+                "filename": "anna_karenina_2_044.md",
+                "xhtml": "anna_karenina_2_044.xhtml",
+                "id": 43,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "V"
+              },
+              {
+                "filename": "anna_karenina_2_045.md",
+                "xhtml": "anna_karenina_2_045.xhtml",
+                "id": 44,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "VI"
+              },
+              {
+                "filename": "anna_karenina_2_046.md",
+                "xhtml": "anna_karenina_2_046.xhtml",
+                "id": 45,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "VII"
+              },
+              {
+                "filename": "anna_karenina_2_047.md",
+                "xhtml": "anna_karenina_2_047.xhtml",
+                "id": 46,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "VIII"
+              },
+              {
+                "filename": "anna_karenina_2_048.md",
+                "xhtml": "anna_karenina_2_048.xhtml",
+                "id": 47,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "IX"
+              },
+              {
+                "filename": "anna_karenina_2_049.md",
+                "xhtml": "anna_karenina_2_049.xhtml",
+                "id": 48,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "X"
+              },
+              {
+                "filename": "anna_karenina_2_050.md",
+                "xhtml": "anna_karenina_2_050.xhtml",
+                "id": 49,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XI"
+              },
+              {
+                "filename": "anna_karenina_2_051.md",
+                "xhtml": "anna_karenina_2_051.xhtml",
+                "id": 50,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XII"
+              },
+              {
+                "filename": "anna_karenina_2_052.md",
+                "xhtml": "anna_karenina_2_052.xhtml",
+                "id": 51,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XIII"
+              },
+              {
+                "filename": "anna_karenina_2_053.md",
+                "xhtml": "anna_karenina_2_053.xhtml",
+                "id": 52,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XIV"
+              },
+              {
+                "filename": "anna_karenina_2_054.md",
+                "xhtml": "anna_karenina_2_054.xhtml",
+                "id": 53,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XV"
+              },
+              {
+                "filename": "anna_karenina_2_055.md",
+                "xhtml": "anna_karenina_2_055.xhtml",
+                "id": 54,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XVI"
+              },
+              {
+                "filename": "anna_karenina_2_056.md",
+                "xhtml": "anna_karenina_2_056.xhtml",
+                "id": 55,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XVII"
+              },
+              {
+                "filename": "anna_karenina_2_057.md",
+                "xhtml": "anna_karenina_2_057.xhtml",
+                "id": 56,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XVIII"
+              },
+              {
+                "filename": "anna_karenina_2_058.md",
+                "xhtml": "anna_karenina_2_058.xhtml",
+                "id": 57,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XIX"
+              },
+              {
+                "filename": "anna_karenina_2_059.md",
+                "xhtml": "anna_karenina_2_059.xhtml",
+                "id": 58,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XX"
+              },
+              {
+                "filename": "anna_karenina_2_060.md",
+                "xhtml": "anna_karenina_2_060.xhtml",
+                "id": 59,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXI"
+              },
+              {
+                "filename": "anna_karenina_2_061.md",
+                "xhtml": "anna_karenina_2_061.xhtml",
+                "id": 60,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXII"
+              },
+              {
+                "filename": "anna_karenina_2_062.md",
+                "xhtml": "anna_karenina_2_062.xhtml",
+                "id": 61,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXIII"
+              },
+              {
+                "filename": "anna_karenina_2_063.md",
+                "xhtml": "anna_karenina_2_063.xhtml",
+                "id": 62,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXIV"
+              },
+              {
+                "filename": "anna_karenina_2_064.md",
+                "xhtml": "anna_karenina_2_064.xhtml",
+                "id": 63,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXV"
+              },
+              {
+                "filename": "anna_karenina_2_065.md",
+                "xhtml": "anna_karenina_2_065.xhtml",
+                "id": 64,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXVI"
+              },
+              {
+                "filename": "anna_karenina_2_066.md",
+                "xhtml": "anna_karenina_2_066.xhtml",
+                "id": 65,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXVII"
+              },
+              {
+                "filename": "anna_karenina_2_067.md",
+                "xhtml": "anna_karenina_2_067.xhtml",
+                "id": 66,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXVIII"
+              },
+              {
+                "filename": "anna_karenina_2_068.md",
+                "xhtml": "anna_karenina_2_068.xhtml",
+                "id": 67,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXIX"
+              },
+              {
+                "filename": "anna_karenina_2_069.md",
+                "xhtml": "anna_karenina_2_069.xhtml",
+                "id": 68,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXX"
+              },
+              {
+                "filename": "anna_karenina_2_070.md",
+                "xhtml": "anna_karenina_2_070.xhtml",
+                "id": 69,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXXI"
+              },
+              {
+                "filename": "anna_karenina_2_071.md",
+                "xhtml": "anna_karenina_2_071.xhtml",
+                "id": 70,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXXII"
+              }
+            ],
+            "title": "ČÁST ŠESTÁ"
           },
           {
             "filename": "anna_karenina_2_072.md",
@@ -752,317 +822,350 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_073.md",
-            "xhtml": "anna_karenina_2_073.xhtml",
-            "id": 72,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_074.md",
-            "xhtml": "anna_karenina_2_074.xhtml",
-            "id": 73,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_075.md",
-            "xhtml": "anna_karenina_2_075.xhtml",
-            "id": 74,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_076.md",
-            "xhtml": "anna_karenina_2_076.xhtml",
-            "id": 75,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_077.md",
-            "xhtml": "anna_karenina_2_077.xhtml",
-            "id": 76,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_078.md",
-            "xhtml": "anna_karenina_2_078.xhtml",
-            "id": 77,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_079.md",
-            "xhtml": "anna_karenina_2_079.xhtml",
-            "id": 78,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_080.md",
-            "xhtml": "anna_karenina_2_080.xhtml",
-            "id": 79,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_081.md",
-            "xhtml": "anna_karenina_2_081.xhtml",
-            "id": 80,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_082.md",
-            "xhtml": "anna_karenina_2_082.xhtml",
-            "id": 81,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_083.md",
-            "xhtml": "anna_karenina_2_083.xhtml",
-            "id": 82,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_084.md",
-            "xhtml": "anna_karenina_2_084.xhtml",
-            "id": 83,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_085.md",
-            "xhtml": "anna_karenina_2_085.xhtml",
-            "id": 84,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_086.md",
-            "xhtml": "anna_karenina_2_086.xhtml",
-            "id": 85,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_087.md",
-            "xhtml": "anna_karenina_2_087.xhtml",
-            "id": 86,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_088.md",
-            "xhtml": "anna_karenina_2_088.xhtml",
-            "id": 87,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_089.md",
-            "xhtml": "anna_karenina_2_089.xhtml",
-            "id": 88,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_090.md",
-            "xhtml": "anna_karenina_2_090.xhtml",
-            "id": 89,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_091.md",
-            "xhtml": "anna_karenina_2_091.xhtml",
-            "id": 90,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_092.md",
-            "xhtml": "anna_karenina_2_092.xhtml",
-            "id": 91,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_093.md",
-            "xhtml": "anna_karenina_2_093.xhtml",
-            "id": 92,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_094.md",
-            "xhtml": "anna_karenina_2_094.xhtml",
-            "id": 93,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_095.md",
-            "xhtml": "anna_karenina_2_095.xhtml",
-            "id": 94,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_096.md",
-            "xhtml": "anna_karenina_2_096.xhtml",
-            "id": 95,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_097.md",
-            "xhtml": "anna_karenina_2_097.xhtml",
-            "id": 96,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_098.md",
-            "xhtml": "anna_karenina_2_098.xhtml",
-            "id": 97,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_099.md",
-            "xhtml": "anna_karenina_2_099.xhtml",
-            "id": 98,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_100.md",
-            "xhtml": "anna_karenina_2_100.xhtml",
-            "id": 99,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_101.md",
-            "xhtml": "anna_karenina_2_101.xhtml",
-            "id": 100,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_102.md",
-            "xhtml": "anna_karenina_2_102.xhtml",
-            "id": 101,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_103.md",
-            "xhtml": "anna_karenina_2_103.xhtml",
-            "id": 102,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "anna_karenina_2_073.md",
+                "xhtml": "anna_karenina_2_073.xhtml",
+                "id": 72,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "I"
+              },
+              {
+                "filename": "anna_karenina_2_074.md",
+                "xhtml": "anna_karenina_2_074.xhtml",
+                "id": 73,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "II"
+              },
+              {
+                "filename": "anna_karenina_2_075.md",
+                "xhtml": "anna_karenina_2_075.xhtml",
+                "id": 74,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "III"
+              },
+              {
+                "filename": "anna_karenina_2_076.md",
+                "xhtml": "anna_karenina_2_076.xhtml",
+                "id": 75,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "IV"
+              },
+              {
+                "filename": "anna_karenina_2_077.md",
+                "xhtml": "anna_karenina_2_077.xhtml",
+                "id": 76,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "V"
+              },
+              {
+                "filename": "anna_karenina_2_078.md",
+                "xhtml": "anna_karenina_2_078.xhtml",
+                "id": 77,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "VI"
+              },
+              {
+                "filename": "anna_karenina_2_079.md",
+                "xhtml": "anna_karenina_2_079.xhtml",
+                "id": 78,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "VII"
+              },
+              {
+                "filename": "anna_karenina_2_080.md",
+                "xhtml": "anna_karenina_2_080.xhtml",
+                "id": 79,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "VIII"
+              },
+              {
+                "filename": "anna_karenina_2_081.md",
+                "xhtml": "anna_karenina_2_081.xhtml",
+                "id": 80,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "IX"
+              },
+              {
+                "filename": "anna_karenina_2_082.md",
+                "xhtml": "anna_karenina_2_082.xhtml",
+                "id": 81,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "X"
+              },
+              {
+                "filename": "anna_karenina_2_083.md",
+                "xhtml": "anna_karenina_2_083.xhtml",
+                "id": 82,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XI"
+              },
+              {
+                "filename": "anna_karenina_2_084.md",
+                "xhtml": "anna_karenina_2_084.xhtml",
+                "id": 83,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XII"
+              },
+              {
+                "filename": "anna_karenina_2_085.md",
+                "xhtml": "anna_karenina_2_085.xhtml",
+                "id": 84,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XIII"
+              },
+              {
+                "filename": "anna_karenina_2_086.md",
+                "xhtml": "anna_karenina_2_086.xhtml",
+                "id": 85,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XIV"
+              },
+              {
+                "filename": "anna_karenina_2_087.md",
+                "xhtml": "anna_karenina_2_087.xhtml",
+                "id": 86,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XV"
+              },
+              {
+                "filename": "anna_karenina_2_088.md",
+                "xhtml": "anna_karenina_2_088.xhtml",
+                "id": 87,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XVI"
+              },
+              {
+                "filename": "anna_karenina_2_089.md",
+                "xhtml": "anna_karenina_2_089.xhtml",
+                "id": 88,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XVII"
+              },
+              {
+                "filename": "anna_karenina_2_090.md",
+                "xhtml": "anna_karenina_2_090.xhtml",
+                "id": 89,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XVIII"
+              },
+              {
+                "filename": "anna_karenina_2_091.md",
+                "xhtml": "anna_karenina_2_091.xhtml",
+                "id": 90,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XIX"
+              },
+              {
+                "filename": "anna_karenina_2_092.md",
+                "xhtml": "anna_karenina_2_092.xhtml",
+                "id": 91,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XX"
+              },
+              {
+                "filename": "anna_karenina_2_093.md",
+                "xhtml": "anna_karenina_2_093.xhtml",
+                "id": 92,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXI"
+              },
+              {
+                "filename": "anna_karenina_2_094.md",
+                "xhtml": "anna_karenina_2_094.xhtml",
+                "id": 93,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXII"
+              },
+              {
+                "filename": "anna_karenina_2_095.md",
+                "xhtml": "anna_karenina_2_095.xhtml",
+                "id": 94,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXIII"
+              },
+              {
+                "filename": "anna_karenina_2_096.md",
+                "xhtml": "anna_karenina_2_096.xhtml",
+                "id": 95,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXIV"
+              },
+              {
+                "filename": "anna_karenina_2_097.md",
+                "xhtml": "anna_karenina_2_097.xhtml",
+                "id": 96,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXV"
+              },
+              {
+                "filename": "anna_karenina_2_098.md",
+                "xhtml": "anna_karenina_2_098.xhtml",
+                "id": 97,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXVI"
+              },
+              {
+                "filename": "anna_karenina_2_099.md",
+                "xhtml": "anna_karenina_2_099.xhtml",
+                "id": 98,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXVII"
+              },
+              {
+                "filename": "anna_karenina_2_100.md",
+                "xhtml": "anna_karenina_2_100.xhtml",
+                "id": 99,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXVIII"
+              },
+              {
+                "filename": "anna_karenina_2_101.md",
+                "xhtml": "anna_karenina_2_101.xhtml",
+                "id": 100,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXIX"
+              },
+              {
+                "filename": "anna_karenina_2_102.md",
+                "xhtml": "anna_karenina_2_102.xhtml",
+                "id": 101,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXX"
+              },
+              {
+                "filename": "anna_karenina_2_103.md",
+                "xhtml": "anna_karenina_2_103.xhtml",
+                "id": 102,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XXXI"
+              }
+            ],
+            "title": "ČÁST SEDMÁ"
           },
           {
             "filename": "anna_karenina_2_104.md",
@@ -1072,205 +1175,226 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_105.md",
-            "xhtml": "anna_karenina_2_105.xhtml",
-            "id": 104,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_106.md",
-            "xhtml": "anna_karenina_2_106.xhtml",
-            "id": 105,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_107.md",
-            "xhtml": "anna_karenina_2_107.xhtml",
-            "id": 106,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_108.md",
-            "xhtml": "anna_karenina_2_108.xhtml",
-            "id": 107,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_109.md",
-            "xhtml": "anna_karenina_2_109.xhtml",
-            "id": 108,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_110.md",
-            "xhtml": "anna_karenina_2_110.xhtml",
-            "id": 109,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_111.md",
-            "xhtml": "anna_karenina_2_111.xhtml",
-            "id": 110,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_112.md",
-            "xhtml": "anna_karenina_2_112.xhtml",
-            "id": 111,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_113.md",
-            "xhtml": "anna_karenina_2_113.xhtml",
-            "id": 112,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_114.md",
-            "xhtml": "anna_karenina_2_114.xhtml",
-            "id": 113,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_115.md",
-            "xhtml": "anna_karenina_2_115.xhtml",
-            "id": 114,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_116.md",
-            "xhtml": "anna_karenina_2_116.xhtml",
-            "id": 115,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_117.md",
-            "xhtml": "anna_karenina_2_117.xhtml",
-            "id": 116,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_118.md",
-            "xhtml": "anna_karenina_2_118.xhtml",
-            "id": 117,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_119.md",
-            "xhtml": "anna_karenina_2_119.xhtml",
-            "id": 118,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_120.md",
-            "xhtml": "anna_karenina_2_120.xhtml",
-            "id": 119,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_121.md",
-            "xhtml": "anna_karenina_2_121.xhtml",
-            "id": 120,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_122.md",
-            "xhtml": "anna_karenina_2_122.xhtml",
-            "id": 121,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
-          },
-          {
-            "filename": "anna_karenina_2_123.md",
-            "xhtml": "anna_karenina_2_123.xhtml",
-            "id": 122,
-            "role": "chapter",
-            "listType": "plain",
-            "inToc": true,
-            "hiddenTitle": false,
-            "children": []
+            "children": [
+              {
+                "filename": "anna_karenina_2_105.md",
+                "xhtml": "anna_karenina_2_105.xhtml",
+                "id": 104,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "I"
+              },
+              {
+                "filename": "anna_karenina_2_106.md",
+                "xhtml": "anna_karenina_2_106.xhtml",
+                "id": 105,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "II"
+              },
+              {
+                "filename": "anna_karenina_2_107.md",
+                "xhtml": "anna_karenina_2_107.xhtml",
+                "id": 106,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "III"
+              },
+              {
+                "filename": "anna_karenina_2_108.md",
+                "xhtml": "anna_karenina_2_108.xhtml",
+                "id": 107,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "IV"
+              },
+              {
+                "filename": "anna_karenina_2_109.md",
+                "xhtml": "anna_karenina_2_109.xhtml",
+                "id": 108,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "V"
+              },
+              {
+                "filename": "anna_karenina_2_110.md",
+                "xhtml": "anna_karenina_2_110.xhtml",
+                "id": 109,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "VI"
+              },
+              {
+                "filename": "anna_karenina_2_111.md",
+                "xhtml": "anna_karenina_2_111.xhtml",
+                "id": 110,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "VII"
+              },
+              {
+                "filename": "anna_karenina_2_112.md",
+                "xhtml": "anna_karenina_2_112.xhtml",
+                "id": 111,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "VIII"
+              },
+              {
+                "filename": "anna_karenina_2_113.md",
+                "xhtml": "anna_karenina_2_113.xhtml",
+                "id": 112,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "IX"
+              },
+              {
+                "filename": "anna_karenina_2_114.md",
+                "xhtml": "anna_karenina_2_114.xhtml",
+                "id": 113,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "X"
+              },
+              {
+                "filename": "anna_karenina_2_115.md",
+                "xhtml": "anna_karenina_2_115.xhtml",
+                "id": 114,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XI"
+              },
+              {
+                "filename": "anna_karenina_2_116.md",
+                "xhtml": "anna_karenina_2_116.xhtml",
+                "id": 115,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XII"
+              },
+              {
+                "filename": "anna_karenina_2_117.md",
+                "xhtml": "anna_karenina_2_117.xhtml",
+                "id": 116,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XIII"
+              },
+              {
+                "filename": "anna_karenina_2_118.md",
+                "xhtml": "anna_karenina_2_118.xhtml",
+                "id": 117,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XIV"
+              },
+              {
+                "filename": "anna_karenina_2_119.md",
+                "xhtml": "anna_karenina_2_119.xhtml",
+                "id": 118,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XV"
+              },
+              {
+                "filename": "anna_karenina_2_120.md",
+                "xhtml": "anna_karenina_2_120.xhtml",
+                "id": 119,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XVI"
+              },
+              {
+                "filename": "anna_karenina_2_121.md",
+                "xhtml": "anna_karenina_2_121.xhtml",
+                "id": 120,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XVII"
+              },
+              {
+                "filename": "anna_karenina_2_122.md",
+                "xhtml": "anna_karenina_2_122.xhtml",
+                "id": 121,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XVIII"
+              },
+              {
+                "filename": "anna_karenina_2_123.md",
+                "xhtml": "anna_karenina_2_123.xhtml",
+                "id": 122,
+                "role": "chapter",
+                "listType": "plain",
+                "inToc": true,
+                "hiddenTitle": false,
+                "children": [],
+                "title": "XIX"
+              }
+            ],
+            "title": "ČÁST OSMÁ"
           },
           {
             "filename": "anna_karenina_2_124.md",
             "xhtml": "anna_karenina_2_124.xhtml",
             "id": 123,
-            "role": "chapter",
+            "role": "colophon",
             "listType": "plain",
-            "inToc": true,
+            "inToc": false,
             "hiddenTitle": false,
             "children": []
           }
@@ -1284,10 +1408,7 @@
       "identifier": "urn:uuid:ef9b486e-9487-4df2-8eed-1eba406f26b0",
       "author": "Lev Nikolajevič Tolstoj",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-09T09:16:23.822Z",
-      "edition": "beletrie",
-      "publisherShort": "mkp",
-      "languageCode": "cs"
+      "modified": "2021-12-09T09:27:45.616Z"
     },
     "chapters": [
       {
@@ -1315,715 +1436,715 @@
         "xhtml": "anna_karenina_2_004.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ČÁST PÁTÁ",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_005.md",
         "xhtml": "anna_karenina_2_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "I",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_006.md",
         "xhtml": "anna_karenina_2_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "II",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_007.md",
         "xhtml": "anna_karenina_2_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "III",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_008.md",
         "xhtml": "anna_karenina_2_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IV",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_009.md",
         "xhtml": "anna_karenina_2_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_010.md",
         "xhtml": "anna_karenina_2_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VI",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_011.md",
         "xhtml": "anna_karenina_2_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_012.md",
         "xhtml": "anna_karenina_2_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VIII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_013.md",
         "xhtml": "anna_karenina_2_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IX",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_014.md",
         "xhtml": "anna_karenina_2_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "X",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_015.md",
         "xhtml": "anna_karenina_2_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XI",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_016.md",
         "xhtml": "anna_karenina_2_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_017.md",
         "xhtml": "anna_karenina_2_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_018.md",
         "xhtml": "anna_karenina_2_018.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIV",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_019.md",
         "xhtml": "anna_karenina_2_019.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XV",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_020.md",
         "xhtml": "anna_karenina_2_020.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVI",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_021.md",
         "xhtml": "anna_karenina_2_021.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_022.md",
         "xhtml": "anna_karenina_2_022.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVIII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_023.md",
         "xhtml": "anna_karenina_2_023.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIX",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_024.md",
         "xhtml": "anna_karenina_2_024.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXSmrt",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_025.md",
         "xhtml": "anna_karenina_2_025.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXI",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_026.md",
         "xhtml": "anna_karenina_2_026.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_027.md",
         "xhtml": "anna_karenina_2_027.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXIII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_028.md",
         "xhtml": "anna_karenina_2_028.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXIV",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_029.md",
         "xhtml": "anna_karenina_2_029.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXV",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_030.md",
         "xhtml": "anna_karenina_2_030.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXVI",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_031.md",
         "xhtml": "anna_karenina_2_031.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXVII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_032.md",
         "xhtml": "anna_karenina_2_032.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXVIII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_033.md",
         "xhtml": "anna_karenina_2_033.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXIX",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_034.md",
         "xhtml": "anna_karenina_2_034.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXX",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_035.md",
         "xhtml": "anna_karenina_2_035.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXXI",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_036.md",
         "xhtml": "anna_karenina_2_036.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXXII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_037.md",
         "xhtml": "anna_karenina_2_037.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXXIII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_038.md",
         "xhtml": "anna_karenina_2_038.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ČÁST ŠESTÁ",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_039.md",
         "xhtml": "anna_karenina_2_039.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "I",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_040.md",
         "xhtml": "anna_karenina_2_040.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "II",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_041.md",
         "xhtml": "anna_karenina_2_041.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "III",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_042.md",
         "xhtml": "anna_karenina_2_042.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IV",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_043.md",
         "xhtml": "anna_karenina_2_043.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_044.md",
         "xhtml": "anna_karenina_2_044.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VI",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_045.md",
         "xhtml": "anna_karenina_2_045.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_046.md",
         "xhtml": "anna_karenina_2_046.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VIII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_047.md",
         "xhtml": "anna_karenina_2_047.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IX",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_048.md",
         "xhtml": "anna_karenina_2_048.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "X",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_049.md",
         "xhtml": "anna_karenina_2_049.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XI",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_050.md",
         "xhtml": "anna_karenina_2_050.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_051.md",
         "xhtml": "anna_karenina_2_051.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_052.md",
         "xhtml": "anna_karenina_2_052.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIV",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_053.md",
         "xhtml": "anna_karenina_2_053.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XV",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_054.md",
         "xhtml": "anna_karenina_2_054.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVI",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_055.md",
         "xhtml": "anna_karenina_2_055.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_056.md",
         "xhtml": "anna_karenina_2_056.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVIII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_057.md",
         "xhtml": "anna_karenina_2_057.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIX",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_058.md",
         "xhtml": "anna_karenina_2_058.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XX",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_059.md",
         "xhtml": "anna_karenina_2_059.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXI",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_060.md",
         "xhtml": "anna_karenina_2_060.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_061.md",
         "xhtml": "anna_karenina_2_061.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXIII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_062.md",
         "xhtml": "anna_karenina_2_062.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXIV",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_063.md",
         "xhtml": "anna_karenina_2_063.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXV",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_064.md",
         "xhtml": "anna_karenina_2_064.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXVI",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_065.md",
         "xhtml": "anna_karenina_2_065.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXVII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_066.md",
         "xhtml": "anna_karenina_2_066.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXVIII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_067.md",
         "xhtml": "anna_karenina_2_067.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXIX",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_068.md",
         "xhtml": "anna_karenina_2_068.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXX",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_069.md",
         "xhtml": "anna_karenina_2_069.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXXI",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_070.md",
         "xhtml": "anna_karenina_2_070.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXXII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_071.md",
         "xhtml": "anna_karenina_2_071.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ČÁST SEDMÁ",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_072.md",
         "xhtml": "anna_karenina_2_072.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "I",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_073.md",
         "xhtml": "anna_karenina_2_073.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "II",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_074.md",
         "xhtml": "anna_karenina_2_074.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "III",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_075.md",
         "xhtml": "anna_karenina_2_075.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IV",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_076.md",
         "xhtml": "anna_karenina_2_076.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_077.md",
         "xhtml": "anna_karenina_2_077.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VI",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_078.md",
         "xhtml": "anna_karenina_2_078.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_079.md",
         "xhtml": "anna_karenina_2_079.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VIII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_080.md",
         "xhtml": "anna_karenina_2_080.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IX",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_081.md",
         "xhtml": "anna_karenina_2_081.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "X",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_082.md",
         "xhtml": "anna_karenina_2_082.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XI",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_083.md",
         "xhtml": "anna_karenina_2_083.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_084.md",
         "xhtml": "anna_karenina_2_084.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_085.md",
         "xhtml": "anna_karenina_2_085.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIV",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_086.md",
         "xhtml": "anna_karenina_2_086.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XV",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_087.md",
         "xhtml": "anna_karenina_2_087.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVI",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_088.md",
         "xhtml": "anna_karenina_2_088.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_089.md",
         "xhtml": "anna_karenina_2_089.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVIII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_090.md",
         "xhtml": "anna_karenina_2_090.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIX",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_091.md",
         "xhtml": "anna_karenina_2_091.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XX",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_092.md",
         "xhtml": "anna_karenina_2_092.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXI",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_093.md",
         "xhtml": "anna_karenina_2_093.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_094.md",
         "xhtml": "anna_karenina_2_094.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXIII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_095.md",
         "xhtml": "anna_karenina_2_095.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXIV",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_096.md",
         "xhtml": "anna_karenina_2_096.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXV",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_097.md",
         "xhtml": "anna_karenina_2_097.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXVI",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_098.md",
         "xhtml": "anna_karenina_2_098.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXVII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_099.md",
         "xhtml": "anna_karenina_2_099.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXVIII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_100.md",
         "xhtml": "anna_karenina_2_100.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXIX",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_101.md",
         "xhtml": "anna_karenina_2_101.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXX",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_102.md",
         "xhtml": "anna_karenina_2_102.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XXXI",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_103.md",
         "xhtml": "anna_karenina_2_103.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "ČÁST OSMÁ",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_104.md",
         "xhtml": "anna_karenina_2_104.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "I",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_105.md",
         "xhtml": "anna_karenina_2_105.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "II",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_106.md",
         "xhtml": "anna_karenina_2_106.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "III",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_107.md",
         "xhtml": "anna_karenina_2_107.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IV",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_108.md",
         "xhtml": "anna_karenina_2_108.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "V",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_109.md",
         "xhtml": "anna_karenina_2_109.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VI",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_110.md",
         "xhtml": "anna_karenina_2_110.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_111.md",
         "xhtml": "anna_karenina_2_111.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "VIII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_112.md",
         "xhtml": "anna_karenina_2_112.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "IX",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_113.md",
         "xhtml": "anna_karenina_2_113.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "X",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_114.md",
         "xhtml": "anna_karenina_2_114.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XI",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_115.md",
         "xhtml": "anna_karenina_2_115.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_116.md",
         "xhtml": "anna_karenina_2_116.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_117.md",
         "xhtml": "anna_karenina_2_117.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIV",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_118.md",
         "xhtml": "anna_karenina_2_118.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XV",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_119.md",
         "xhtml": "anna_karenina_2_119.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVI",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_120.md",
         "xhtml": "anna_karenina_2_120.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_121.md",
         "xhtml": "anna_karenina_2_121.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XVIII",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_122.md",
         "xhtml": "anna_karenina_2_122.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "XIX",
         "subtitleSuggest": "",
         "filename": "anna_karenina_2_123.md",
         "xhtml": "anna_karenina_2_123.xhtml"
@@ -2108,6 +2229,6 @@
       "user": "books-are-next",
       "repo": "anna-kareninova-ii"
     },
-    "generatedAt": 1639041384946
+    "generatedAt": 1639042066857
   }
 }
