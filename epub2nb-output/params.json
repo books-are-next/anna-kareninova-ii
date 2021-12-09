@@ -83,6 +83,7 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
+            "title": "ČÁST PÁTÁ",
             "children": [
               {
                 "filename": "anna_karenina_2_006.md",
@@ -92,8 +93,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "I"
+                "title": "I",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_007.md",
@@ -103,8 +104,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "II"
+                "title": "II",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_008.md",
@@ -114,8 +115,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "III"
+                "title": "III",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_009.md",
@@ -125,8 +126,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "IV"
+                "title": "IV",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_010.md",
@@ -136,8 +137,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "V"
+                "title": "V",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_011.md",
@@ -147,8 +148,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "VI"
+                "title": "VI",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_012.md",
@@ -158,8 +159,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "VII"
+                "title": "VII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_013.md",
@@ -169,8 +170,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "VIII"
+                "title": "VIII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_014.md",
@@ -180,8 +181,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "IX"
+                "title": "IX",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_015.md",
@@ -191,8 +192,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "X"
+                "title": "X",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_016.md",
@@ -202,8 +203,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XI"
+                "title": "XI",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_017.md",
@@ -213,8 +214,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XII"
+                "title": "XII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_018.md",
@@ -224,8 +225,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XIII"
+                "title": "XIII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_019.md",
@@ -235,8 +236,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XIV"
+                "title": "XIV",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_020.md",
@@ -246,8 +247,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XV"
+                "title": "XV",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_021.md",
@@ -257,8 +258,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XVI"
+                "title": "XVI",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_022.md",
@@ -268,8 +269,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XVII"
+                "title": "XVII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_023.md",
@@ -279,8 +280,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XVIII"
+                "title": "XVIII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_024.md",
@@ -290,8 +291,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XIX"
+                "title": "XIX",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_025.md",
@@ -300,9 +301,9 @@
                 "role": "chapter",
                 "listType": "plain",
                 "inToc": true,
-                "hiddenTitle": false,
-                "children": [],
-                "title": "XX Smrt"
+                "hiddenTitle": true,
+                "title": "XX Smrt",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_026.md",
@@ -312,8 +313,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXI"
+                "title": "XXI",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_027.md",
@@ -323,8 +324,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXII"
+                "title": "XXII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_028.md",
@@ -334,8 +335,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXIII"
+                "title": "XXIII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_029.md",
@@ -345,8 +346,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXIV"
+                "title": "XXIV",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_030.md",
@@ -356,8 +357,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXV"
+                "title": "XXV",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_031.md",
@@ -367,8 +368,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXVI"
+                "title": "XXVI",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_032.md",
@@ -378,8 +379,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXVII"
+                "title": "XXVII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_033.md",
@@ -389,8 +390,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXVIII"
+                "title": "XXVIII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_034.md",
@@ -400,8 +401,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXIX"
+                "title": "XXIX",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_035.md",
@@ -411,8 +412,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXX"
+                "title": "XXX",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_036.md",
@@ -422,8 +423,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXXI"
+                "title": "XXXI",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_037.md",
@@ -433,8 +434,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXXII"
+                "title": "XXXII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_038.md",
@@ -444,11 +445,10 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXXIII"
+                "title": "XXXIII",
+                "children": []
               }
-            ],
-            "title": "ČÁST PÁTÁ"
+            ]
           },
           {
             "filename": "anna_karenina_2_039.md",
@@ -458,6 +458,7 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
+            "title": "ČÁST ŠESTÁ",
             "children": [
               {
                 "filename": "anna_karenina_2_040.md",
@@ -467,8 +468,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "I"
+                "title": "I",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_041.md",
@@ -478,8 +479,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "II"
+                "title": "II",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_042.md",
@@ -489,8 +490,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "III"
+                "title": "III",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_043.md",
@@ -500,8 +501,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "IV"
+                "title": "IV",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_044.md",
@@ -511,8 +512,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "V"
+                "title": "V",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_045.md",
@@ -522,8 +523,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "VI"
+                "title": "VI",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_046.md",
@@ -533,8 +534,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "VII"
+                "title": "VII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_047.md",
@@ -544,8 +545,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "VIII"
+                "title": "VIII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_048.md",
@@ -555,8 +556,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "IX"
+                "title": "IX",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_049.md",
@@ -566,8 +567,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "X"
+                "title": "X",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_050.md",
@@ -577,8 +578,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XI"
+                "title": "XI",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_051.md",
@@ -588,8 +589,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XII"
+                "title": "XII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_052.md",
@@ -599,8 +600,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XIII"
+                "title": "XIII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_053.md",
@@ -610,8 +611,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XIV"
+                "title": "XIV",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_054.md",
@@ -621,8 +622,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XV"
+                "title": "XV",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_055.md",
@@ -632,8 +633,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XVI"
+                "title": "XVI",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_056.md",
@@ -643,8 +644,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XVII"
+                "title": "XVII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_057.md",
@@ -654,8 +655,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XVIII"
+                "title": "XVIII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_058.md",
@@ -665,8 +666,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XIX"
+                "title": "XIX",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_059.md",
@@ -676,8 +677,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XX"
+                "title": "XX",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_060.md",
@@ -687,8 +688,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXI"
+                "title": "XXI",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_061.md",
@@ -698,8 +699,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXII"
+                "title": "XXII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_062.md",
@@ -709,8 +710,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXIII"
+                "title": "XXIII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_063.md",
@@ -720,8 +721,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXIV"
+                "title": "XXIV",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_064.md",
@@ -731,8 +732,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXV"
+                "title": "XXV",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_065.md",
@@ -742,8 +743,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXVI"
+                "title": "XXVI",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_066.md",
@@ -753,8 +754,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXVII"
+                "title": "XXVII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_067.md",
@@ -764,8 +765,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXVIII"
+                "title": "XXVIII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_068.md",
@@ -775,8 +776,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXIX"
+                "title": "XXIX",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_069.md",
@@ -786,8 +787,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXX"
+                "title": "XXX",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_070.md",
@@ -797,8 +798,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXXI"
+                "title": "XXXI",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_071.md",
@@ -808,11 +809,10 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXXII"
+                "title": "XXXII",
+                "children": []
               }
-            ],
-            "title": "ČÁST ŠESTÁ"
+            ]
           },
           {
             "filename": "anna_karenina_2_072.md",
@@ -822,6 +822,7 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
+            "title": "ČÁST SEDMÁ",
             "children": [
               {
                 "filename": "anna_karenina_2_073.md",
@@ -831,8 +832,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "I"
+                "title": "I",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_074.md",
@@ -842,8 +843,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "II"
+                "title": "II",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_075.md",
@@ -853,8 +854,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "III"
+                "title": "III",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_076.md",
@@ -864,8 +865,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "IV"
+                "title": "IV",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_077.md",
@@ -875,8 +876,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "V"
+                "title": "V",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_078.md",
@@ -886,8 +887,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "VI"
+                "title": "VI",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_079.md",
@@ -897,8 +898,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "VII"
+                "title": "VII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_080.md",
@@ -908,8 +909,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "VIII"
+                "title": "VIII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_081.md",
@@ -919,8 +920,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "IX"
+                "title": "IX",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_082.md",
@@ -930,8 +931,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "X"
+                "title": "X",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_083.md",
@@ -941,8 +942,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XI"
+                "title": "XI",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_084.md",
@@ -952,8 +953,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XII"
+                "title": "XII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_085.md",
@@ -963,8 +964,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XIII"
+                "title": "XIII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_086.md",
@@ -974,8 +975,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XIV"
+                "title": "XIV",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_087.md",
@@ -985,8 +986,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XV"
+                "title": "XV",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_088.md",
@@ -996,8 +997,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XVI"
+                "title": "XVI",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_089.md",
@@ -1007,8 +1008,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XVII"
+                "title": "XVII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_090.md",
@@ -1018,8 +1019,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XVIII"
+                "title": "XVIII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_091.md",
@@ -1029,8 +1030,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XIX"
+                "title": "XIX",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_092.md",
@@ -1040,8 +1041,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XX"
+                "title": "XX",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_093.md",
@@ -1051,8 +1052,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXI"
+                "title": "XXI",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_094.md",
@@ -1062,8 +1063,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXII"
+                "title": "XXII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_095.md",
@@ -1073,8 +1074,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXIII"
+                "title": "XXIII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_096.md",
@@ -1084,8 +1085,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXIV"
+                "title": "XXIV",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_097.md",
@@ -1095,8 +1096,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXV"
+                "title": "XXV",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_098.md",
@@ -1106,8 +1107,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXVI"
+                "title": "XXVI",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_099.md",
@@ -1117,8 +1118,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXVII"
+                "title": "XXVII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_100.md",
@@ -1128,8 +1129,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXVIII"
+                "title": "XXVIII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_101.md",
@@ -1139,8 +1140,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXIX"
+                "title": "XXIX",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_102.md",
@@ -1150,8 +1151,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXX"
+                "title": "XXX",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_103.md",
@@ -1161,11 +1162,10 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XXXI"
+                "title": "XXXI",
+                "children": []
               }
-            ],
-            "title": "ČÁST SEDMÁ"
+            ]
           },
           {
             "filename": "anna_karenina_2_104.md",
@@ -1175,6 +1175,7 @@
             "listType": "plain",
             "inToc": true,
             "hiddenTitle": false,
+            "title": "ČÁST OSMÁ",
             "children": [
               {
                 "filename": "anna_karenina_2_105.md",
@@ -1184,8 +1185,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "I"
+                "title": "I",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_106.md",
@@ -1195,8 +1196,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "II"
+                "title": "II",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_107.md",
@@ -1206,8 +1207,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "III"
+                "title": "III",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_108.md",
@@ -1217,8 +1218,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "IV"
+                "title": "IV",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_109.md",
@@ -1228,8 +1229,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "V"
+                "title": "V",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_110.md",
@@ -1239,8 +1240,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "VI"
+                "title": "VI",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_111.md",
@@ -1250,8 +1251,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "VII"
+                "title": "VII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_112.md",
@@ -1261,8 +1262,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "VIII"
+                "title": "VIII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_113.md",
@@ -1272,8 +1273,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "IX"
+                "title": "IX",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_114.md",
@@ -1283,8 +1284,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "X"
+                "title": "X",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_115.md",
@@ -1294,8 +1295,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XI"
+                "title": "XI",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_116.md",
@@ -1305,8 +1306,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XII"
+                "title": "XII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_117.md",
@@ -1316,8 +1317,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XIII"
+                "title": "XIII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_118.md",
@@ -1327,8 +1328,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XIV"
+                "title": "XIV",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_119.md",
@@ -1338,8 +1339,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XV"
+                "title": "XV",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_120.md",
@@ -1349,8 +1350,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XVI"
+                "title": "XVI",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_121.md",
@@ -1360,8 +1361,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XVII"
+                "title": "XVII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_122.md",
@@ -1371,8 +1372,8 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XVIII"
+                "title": "XVIII",
+                "children": []
               },
               {
                 "filename": "anna_karenina_2_123.md",
@@ -1382,11 +1383,10 @@
                 "listType": "plain",
                 "inToc": true,
                 "hiddenTitle": false,
-                "children": [],
-                "title": "XIX"
+                "title": "XIX",
+                "children": []
               }
-            ],
-            "title": "ČÁST OSMÁ"
+            ]
           },
           {
             "filename": "anna_karenina_2_124.md",
@@ -1408,7 +1408,7 @@
       "identifier": "urn:uuid:ef9b486e-9487-4df2-8eed-1eba406f26b0",
       "author": "Lev Nikolajevič Tolstoj",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-09T09:50:44.450Z"
+      "modified": "2021-12-09T10:01:04.001Z"
     },
     "chapters": [
       {
@@ -2229,6 +2229,6 @@
       "user": "books-are-next",
       "repo": "anna-kareninova-ii"
     },
-    "generatedAt": 1639043445724
+    "generatedAt": 1639044065175
   }
 }

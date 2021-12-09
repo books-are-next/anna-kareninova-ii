@@ -199,7 +199,7 @@ tocBase:
             hiddenTitle: false
           - link: anna_karenina_2_025.html
             title: XX Smrt
-            hiddenTitle: false
+            hiddenTitle: true
           - link: anna_karenina_2_026.html
             title: XXI
             hiddenTitle: false
