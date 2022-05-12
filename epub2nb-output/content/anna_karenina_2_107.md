@@ -1,5 +1,6 @@
 ---
 title: III
+contentType: prose
 ---
 
 Koznyšov se rozloučil s kněžnou, spolu s Katavasovem, který mezitím přišel, vstoupil do nabitého vozu, a vlak se dal do pohybu.

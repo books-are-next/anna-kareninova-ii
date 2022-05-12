@@ -1,5 +1,6 @@
 ---
 title: XVII
+contentType: prose
 ---
 
 Kočí zastavil čtyřspřeží a ohlédl se napravo, kde v žitném poli seděli u vozu rolníci. Kancelista chtěl seskočit, ale pak se rozmyslil a velitelsky křikl na sedláčka, aby šel k němu. Větřík, který cítili, dokud jeli, ustal, jakmile zastavili. Ovádi se sesypali na zpocené koně a ti se zlostně oháněli. U vozu naklepávali kosu, ale teď kovový zvuk utichl. Jeden z rolníků se zdvihl a kráčel ke kolesce.

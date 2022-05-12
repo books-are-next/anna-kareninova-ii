@@ -1,5 +1,6 @@
 ---
 title: XVIII
+contentType: prose
 ---
 
 Levin se nemohl na bratra klidně dívat, nedovedl být v jeho přítomnosti klidný a nenucený. Kdykoli k nemocnému vcházel, jeho zrak a pozornost mimovolně ochabovaly, takže neviděl a nerozeznával jednotlivé podrobnosti v bratrově stavu. Cítil hrozný puch, viděl špínu a nepořádek, viděl utrpení, slyšel tichý nářek a cítil, že není pomoci. Ani na mysl mu nepřišlo, aby dopodrobna uvažoval o bratrově stavu, aby si představoval, jak asi leží pod pokrývkou to tělo, jak jsou složeny ty vyzáblé zkroucené bérce, kříž a záda a zda by nemohly být uloženy nějak lépe, zda by se nedalo něco udělat, aby bylo ne snad lépe, ale aspoň ne tak zle. Běhal mu mráz po zádech, kdykoli myslil na všecky ty podrobnosti. Byl nezvratně přesvědčen, že se nedá nic dělat, že bratrovi nelze ani prodloužit život, ani zmírnit útrapy. Ale nemocný tušil, že bratr pokládá jakoukoli pomoc za nemožnou, a to ho dráždilo. Proto byl na tom Levin ještě hůř. Prodlévat v pokoji nemocného bylo pro něho mukou, a když tam nebyl, bylo to ještě horší. A tak ustavičně pod různými záminkami odcházel a znova se vracel, protože nemohl zůstat sám.

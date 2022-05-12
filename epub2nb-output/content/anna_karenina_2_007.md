@@ -1,5 +1,6 @@
 ---
 title: II
+contentType: prose
 ---
 
 V den svatby Levin podle starodávného zvyku (kněžna a Darja Alexandrovna úzkostlivě lpěly na zachování všech obyčejů) svou nevěstu neviděl a obědval v hotelu s třemi mládenci, kteří se u něho náhodou sešli. Byl to Sergej Ivanovič Koznyšov, potom Katavasov, kolega ze studií, dnes profesor přírodních věd, jehož Levin potkal na ulici a zatáhl k sobě, a konečně Levinův družba Girikov, moskevský smírčí soudce, který s ním chodil na medvědy. U oběda bylo tuze veselo. Sergej Ivanovič byl v nejlepším rozmaru a bavil se originalitou pana Katavasova. Katavasov s vědomím, že jeho originalita je oceňována a chápána, stavěl ji na odiv. Čirikov se vesele a dobrácky připojoval ke každé debatě.

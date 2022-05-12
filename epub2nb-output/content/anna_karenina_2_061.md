@@ -1,5 +1,6 @@
 ---
 title: XXII
+contentType: prose
 ---
 
 Anna se vrátila o chvíli později, a když se setkala s Dolly, pozorně jí pohlédla do očí, jako by se tázala, o čem s Vronským mluvili. Ale nahlas se nezeptala.

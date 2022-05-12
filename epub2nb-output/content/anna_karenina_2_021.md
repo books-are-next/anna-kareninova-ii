@@ -1,5 +1,6 @@
 ---
 title: XVI
+contentType: prose
 ---
 
 Když přišel Levin nahoru, seděla jeho žena u nového samovaru nad novým čajovým servisem. Posadila si k malému stolku starou Agafju, nalila jí šálek čaje a četla psaní od Dolly, s kterou si pravidelně a pilně dopisovala.

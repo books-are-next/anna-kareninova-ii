@@ -1,5 +1,6 @@
 ---
 title: V
+contentType: prose
 ---
 
 Na matiné byly na pořadu dvě velice zajímavé skladby.

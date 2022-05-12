@@ -1,5 +1,6 @@
 ---
 title: XXV
+contentType: prose
 ---
 
 Vronskij a Anna strávili celé léto a část podzimu na venkově a na jejich poměrech se nic nezměnilo, dosud nic nepodnikli, aby Anna dosáhla rozvodu. Domluvili se, že nikam nepojedou. Ale čím déle žili sami, zejména na podzim a bez hostí, cítili oba, že takový život dlouho nesnesou a že jej musí změnit.

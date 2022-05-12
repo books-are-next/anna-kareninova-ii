@@ -1,5 +1,6 @@
 ---
 title: XX
+contentType: prose
 ---
 
 „Tady vám vedu Dolly, princezno, tolik jste si ji přála vidět,“ řekla Anna, když s Darjou Alexandrovnou vstoupila na velkou kamennou terasu, na které seděla ve stínu princezna Varvara a vyšívala v rámu polštář na křeslo pro hraběte Vronského. „Říká, že před obědem nechce nic jíst, ale dejte přinést svačinu, a já se půjdu podívat po Alexejovi a všecky je přivedu.“

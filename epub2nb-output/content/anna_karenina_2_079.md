@@ -1,5 +1,6 @@
 ---
 title: VII
+contentType: prose
 ---
 
 Levin přijel do klubu právě včas. V téže době přijížděli hosté a členové. Levin už nebyl v klubu velice dávno, od té doby, co žil po univerzitních studiích v Moskvě a chodíval do společnosti. Pamatoval se na klub, na vnější detaily zařízení, avšak docela zapomněl, jaké dojmy kdysi v klubu prožíval. Ale stačilo, aby vjel na prostranný obloukovitý dvůr, vystoupil z drožky a vkročil na schody, kde mu vrátný s šerpou přes prsa neslyšně otevřel dveře a uklonil se mu; stačilo, aby spatřil ve vrátnici galoše a kožichy členů, kteří usoudili, že je pohodlnější zout si galoše dole než je nosit nahoru; aby zaslechl tajemné zvonění, které ohlašovalo jeho příchod, a kráčeje po koberci na povlovném schodišti, uviděl sochu na odpočivadle a ve dveřích nahoře třetího známého, už zestárlého portýra v klubovní livreji, který rozvážně a přitom ne loudavě otvíral dveře a prohlížel si hosta, a už Levina ovanulo dávné ovzduší klubu, ovzduší odpočinku, blahobytu a dobrého tónu.

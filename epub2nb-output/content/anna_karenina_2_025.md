@@ -1,6 +1,7 @@
 ---
 title: XXSmrt
 hiddenTitle: true
+contentType: prose
 ---
 
 Příští den byla nemocnému udělena svátost oltářní a poslední pomazání. Při obřadu se Nikolaj vroucně modlil. Ve velkých očích, upřených na svatý obraz stojící na hracím stolku, přikrytém barevným ubrouskem, se mu zračila taková vášnivá prosba a naděje, že Levina při pohledu na to jímala hrůza. Levin věděl, že ta vášnivá prosba a naděje mu jenom ještě ztíží loučení s životem, který tolik miloval. Levin znal bratra a jeho myšlenkový svět. Věděl, že jeho nevěrectví nepramení z toho, že by se mu bez víry lépe žilo, ale že soudobé vědecké výklady přírodních jevů postupně vytlačily víru. A proto věděl, že jeho dnešní návrat k víře není zákonitý, že nenastal myšlenkovým pochodem, nýbrž je pouze dočasný, zištný, že je veden šílenou nadějí na zázračné uzdravení. Levin také věděl, že Kitty v něm tuto naději ještě posílila svým vyprávěním o ne­obyčejných případech vyléčení, o kterých slyšela. To všecko Levin věděl, a proto mu bolestně usedalo srdce, když viděl ten úpěnlivý pohled plný naděje a tu vyzáblou ruku, která se stěží zvedala a dělala znamení kříže na otlačené čelo s napjatou pokožkou, na vyčnělá ramena a chroptivá prázdná prsa, jež už nemohla pojmout do sebe život, o nějž nemocný prosil. Při udílení svátosti se Levin také modlil a dělal, co ve svém nevěrectví dělal už tisíckrát. Obracel se k bohu: „Jsi-li, učiň, aby se tento člověk uzdravil (vždyť se tak stalo mnohokrát), a zachráníš jeho i mne.“

@@ -1,5 +1,6 @@
 ---
 title: XVI
+contentType: prose
 ---
 
 Koznyšov, zkušený v dialektice, neodporoval a ihned zavedl řeč na jiné pole.

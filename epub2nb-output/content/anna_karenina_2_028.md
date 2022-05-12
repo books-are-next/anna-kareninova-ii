@@ -1,5 +1,6 @@
 ---
 title: XXIII
+contentType: prose
 ---
 
 Hraběnku Lydii Ivanovnu provdali jako mladičkou exaltovanou dívku za bohatého, urozeného, velice dobromyslného a velice rozmařilého muže, který měl rád zábavu a veselí. Druhý měsíc po svatbě ji opustil a na její exaltované citové výlevy reagoval jen posměchem, ba záští, kterou si lidé neuměli vysvětlit, neboť znali dobré srdce hraběte a na exaltované Lydii neviděli žádné chyby. Třebaže se nedali rozvést, žili od té doby odděleně, a kdykoli se manžel setkal s manželkou, vždy se k ní choval s obvyklou jedovatou ironií, jejíž příčina byla nepochopitelná.

@@ -1,5 +1,6 @@
 ---
 title: V
+contentType: prose
 ---
 
 V šikmém večerním stínu žoků naházených na nástupišti chodil Vronskij ve svém dlouhém plášti a naraženém klobouku, ruce v kapsách, chodil jako šelma v kleci a po každých dvaceti krocích se prudce obracel. Když se k němu Sergej Ivanovič blížil, zdálo se mu, že ho Vronskij vidí, ale dělá, jako by ho neviděl. Sergejovi Ivanoviči to nevadilo. Byl povznesen nad jakékoli osobní účty.

@@ -1,5 +1,6 @@
 ---
 title: XIV
+contentType: prose
 ---
 
 Nazítří v deset hodin, když už měl za sebou obchůzku v hospodářství, zaklepal Levin na dveře pokoje, kde spal Váseňka.

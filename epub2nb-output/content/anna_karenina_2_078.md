@@ -1,5 +1,6 @@
 ---
 title: VI
+contentType: prose
 ---
 
 „Panstvo možná nepřijímá?“ řekl Levin, když vstupoval do předsíně v domě hraběnky Bolové.

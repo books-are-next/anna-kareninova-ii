@@ -1,5 +1,6 @@
 ---
 title: XXXII
+contentType: prose
 ---
 
 Když se Vronskij vrátil, Anna ještě nebyla doma. Jak mu bylo sděleno, přijela brzo po jeho odchodu jakási dáma, a Anna odjela s ní. To, že odjela, aniž mu oznámila kam, že se dosud nevrátila, že už ráno někde byla, aniž mu co řekla – to vše spolu s její podivně vzrušenou tváří dnes dopoledne i se vzpomínkou na to, jak nevraživě mu v Jašvinově přítomnosti takřka vyrvala z rukou synovy podobenky, to vše ho přimělo k zamyšlení. Řekl si, že si spolu musí vážně promluvit. A čekal teď na ni v jejím salóně. Ale Anna se nevrátila sama. Přivedla si tetu, starou pannu, princeznu Oblonskou. Ta pro ni přijela už ráno a Anna s ní jezdila po nákupech. Anna se tvářila, že nevnímá ustaraný a tázavý obličej Vronského, a zvesela mu vykládala, co všecko dnes dopoledne koupila. Viděl, že se s ní děje něco zvláštního. Kdykoli na něm letmo utkvěly její blýskající oči, byla v nich napjatá pozornost a v řeči a v pohybech byla ona nervózní rychlost a půvab, jež ho tak okouzlovaly v prvních dobách sblížení, ale nyní ho zneklidňovaly a děsily.

@@ -1,5 +1,6 @@
 ---
 title: XXIX
+contentType: prose
 ---
 
 Anna nasedla do kolesky ve stavu ještě horším, než v jakém odjížděla z domova. K dřívější trýzni se teď připojil pocit urážky a zavržení, které si tak ostře uvědomila při setkání s Kitty.

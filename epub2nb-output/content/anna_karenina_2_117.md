@@ -1,5 +1,6 @@
 ---
 title: XIII
+contentType: prose
 ---
 
 A Levinovi se vynořil v paměti nedávný výjev s Dolly a s jejími dětmi. Děti zůstaly samy a začaly si opékat maliny nad svíčkou a mléko si lily proudem do úst. Matka je přistihla a začala jim před Levinem vštěpovat, co práce dá velkým lidem to, co ony ničí, že ta práce se koná pro ně, budou-li rozbíjet šálky, že nebudou mít z čeho pít čaj, a když budou rozlévat mléko, že nebudou mít co jíst a umřou hlady.

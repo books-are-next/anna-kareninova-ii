@@ -1,5 +1,6 @@
 ---
 title: X
+contentType: prose
 ---
 
 Váseňka poháněl koně tak zčerstva, že přijeli k bažině příliš brzo, ještě když bylo vedro.

@@ -1,5 +1,6 @@
 ---
 title: XXVII
+contentType: prose
 ---
 
 Na šestý den byly stanoveny volby gubernské. Velké i malé sály byly plné šlechticů v různých stejnokrojích. Mnozí přijeli jen na tento den. Známí, kteří se už dávno neviděli, jeden z Krymu, druhý z Petrohradu, třetí z ciziny, se potkávali v sálech. U gubernského stolu pod vladařovou podobiznou, určeného k volbám gubernského maršálka, se debatovalo.

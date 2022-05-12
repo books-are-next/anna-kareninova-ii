@@ -1,5 +1,6 @@
 ---
 title: VI
+contentType: prose
 ---
 
 Když skončil zásnubní obřad, rozprostřel žalmista před stolkem uprostřed kostela kus růžového hedvábí, sbor zapěl umný složitý žalm, v kterém se střídaly bas a tenor, a kněz se obrátil a ukázal snoubencům na prostřené růžové hedvábí. Třebaže Levin i Kitty často a mnoho slyšeli o pověře, podle které ten, kdo si první stoupne na koberec, bude hlavou rodiny, žádný si na to nevzpomněl, když udělali těch několik kroků. Neslyšeli ani hlasité poznámky a spory, neboť jedni prý viděli, že první si stoupl on, kdežto dle tvrzení druhých oba zároveň.

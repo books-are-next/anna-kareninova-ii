@@ -1,5 +1,6 @@
 ---
 title: XXIII
+contentType: prose
 ---
 
 Dolly už si chtěla lehnout, když k ní vstoupila Anna v nočním úboru.

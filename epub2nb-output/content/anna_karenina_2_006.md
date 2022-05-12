@@ -1,5 +1,6 @@
 ---
 title: I
+contentType: prose
 ---
 
 Kněžna Ščerbacká soudila, že nemohou slavit svatbu před půstem, do kterého zbývalo pět neděl, jelikož polovina výbavy by do té doby nebyla hotová. Dávala ovšem za pravdu Levinovi, že po půstu by už bylo příliš pozdě, neboť stará teta knížete Ščerbackého byla velmi nemocná a mohla každou chvíli zemřít, takže pro smutek by svatbu museli zase odložit. Proto se kněžna rozhodla, že výbavu rozdělí na dvě části, na výbavu velkou a malou, a svolila, aby se svatba konala o masopustu. Rozhodla se, že malou část výbavy pořídí už teď a velkou jim pošle později. Přitom se velice zlobila na Levina, že jí nedovede kloudně odpovědět, zda s tím souhlasí, či nikoli. Takové řešení bylo tím vhodnější, že mladí měli hned po svatbě odjet na venkov, kde věci z velké výbavy nepotřebovali.

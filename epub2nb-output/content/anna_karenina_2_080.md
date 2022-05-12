@@ -1,5 +1,6 @@
 ---
 title: VIII
+contentType: prose
 ---
 
 Když Levin vstal od stolu, cítil, jak se mu v chůzi klátí ruce zvlášť pravidelně a lehce. Šel s Gaginem prostornými místnostmi ke kulečníkové síni. Ve velkém sále potkal tchána.

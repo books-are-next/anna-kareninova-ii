@@ -1,5 +1,6 @@
 ---
 title: XV
+contentType: prose
 ---
 
 Levin doprovodil ženu nahoru a pak šel za Dolly. Darja Alexandrovna dnes také měla samé mrzutosti. Chodila po pokoji a hněvivě mluvila k děvčátku, které stálo v koutě a brečelo.

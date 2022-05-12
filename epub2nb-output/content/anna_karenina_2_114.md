@@ -1,5 +1,6 @@
 ---
 title: X
+contentType: prose
 ---
 
 Když Levin o sobě přemýšlel, co vlastně je a proč žije, nenalézal odpověď a propadal zoufalství; ale když se na to přestal v duchu ptát, najednou jaksi věděl, co je i proč žije, poněvadž jednal a žil s jistotou a určitostí; ta životní jistota a určitost byla poslední čas dokonce větší než dříve.

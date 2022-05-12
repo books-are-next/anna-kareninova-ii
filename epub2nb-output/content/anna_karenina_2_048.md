@@ -1,5 +1,6 @@
 ---
 title: IX
+contentType: prose
 ---
 
 „Tak jakou máme maršrutu? Popiš nám to podrobně,“ řekl Oblonskij.

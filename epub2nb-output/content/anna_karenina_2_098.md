@@ -1,5 +1,6 @@
 ---
 title: XXVI
+contentType: prose
 ---
 
 Ještě nikdy se nepohádali na celý den. Dnes se to stalo poprvé. A nebyla to rozepře. Bylo to otevřené přiznání k naprostému ochladnutí. Což by se jinak mohl na ni podívat tak, jak se na ni podíval, když si přišel do pokoje pro rodokmen? Podívat se na ni, vidět, že srdce jí puká zoufalstvím, a minout ji s takovým lhostejným, klidným obličejem? Nejenže k ní ochladl, ale nenáviděl ji, protože miloval jinou ženu – to bylo jasné.

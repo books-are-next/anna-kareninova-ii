@@ -1,5 +1,6 @@
 ---
 title: XXXI
+contentType: prose
 ---
 
 Ozvalo se zvonění, kolem přešli nějací mladí muži, ohyzdní a drzí. Chvátali, ale přitom dávali pozor, jaký budí dojem. Čekárnou přešel i Petr ve své livreji a botkách, s tupým živočišným obličejem, a přistoupil k Anně, aby ji doprovodil k vozu. Povykující muži ztichli, když šla kolem po nástupišti, a jeden cosi zašeptal druhému, jistěže nějakou ohavnost. Anna vystoupila na vysoké stupátko a usedla sama v kupé na pérované sedadlo, kdysi bílé, teď už zašpiněné. Kabela poskočila na pérách a zůstala ležet. Petr s pitomým úsměvem smekl u okna na rozloučenou svůj premovaný klobouk, drzý průvodčí přibouchl dvířka a otočil kličkou. Ohyzdná dáma s honzíkem (Anna si v duchu tu ženu svlékla a zhrozila se její šerednosti) a děvčátko, nepřirozeně se smějící, přeběhly podél vozu.

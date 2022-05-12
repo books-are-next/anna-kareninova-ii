@@ -1,5 +1,6 @@
 ---
 title: XXVI
+contentType: prose
 ---
 
 V září se Levin přestěhoval do Moskvy, kde měla Kitty rodit. Žil tam nečinně už celý měsíc, když se Sergej Ivanovič Koznyšov, který měl v kašinské gubernii statek a velmi se o nadcházející volby zajímal, začal chystat na cestu. Zval s sebou i bratra, který měl hlasovací právo za selezněcký okres. Kromě toho měl Levin v Kašinu vyřídit své sestře žijící v cizině naléhavou záležitost opatrovnickou a převzít pro ni peníze za vykoupenou půdu.

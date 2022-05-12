@@ -1,5 +1,6 @@
 ---
 title: III
+contentType: prose
 ---
 
 Za svého nynějšího pobytu v Moskvě se Levin opět začal stýkat s bývalým kolegou ze studií profesorem Katavasovem, s kterým se od svatby neviděl. Na Katavasovovi mu imponoval jeho jasný a prostý světový názor. Levin se domníval, že Katavasovův jasný světový názor plyne z jeho jednoduché povahy, kdežto Katavasov soudil, že Levinova názorová nedůslednost plyne z nedostatku duševní kázně. Avšak Levinovi se líbila profesorova jednoznačnost a nadbytek Levinových neukázněných myšlenek se líbil profesorovi. Rádi se scházeli a debatovali.

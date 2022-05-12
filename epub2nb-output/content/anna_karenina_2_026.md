@@ -1,5 +1,6 @@
 ---
 title: XXI
+contentType: prose
 ---
 
 Od chvíle, co Alexej Alexandrovič z rozmluvy s Betsy a se Stěpanem Arkaďjičem pochopil, že se od něho nežádá nic, než aby nechal ženu na pokoji a neobtěžoval ji svou přítomností, a že si to přeje i sama žena, od té chvíle byl tak zlomen, že si v ničem nevěděl rady, sám nevěděl, co teď chce, a proto vložil svůj osud do rukou těm, kdo se o něho s takovou oblibou starali, a na všecko souhlasně přikyvoval. Teprve když Anna už odjela z jeho domu a anglická vychovatelka k němu poslala s dotazem, zda má obědvat s ním, či odděleně, tu si poprvé jasně uvědomil svou situaci a zhrozil se jí.

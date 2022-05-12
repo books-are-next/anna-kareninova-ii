@@ -1,5 +1,6 @@
 ---
 title: XXIV
+contentType: prose
 ---
 
 „Bavil ses dobře?“ otázala se Anna, když ho s provinilou a smířlivou tváří šla přivítat.

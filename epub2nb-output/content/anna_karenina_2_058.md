@@ -1,5 +1,6 @@
 ---
 title: XIX
+contentType: prose
 ---
 
 Když Darja Alexandrovna osaměla, prohlédla si okem hospodyně svůj pokoj. Všechno, co viděla, když přijížděla k domu a když jím procházela, i co viděla nyní ve svém pokoji, vše na ni působilo dojmem blahobytu a elegance i onoho moderního evropského přepychu, o kterém pouze četla v anglických románech, ale který ještě nikdy neviděla v Rusku, zvláště ne na venkově. Vše bylo nové, od nových francouzských tapet až po koberec, natažený přes celý pokoj. Postel byla pérovaná, s žíněnkou, se zvláštním podhlavníkem a s hedvábnými povlaky na malých polštářích. Mramorové umyvadlo, toaletní stolek, pohovka, stoly, bronzové hodiny na krbu, záclony a závěsy – vše bylo drahé a moderní.

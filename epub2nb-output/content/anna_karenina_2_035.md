@@ -1,5 +1,6 @@
 ---
 title: XXX
+contentType: prose
 ---
 
 Vasilij Lukič zprvu nechápal, kdo je ta dáma, až potom z jejich rozhovoru poznal, že je to Serjožova matka, která opustila muže a kterou nezná, protože přišel ke Kareninovým až po jejím odchodu. Byl nyní na rozpacích, zda má vstoupit, či nikoli, anebo to oznámit Alexeji Alexandroviči. Nakonec uvážil, že jeho povinností je budit Serjožu v určitou hodinu a že tedy nemá co hloubat, kdo tam sedí, zda matka, či někdo jiný, ale musí konat svou povinnost. Ustrojil se, šel ke dveřím a otevřel je.

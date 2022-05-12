@@ -1,5 +1,6 @@
 ---
 title: XII
+contentType: prose
 ---
 
 Levin procitl časně na úsvitu a pokusil se vzbudit kamarády. Váseňka ležel na břiše, jednu nohu v punčoše nataženou, a spal tak tvrdě, že z něho Levin nedostal odpověď. Oblonskij zahučel ze spaní, že tak brzo nepůjde. I Laska, která spala stočená do klubíčka v koutě na seně, vstala nerada a líně si protahovala a narovnávala zadní nohy. Levin se obul, vzal pušku, opatrně otevřel vrzavé dveře a vyšel ven. Vozkové spali u povozů, koně dřímali. Jen jeden líně žral oves a rozhazoval jej chřípím po žlabu. Venku bylo ještě šero.

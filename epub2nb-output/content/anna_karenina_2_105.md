@@ -1,5 +1,6 @@
 ---
 title: I
+contentType: prose
 ---
 
 Uplynuly skoro dva měsíce. Byla už polovina horkého léta, ale Sergej Ivanovič Koznyšov se teprve teď chystal odjet z Moskvy.

@@ -1,5 +1,6 @@
 ---
 title: XI
+contentType: prose
 ---
 
 Taková úžasná, milá a ubohá žena, myslil si Levin, když vycházel se Stěpanem Arkaďjičem na mrazivý vzduch.

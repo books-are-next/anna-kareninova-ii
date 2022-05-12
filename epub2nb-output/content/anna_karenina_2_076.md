@@ -1,5 +1,6 @@
 ---
 title: IV
+contentType: prose
 ---
 
 Lvov, choť Kittiny sestry Natali, strávil celý život v hlavních městech a v cizině, kde také byl vychován a později sloužil jako diplomat.

@@ -1,5 +1,6 @@
 ---
 title: VIII
+contentType: prose
 ---
 
 V prvním údobí po svém vysvobození a rychlém uzdravení si Anna připadala až hříšně šťastná a plná radosti ze života. Vzpomínka na nešťastného manžela její štěstí nekalila. Ta vzpomínka jednak byla příliš děsivá, než aby na to myslila, jednak jí manželovo neštěstí přineslo příliš velké štěstí, než aby litovala. Vzpomínka na vše, co prožila po nemoci: smíření s mužem, rozchod, zpráva o zranění Vronského, jeho příchod, přípravy k rozvodu, odchod z mužova domu, loučení se synem – to vše jí připadalo jako horečný sen, z něhož procitla, když se octla sama s Vronským v cizině. Vzpomínka na neštěstí, do něhož uvrhla muže, v ní budila pocit blízký ošklivosti, asi takový, jaký by měl tonoucí, kdyby se vytrhl člověku, který se ho křečovitě držel. Ten člověk utonul. Jistěže to byla špatnost, ale byla to jediná možnost, jak se zachránit, a raději na ty hrozné podrobnosti ani nevzpomínat.

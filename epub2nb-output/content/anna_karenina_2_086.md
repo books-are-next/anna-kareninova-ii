@@ -1,5 +1,6 @@
 ---
 title: XIV
+contentType: prose
 ---
 
 Lékař ještě nebyl vzhůru a sluha oznámil, že „pan doktor šel pozdě spát a říkal, ať ho nebudí, ale že brzo vstane“. Sluha zrovna čistil lampy a tvářil se velice zaměstnaně. Sluhova horlivá péče o lampy a jeho lhostejnost k tomu, co se děje u Levinů, zpočátku Levina udivila, ale hned se vzpamatoval a uvědomil si, že nikdo neví ani není povinen vědět o jeho pocitech a že tím spíš musí jednat klidně, s rozmyslem a energicky, aby prorazil tu zeď lhostejnosti a dosáhl cíle. Neunáhlit se a nic neopominout, říkal si Levin. Pociťoval stále rostoucí vzepětí fyzických sil i pozornosti ke všemu, co měl udělat.

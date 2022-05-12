@@ -1,5 +1,6 @@
 ---
 title: II
+contentType: prose
 ---
 
 „Tak zajeď prosím tě k Bolovým,“ řekla Kitty manželovi, když se v jedenáct hodin stavil u ní, dříve než odešel z domu. „Vím, že obědváš v klubu, tatínek tě dal zapsat. A co budeš dělat dopoledne?“

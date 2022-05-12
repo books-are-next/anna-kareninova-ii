@@ -1,21 +1,146 @@
 {
-  "author": "Lev Nikolajevič Tolstoj",
-  "edition": "beletrie",
-  "identifier": "tolstoj-anna-kareninova-ii-e90d1db",
-  "languagecode": "cs",
-  "modified": "2021-12-09T09:16:23.822Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Anna Kareninová II",
-  "revision": "e90d1db",
+  "author": "Lev Nikolajevič Tolstoj",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "tolstoj-anna-kareninova-ii-b681138",
+  "revision": "b681138",
+  "readingOrder": [
+    "promo.html",
+    "anna_karenina_2_005.html",
+    "anna_karenina_2_006.html",
+    "anna_karenina_2_007.html",
+    "anna_karenina_2_008.html",
+    "anna_karenina_2_009.html",
+    "anna_karenina_2_010.html",
+    "anna_karenina_2_011.html",
+    "anna_karenina_2_012.html",
+    "anna_karenina_2_013.html",
+    "anna_karenina_2_014.html",
+    "anna_karenina_2_015.html",
+    "anna_karenina_2_016.html",
+    "anna_karenina_2_017.html",
+    "anna_karenina_2_018.html",
+    "anna_karenina_2_019.html",
+    "anna_karenina_2_020.html",
+    "anna_karenina_2_021.html",
+    "anna_karenina_2_022.html",
+    "anna_karenina_2_023.html",
+    "anna_karenina_2_024.html",
+    "anna_karenina_2_025.html",
+    "anna_karenina_2_026.html",
+    "anna_karenina_2_027.html",
+    "anna_karenina_2_028.html",
+    "anna_karenina_2_029.html",
+    "anna_karenina_2_030.html",
+    "anna_karenina_2_031.html",
+    "anna_karenina_2_032.html",
+    "anna_karenina_2_033.html",
+    "anna_karenina_2_034.html",
+    "anna_karenina_2_035.html",
+    "anna_karenina_2_036.html",
+    "anna_karenina_2_037.html",
+    "anna_karenina_2_038.html",
+    "anna_karenina_2_039.html",
+    "anna_karenina_2_040.html",
+    "anna_karenina_2_041.html",
+    "anna_karenina_2_042.html",
+    "anna_karenina_2_043.html",
+    "anna_karenina_2_044.html",
+    "anna_karenina_2_045.html",
+    "anna_karenina_2_046.html",
+    "anna_karenina_2_047.html",
+    "anna_karenina_2_048.html",
+    "anna_karenina_2_049.html",
+    "anna_karenina_2_050.html",
+    "anna_karenina_2_051.html",
+    "anna_karenina_2_052.html",
+    "anna_karenina_2_053.html",
+    "anna_karenina_2_054.html",
+    "anna_karenina_2_055.html",
+    "anna_karenina_2_056.html",
+    "anna_karenina_2_057.html",
+    "anna_karenina_2_058.html",
+    "anna_karenina_2_059.html",
+    "anna_karenina_2_060.html",
+    "anna_karenina_2_061.html",
+    "anna_karenina_2_062.html",
+    "anna_karenina_2_063.html",
+    "anna_karenina_2_064.html",
+    "anna_karenina_2_065.html",
+    "anna_karenina_2_066.html",
+    "anna_karenina_2_067.html",
+    "anna_karenina_2_068.html",
+    "anna_karenina_2_069.html",
+    "anna_karenina_2_070.html",
+    "anna_karenina_2_071.html",
+    "anna_karenina_2_072.html",
+    "anna_karenina_2_073.html",
+    "anna_karenina_2_074.html",
+    "anna_karenina_2_075.html",
+    "anna_karenina_2_076.html",
+    "anna_karenina_2_077.html",
+    "anna_karenina_2_078.html",
+    "anna_karenina_2_079.html",
+    "anna_karenina_2_080.html",
+    "anna_karenina_2_081.html",
+    "anna_karenina_2_082.html",
+    "anna_karenina_2_083.html",
+    "anna_karenina_2_084.html",
+    "anna_karenina_2_085.html",
+    "anna_karenina_2_086.html",
+    "anna_karenina_2_087.html",
+    "anna_karenina_2_088.html",
+    "anna_karenina_2_089.html",
+    "anna_karenina_2_090.html",
+    "anna_karenina_2_091.html",
+    "anna_karenina_2_092.html",
+    "anna_karenina_2_093.html",
+    "anna_karenina_2_094.html",
+    "anna_karenina_2_095.html",
+    "anna_karenina_2_096.html",
+    "anna_karenina_2_097.html",
+    "anna_karenina_2_098.html",
+    "anna_karenina_2_099.html",
+    "anna_karenina_2_100.html",
+    "anna_karenina_2_101.html",
+    "anna_karenina_2_102.html",
+    "anna_karenina_2_103.html",
+    "anna_karenina_2_104.html",
+    "anna_karenina_2_105.html",
+    "anna_karenina_2_106.html",
+    "anna_karenina_2_107.html",
+    "anna_karenina_2_108.html",
+    "anna_karenina_2_109.html",
+    "anna_karenina_2_110.html",
+    "anna_karenina_2_111.html",
+    "anna_karenina_2_112.html",
+    "anna_karenina_2_113.html",
+    "anna_karenina_2_114.html",
+    "anna_karenina_2_115.html",
+    "anna_karenina_2_116.html",
+    "anna_karenina_2_117.html",
+    "anna_karenina_2_118.html",
+    "anna_karenina_2_119.html",
+    "anna_karenina_2_120.html",
+    "anna_karenina_2_121.html",
+    "anna_karenina_2_122.html",
+    "anna_karenina_2_123.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Thu Dec 09 2021 10:02:11 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1639044131140
+    "date": "Thu May 12 2022 10:36:45 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652351805460
   },
   "documents": [
     {
-      "title": "Anna Kareninová II",
-      "file": "anna_karenina_2_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,25 +148,17 @@
       "order": 0,
       "prev": null,
       "next": "anna_karenina_2_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
-      "title": "ČÁST PÁTÁ • Anna Kareninová II",
+      "title": "ČÁST PÁTÁ",
       "file": "anna_karenina_2_005.html",
       "words": 2,
       "chars": 9,
       "ideas": 1,
       "role": "chapter",
       "order": 1,
-      "prev": "anna_karenina_2_002.html",
+      "prev": "promo.html",
       "next": "anna_karenina_2_006.html",
       "toc": [
         {
@@ -54,7 +171,7 @@
       ]
     },
     {
-      "title": "I • Anna Kareninová II",
+      "title": "I",
       "file": "anna_karenina_2_006.html",
       "words": 1885,
       "chars": 11193,
@@ -74,7 +191,7 @@
       ]
     },
     {
-      "title": "II • Anna Kareninová II",
+      "title": "II",
       "file": "anna_karenina_2_007.html",
       "words": 1534,
       "chars": 8917,
@@ -94,7 +211,7 @@
       ]
     },
     {
-      "title": "III • Anna Kareninová II",
+      "title": "III",
       "file": "anna_karenina_2_008.html",
       "words": 763,
       "chars": 4606,
@@ -114,7 +231,7 @@
       ]
     },
     {
-      "title": "IV • Anna Kareninová II",
+      "title": "IV",
       "file": "anna_karenina_2_009.html",
       "words": 1726,
       "chars": 10235,
@@ -134,7 +251,7 @@
       ]
     },
     {
-      "title": "V • Anna Kareninová II",
+      "title": "V",
       "file": "anna_karenina_2_010.html",
       "words": 760,
       "chars": 4539,
@@ -154,7 +271,7 @@
       ]
     },
     {
-      "title": "VI • Anna Kareninová II",
+      "title": "VI",
       "file": "anna_karenina_2_011.html",
       "words": 560,
       "chars": 3316,
@@ -174,7 +291,7 @@
       ]
     },
     {
-      "title": "VII • Anna Kareninová II",
+      "title": "VII",
       "file": "anna_karenina_2_012.html",
       "words": 1508,
       "chars": 9107,
@@ -194,7 +311,7 @@
       ]
     },
     {
-      "title": "VIII • Anna Kareninová II",
+      "title": "VIII",
       "file": "anna_karenina_2_013.html",
       "words": 1003,
       "chars": 6038,
@@ -214,7 +331,7 @@
       ]
     },
     {
-      "title": "IX • Anna Kareninová II",
+      "title": "IX",
       "file": "anna_karenina_2_014.html",
       "words": 926,
       "chars": 5797,
@@ -234,7 +351,7 @@
       ]
     },
     {
-      "title": "X • Anna Kareninová II",
+      "title": "X",
       "file": "anna_karenina_2_015.html",
       "words": 748,
       "chars": 4535,
@@ -254,7 +371,7 @@
       ]
     },
     {
-      "title": "XI • Anna Kareninová II",
+      "title": "XI",
       "file": "anna_karenina_2_016.html",
       "words": 1599,
       "chars": 9896,
@@ -274,7 +391,7 @@
       ]
     },
     {
-      "title": "XII • Anna Kareninová II",
+      "title": "XII",
       "file": "anna_karenina_2_017.html",
       "words": 598,
       "chars": 3531,
@@ -294,7 +411,7 @@
       ]
     },
     {
-      "title": "XIII • Anna Kareninová II",
+      "title": "XIII",
       "file": "anna_karenina_2_018.html",
       "words": 843,
       "chars": 5181,
@@ -314,7 +431,7 @@
       ]
     },
     {
-      "title": "XIV • Anna Kareninová II",
+      "title": "XIV",
       "file": "anna_karenina_2_019.html",
       "words": 1341,
       "chars": 7902,
@@ -334,7 +451,7 @@
       ]
     },
     {
-      "title": "XV • Anna Kareninová II",
+      "title": "XV",
       "file": "anna_karenina_2_020.html",
       "words": 1220,
       "chars": 7258,
@@ -354,7 +471,7 @@
       ]
     },
     {
-      "title": "XVI • Anna Kareninová II",
+      "title": "XVI",
       "file": "anna_karenina_2_021.html",
       "words": 922,
       "chars": 5104,
@@ -374,7 +491,7 @@
       ]
     },
     {
-      "title": "XVII • Anna Kareninová II",
+      "title": "XVII",
       "file": "anna_karenina_2_022.html",
       "words": 1343,
       "chars": 7966,
@@ -394,7 +511,7 @@
       ]
     },
     {
-      "title": "XVIII • Anna Kareninová II",
+      "title": "XVIII",
       "file": "anna_karenina_2_023.html",
       "words": 1009,
       "chars": 6025,
@@ -414,7 +531,7 @@
       ]
     },
     {
-      "title": "XIX • Anna Kareninová II",
+      "title": "XIX",
       "file": "anna_karenina_2_024.html",
       "words": 1080,
       "chars": 6296,
@@ -434,7 +551,7 @@
       ]
     },
     {
-      "title": "XXSmrt • Anna Kareninová II",
+      "title": "XXSmrt",
       "file": "anna_karenina_2_025.html",
       "words": 2198,
       "chars": 13028,
@@ -454,7 +571,7 @@
       ]
     },
     {
-      "title": "XXI • Anna Kareninová II",
+      "title": "XXI",
       "file": "anna_karenina_2_026.html",
       "words": 1128,
       "chars": 6769,
@@ -474,7 +591,7 @@
       ]
     },
     {
-      "title": "XXII • Anna Kareninová II",
+      "title": "XXII",
       "file": "anna_karenina_2_027.html",
       "words": 1176,
       "chars": 7317,
@@ -494,7 +611,7 @@
       ]
     },
     {
-      "title": "XXIII • Anna Kareninová II",
+      "title": "XXIII",
       "file": "anna_karenina_2_028.html",
       "words": 844,
       "chars": 5234,
@@ -514,7 +631,7 @@
       ]
     },
     {
-      "title": "XXIV • Anna Kareninová II",
+      "title": "XXIV",
       "file": "anna_karenina_2_029.html",
       "words": 1288,
       "chars": 7863,
@@ -534,7 +651,7 @@
       ]
     },
     {
-      "title": "XXV • Anna Kareninová II",
+      "title": "XXV",
       "file": "anna_karenina_2_030.html",
       "words": 798,
       "chars": 4812,
@@ -554,7 +671,7 @@
       ]
     },
     {
-      "title": "XXVI • Anna Kareninová II",
+      "title": "XXVI",
       "file": "anna_karenina_2_031.html",
       "words": 877,
       "chars": 5249,
@@ -574,7 +691,7 @@
       ]
     },
     {
-      "title": "XXVII • Anna Kareninová II",
+      "title": "XXVII",
       "file": "anna_karenina_2_032.html",
       "words": 1320,
       "chars": 7633,
@@ -594,7 +711,7 @@
       ]
     },
     {
-      "title": "XXVIII • Anna Kareninová II",
+      "title": "XXVIII",
       "file": "anna_karenina_2_033.html",
       "words": 1120,
       "chars": 6506,
@@ -614,7 +731,7 @@
       ]
     },
     {
-      "title": "XXIX • Anna Kareninová II",
+      "title": "XXIX",
       "file": "anna_karenina_2_034.html",
       "words": 1528,
       "chars": 8959,
@@ -634,7 +751,7 @@
       ]
     },
     {
-      "title": "XXX • Anna Kareninová II",
+      "title": "XXX",
       "file": "anna_karenina_2_035.html",
       "words": 952,
       "chars": 5420,
@@ -654,7 +771,7 @@
       ]
     },
     {
-      "title": "XXXI • Anna Kareninová II",
+      "title": "XXXI",
       "file": "anna_karenina_2_036.html",
       "words": 1173,
       "chars": 6834,
@@ -674,7 +791,7 @@
       ]
     },
     {
-      "title": "XXXII • Anna Kareninová II",
+      "title": "XXXII",
       "file": "anna_karenina_2_037.html",
       "words": 794,
       "chars": 4606,
@@ -694,7 +811,7 @@
       ]
     },
     {
-      "title": "XXXIII • Anna Kareninová II",
+      "title": "XXXIII",
       "file": "anna_karenina_2_038.html",
       "words": 2089,
       "chars": 12404,
@@ -714,7 +831,7 @@
       ]
     },
     {
-      "title": "ČÁST ŠESTÁ • Anna Kareninová II",
+      "title": "ČÁST ŠESTÁ",
       "file": "anna_karenina_2_039.html",
       "words": 2,
       "chars": 10,
@@ -734,7 +851,7 @@
       ]
     },
     {
-      "title": "I • Anna Kareninová II",
+      "title": "I",
       "file": "anna_karenina_2_040.html",
       "words": 786,
       "chars": 4696,
@@ -754,7 +871,7 @@
       ]
     },
     {
-      "title": "II • Anna Kareninová II",
+      "title": "II",
       "file": "anna_karenina_2_041.html",
       "words": 1498,
       "chars": 8833,
@@ -774,7 +891,7 @@
       ]
     },
     {
-      "title": "III • Anna Kareninová II",
+      "title": "III",
       "file": "anna_karenina_2_042.html",
       "words": 1116,
       "chars": 6269,
@@ -794,7 +911,7 @@
       ]
     },
     {
-      "title": "IV • Anna Kareninová II",
+      "title": "IV",
       "file": "anna_karenina_2_043.html",
       "words": 877,
       "chars": 5186,
@@ -814,7 +931,7 @@
       ]
     },
     {
-      "title": "V • Anna Kareninová II",
+      "title": "V",
       "file": "anna_karenina_2_044.html",
       "words": 709,
       "chars": 4203,
@@ -834,7 +951,7 @@
       ]
     },
     {
-      "title": "VI • Anna Kareninová II",
+      "title": "VI",
       "file": "anna_karenina_2_045.html",
       "words": 1357,
       "chars": 7935,
@@ -854,7 +971,7 @@
       ]
     },
     {
-      "title": "VII • Anna Kareninová II",
+      "title": "VII",
       "file": "anna_karenina_2_046.html",
       "words": 1517,
       "chars": 8784,
@@ -874,7 +991,7 @@
       ]
     },
     {
-      "title": "VIII • Anna Kareninová II",
+      "title": "VIII",
       "file": "anna_karenina_2_047.html",
       "words": 1125,
       "chars": 6529,
@@ -894,7 +1011,7 @@
       ]
     },
     {
-      "title": "IX • Anna Kareninová II",
+      "title": "IX",
       "file": "anna_karenina_2_048.html",
       "words": 1080,
       "chars": 6388,
@@ -914,7 +1031,7 @@
       ]
     },
     {
-      "title": "X • Anna Kareninová II",
+      "title": "X",
       "file": "anna_karenina_2_049.html",
       "words": 1437,
       "chars": 8471,
@@ -934,7 +1051,7 @@
       ]
     },
     {
-      "title": "XI • Anna Kareninová II",
+      "title": "XI",
       "file": "anna_karenina_2_050.html",
       "words": 1833,
       "chars": 10895,
@@ -954,7 +1071,7 @@
       ]
     },
     {
-      "title": "XII • Anna Kareninová II",
+      "title": "XII",
       "file": "anna_karenina_2_051.html",
       "words": 1257,
       "chars": 7374,
@@ -974,7 +1091,7 @@
       ]
     },
     {
-      "title": "XIII • Anna Kareninová II",
+      "title": "XIII",
       "file": "anna_karenina_2_052.html",
       "words": 596,
       "chars": 3463,
@@ -994,7 +1111,7 @@
       ]
     },
     {
-      "title": "XIV • Anna Kareninová II",
+      "title": "XIV",
       "file": "anna_karenina_2_053.html",
       "words": 1192,
       "chars": 7141,
@@ -1014,7 +1131,7 @@
       ]
     },
     {
-      "title": "XV • Anna Kareninová II",
+      "title": "XV",
       "file": "anna_karenina_2_054.html",
       "words": 1339,
       "chars": 7795,
@@ -1034,7 +1151,7 @@
       ]
     },
     {
-      "title": "XVI • Anna Kareninová II",
+      "title": "XVI",
       "file": "anna_karenina_2_055.html",
       "words": 1535,
       "chars": 9141,
@@ -1054,7 +1171,7 @@
       ]
     },
     {
-      "title": "XVII • Anna Kareninová II",
+      "title": "XVII",
       "file": "anna_karenina_2_056.html",
       "words": 1258,
       "chars": 7612,
@@ -1074,7 +1191,7 @@
       ]
     },
     {
-      "title": "XVIII • Anna Kareninová II",
+      "title": "XVIII",
       "file": "anna_karenina_2_057.html",
       "words": 1170,
       "chars": 6764,
@@ -1094,7 +1211,7 @@
       ]
     },
     {
-      "title": "XIX • Anna Kareninová II",
+      "title": "XIX",
       "file": "anna_karenina_2_058.html",
       "words": 1404,
       "chars": 8440,
@@ -1114,7 +1231,7 @@
       ]
     },
     {
-      "title": "XX • Anna Kareninová II",
+      "title": "XX",
       "file": "anna_karenina_2_059.html",
       "words": 1505,
       "chars": 9096,
@@ -1134,7 +1251,7 @@
       ]
     },
     {
-      "title": "XXI • Anna Kareninová II",
+      "title": "XXI",
       "file": "anna_karenina_2_060.html",
       "words": 1332,
       "chars": 7780,
@@ -1154,7 +1271,7 @@
       ]
     },
     {
-      "title": "XXII • Anna Kareninová II",
+      "title": "XXII",
       "file": "anna_karenina_2_061.html",
       "words": 2205,
       "chars": 13510,
@@ -1174,7 +1291,7 @@
       ]
     },
     {
-      "title": "XXIII • Anna Kareninová II",
+      "title": "XXIII",
       "file": "anna_karenina_2_062.html",
       "words": 1336,
       "chars": 7636,
@@ -1194,7 +1311,7 @@
       ]
     },
     {
-      "title": "XXIV • Anna Kareninová II",
+      "title": "XXIV",
       "file": "anna_karenina_2_063.html",
       "words": 1172,
       "chars": 6711,
@@ -1214,7 +1331,7 @@
       ]
     },
     {
-      "title": "XXV • Anna Kareninová II",
+      "title": "XXV",
       "file": "anna_karenina_2_064.html",
       "words": 868,
       "chars": 5155,
@@ -1234,7 +1351,7 @@
       ]
     },
     {
-      "title": "XXVI • Anna Kareninová II",
+      "title": "XXVI",
       "file": "anna_karenina_2_065.html",
       "words": 1154,
       "chars": 7332,
@@ -1254,7 +1371,7 @@
       ]
     },
     {
-      "title": "XXVII • Anna Kareninová II",
+      "title": "XXVII",
       "file": "anna_karenina_2_066.html",
       "words": 650,
       "chars": 4100,
@@ -1274,7 +1391,7 @@
       ]
     },
     {
-      "title": "XXVIII • Anna Kareninová II",
+      "title": "XXVIII",
       "file": "anna_karenina_2_067.html",
       "words": 1197,
       "chars": 7516,
@@ -1294,7 +1411,7 @@
       ]
     },
     {
-      "title": "XXIX • Anna Kareninová II",
+      "title": "XXIX",
       "file": "anna_karenina_2_068.html",
       "words": 1249,
       "chars": 7470,
@@ -1314,7 +1431,7 @@
       ]
     },
     {
-      "title": "XXX • Anna Kareninová II",
+      "title": "XXX",
       "file": "anna_karenina_2_069.html",
       "words": 1388,
       "chars": 8424,
@@ -1334,7 +1451,7 @@
       ]
     },
     {
-      "title": "XXXI • Anna Kareninová II",
+      "title": "XXXI",
       "file": "anna_karenina_2_070.html",
       "words": 1016,
       "chars": 6303,
@@ -1354,7 +1471,7 @@
       ]
     },
     {
-      "title": "XXXII • Anna Kareninová II",
+      "title": "XXXII",
       "file": "anna_karenina_2_071.html",
       "words": 1222,
       "chars": 6937,
@@ -1374,7 +1491,7 @@
       ]
     },
     {
-      "title": "ČÁST SEDMÁ • Anna Kareninová II",
+      "title": "ČÁST SEDMÁ",
       "file": "anna_karenina_2_072.html",
       "words": 2,
       "chars": 10,
@@ -1394,7 +1511,7 @@
       ]
     },
     {
-      "title": "I • Anna Kareninová II",
+      "title": "I",
       "file": "anna_karenina_2_073.html",
       "words": 1122,
       "chars": 6437,
@@ -1414,7 +1531,7 @@
       ]
     },
     {
-      "title": "II • Anna Kareninová II",
+      "title": "II",
       "file": "anna_karenina_2_074.html",
       "words": 1299,
       "chars": 7275,
@@ -1434,7 +1551,7 @@
       ]
     },
     {
-      "title": "III • Anna Kareninová II",
+      "title": "III",
       "file": "anna_karenina_2_075.html",
       "words": 1279,
       "chars": 8138,
@@ -1454,7 +1571,7 @@
       ]
     },
     {
-      "title": "IV • Anna Kareninová II",
+      "title": "IV",
       "file": "anna_karenina_2_076.html",
       "words": 995,
       "chars": 5930,
@@ -1474,7 +1591,7 @@
       ]
     },
     {
-      "title": "V • Anna Kareninová II",
+      "title": "V",
       "file": "anna_karenina_2_077.html",
       "words": 648,
       "chars": 4105,
@@ -1494,7 +1611,7 @@
       ]
     },
     {
-      "title": "VI • Anna Kareninová II",
+      "title": "VI",
       "file": "anna_karenina_2_078.html",
       "words": 615,
       "chars": 3600,
@@ -1514,7 +1631,7 @@
       ]
     },
     {
-      "title": "VII • Anna Kareninová II",
+      "title": "VII",
       "file": "anna_karenina_2_079.html",
       "words": 1037,
       "chars": 6239,
@@ -1534,7 +1651,7 @@
       ]
     },
     {
-      "title": "VIII • Anna Kareninová II",
+      "title": "VIII",
       "file": "anna_karenina_2_080.html",
       "words": 856,
       "chars": 5081,
@@ -1554,7 +1671,7 @@
       ]
     },
     {
-      "title": "IX • Anna Kareninová II",
+      "title": "IX",
       "file": "anna_karenina_2_081.html",
       "words": 897,
       "chars": 5311,
@@ -1574,7 +1691,7 @@
       ]
     },
     {
-      "title": "X • Anna Kareninová II",
+      "title": "X",
       "file": "anna_karenina_2_082.html",
       "words": 1479,
       "chars": 8959,
@@ -1594,7 +1711,7 @@
       ]
     },
     {
-      "title": "XI • Anna Kareninová II",
+      "title": "XI",
       "file": "anna_karenina_2_083.html",
       "words": 780,
       "chars": 4492,
@@ -1614,7 +1731,7 @@
       ]
     },
     {
-      "title": "XII • Anna Kareninová II",
+      "title": "XII",
       "file": "anna_karenina_2_084.html",
       "words": 973,
       "chars": 5482,
@@ -1634,7 +1751,7 @@
       ]
     },
     {
-      "title": "XIII • Anna Kareninová II",
+      "title": "XIII",
       "file": "anna_karenina_2_085.html",
       "words": 1065,
       "chars": 6082,
@@ -1654,7 +1771,7 @@
       ]
     },
     {
-      "title": "XIV • Anna Kareninová II",
+      "title": "XIV",
       "file": "anna_karenina_2_086.html",
       "words": 1651,
       "chars": 9691,
@@ -1674,7 +1791,7 @@
       ]
     },
     {
-      "title": "XV • Anna Kareninová II",
+      "title": "XV",
       "file": "anna_karenina_2_087.html",
       "words": 831,
       "chars": 4861,
@@ -1694,7 +1811,7 @@
       ]
     },
     {
-      "title": "XVI • Anna Kareninová II",
+      "title": "XVI",
       "file": "anna_karenina_2_088.html",
       "words": 762,
       "chars": 4493,
@@ -1714,7 +1831,7 @@
       ]
     },
     {
-      "title": "XVII • Anna Kareninová II",
+      "title": "XVII",
       "file": "anna_karenina_2_089.html",
       "words": 1282,
       "chars": 7952,
@@ -1734,7 +1851,7 @@
       ]
     },
     {
-      "title": "XVIII • Anna Kareninová II",
+      "title": "XVIII",
       "file": "anna_karenina_2_090.html",
       "words": 892,
       "chars": 5317,
@@ -1754,7 +1871,7 @@
       ]
     },
     {
-      "title": "XIX • Anna Kareninová II",
+      "title": "XIX",
       "file": "anna_karenina_2_091.html",
       "words": 847,
       "chars": 4767,
@@ -1774,7 +1891,7 @@
       ]
     },
     {
-      "title": "XX • Anna Kareninová II",
+      "title": "XX",
       "file": "anna_karenina_2_092.html",
       "words": 1315,
       "chars": 7648,
@@ -1794,7 +1911,7 @@
       ]
     },
     {
-      "title": "XXI • Anna Kareninová II",
+      "title": "XXI",
       "file": "anna_karenina_2_093.html",
       "words": 1505,
       "chars": 9506,
@@ -1814,7 +1931,7 @@
       ]
     },
     {
-      "title": "XXII • Anna Kareninová II",
+      "title": "XXII",
       "file": "anna_karenina_2_094.html",
       "words": 767,
       "chars": 4685,
@@ -1834,7 +1951,7 @@
       ]
     },
     {
-      "title": "XXIII • Anna Kareninová II",
+      "title": "XXIII",
       "file": "anna_karenina_2_095.html",
       "words": 1013,
       "chars": 5996,
@@ -1854,7 +1971,7 @@
       ]
     },
     {
-      "title": "XXIV • Anna Kareninová II",
+      "title": "XXIV",
       "file": "anna_karenina_2_096.html",
       "words": 1265,
       "chars": 7345,
@@ -1874,7 +1991,7 @@
       ]
     },
     {
-      "title": "XXV • Anna Kareninová II",
+      "title": "XXV",
       "file": "anna_karenina_2_097.html",
       "words": 1519,
       "chars": 8712,
@@ -1894,7 +2011,7 @@
       ]
     },
     {
-      "title": "XXVI • Anna Kareninová II",
+      "title": "XXVI",
       "file": "anna_karenina_2_098.html",
       "words": 1280,
       "chars": 7220,
@@ -1914,7 +2031,7 @@
       ]
     },
     {
-      "title": "XXVII • Anna Kareninová II",
+      "title": "XXVII",
       "file": "anna_karenina_2_099.html",
       "words": 806,
       "chars": 4678,
@@ -1934,7 +2051,7 @@
       ]
     },
     {
-      "title": "XXVIII • Anna Kareninová II",
+      "title": "XXVIII",
       "file": "anna_karenina_2_100.html",
       "words": 1213,
       "chars": 7004,
@@ -1954,7 +2071,7 @@
       ]
     },
     {
-      "title": "XXIX • Anna Kareninová II",
+      "title": "XXIX",
       "file": "anna_karenina_2_101.html",
       "words": 823,
       "chars": 4747,
@@ -1974,7 +2091,7 @@
       ]
     },
     {
-      "title": "XXX • Anna Kareninová II",
+      "title": "XXX",
       "file": "anna_karenina_2_102.html",
       "words": 1079,
       "chars": 6044,
@@ -1994,7 +2111,7 @@
       ]
     },
     {
-      "title": "XXXI • Anna Kareninová II",
+      "title": "XXXI",
       "file": "anna_karenina_2_103.html",
       "words": 1395,
       "chars": 8187,
@@ -2014,7 +2131,7 @@
       ]
     },
     {
-      "title": "ČÁST OSMÁ • Anna Kareninová II",
+      "title": "ČÁST OSMÁ",
       "file": "anna_karenina_2_104.html",
       "words": 2,
       "chars": 9,
@@ -2034,7 +2151,7 @@
       ]
     },
     {
-      "title": "I • Anna Kareninová II",
+      "title": "I",
       "file": "anna_karenina_2_105.html",
       "words": 1011,
       "chars": 6367,
@@ -2054,7 +2171,7 @@
       ]
     },
     {
-      "title": "II • Anna Kareninová II",
+      "title": "II",
       "file": "anna_karenina_2_106.html",
       "words": 927,
       "chars": 5734,
@@ -2074,7 +2191,7 @@
       ]
     },
     {
-      "title": "III • Anna Kareninová II",
+      "title": "III",
       "file": "anna_karenina_2_107.html",
       "words": 703,
       "chars": 4321,
@@ -2094,7 +2211,7 @@
       ]
     },
     {
-      "title": "IV • Anna Kareninová II",
+      "title": "IV",
       "file": "anna_karenina_2_108.html",
       "words": 661,
       "chars": 3702,
@@ -2114,7 +2231,7 @@
       ]
     },
     {
-      "title": "V • Anna Kareninová II",
+      "title": "V",
       "file": "anna_karenina_2_109.html",
       "words": 711,
       "chars": 4256,
@@ -2134,7 +2251,7 @@
       ]
     },
     {
-      "title": "VI • Anna Kareninová II",
+      "title": "VI",
       "file": "anna_karenina_2_110.html",
       "words": 762,
       "chars": 4569,
@@ -2154,7 +2271,7 @@
       ]
     },
     {
-      "title": "VII • Anna Kareninová II",
+      "title": "VII",
       "file": "anna_karenina_2_111.html",
       "words": 691,
       "chars": 4056,
@@ -2174,7 +2291,7 @@
       ]
     },
     {
-      "title": "VIII • Anna Kareninová II",
+      "title": "VIII",
       "file": "anna_karenina_2_112.html",
       "words": 610,
       "chars": 3679,
@@ -2194,7 +2311,7 @@
       ]
     },
     {
-      "title": "IX • Anna Kareninová II",
+      "title": "IX",
       "file": "anna_karenina_2_113.html",
       "words": 576,
       "chars": 3502,
@@ -2214,7 +2331,7 @@
       ]
     },
     {
-      "title": "X • Anna Kareninová II",
+      "title": "X",
       "file": "anna_karenina_2_114.html",
       "words": 855,
       "chars": 5043,
@@ -2234,7 +2351,7 @@
       ]
     },
     {
-      "title": "XI • Anna Kareninová II",
+      "title": "XI",
       "file": "anna_karenina_2_115.html",
       "words": 933,
       "chars": 5532,
@@ -2254,7 +2371,7 @@
       ]
     },
     {
-      "title": "XII • Anna Kareninová II",
+      "title": "XII",
       "file": "anna_karenina_2_116.html",
       "words": 1092,
       "chars": 6290,
@@ -2274,7 +2391,7 @@
       ]
     },
     {
-      "title": "XIII • Anna Kareninová II",
+      "title": "XIII",
       "file": "anna_karenina_2_117.html",
       "words": 833,
       "chars": 4729,
@@ -2294,7 +2411,7 @@
       ]
     },
     {
-      "title": "XIV • Anna Kareninová II",
+      "title": "XIV",
       "file": "anna_karenina_2_118.html",
       "words": 1303,
       "chars": 7561,
@@ -2314,7 +2431,7 @@
       ]
     },
     {
-      "title": "XV • Anna Kareninová II",
+      "title": "XV",
       "file": "anna_karenina_2_119.html",
       "words": 1113,
       "chars": 6734,
@@ -2334,7 +2451,7 @@
       ]
     },
     {
-      "title": "XVI • Anna Kareninová II",
+      "title": "XVI",
       "file": "anna_karenina_2_120.html",
       "words": 970,
       "chars": 5892,
@@ -2354,7 +2471,7 @@
       ]
     },
     {
-      "title": "XVII • Anna Kareninová II",
+      "title": "XVII",
       "file": "anna_karenina_2_121.html",
       "words": 652,
       "chars": 3770,
@@ -2374,7 +2491,7 @@
       ]
     },
     {
-      "title": "XVIII • Anna Kareninová II",
+      "title": "XVIII",
       "file": "anna_karenina_2_122.html",
       "words": 874,
       "chars": 5140,
@@ -2394,7 +2511,7 @@
       ]
     },
     {
-      "title": "XIX • Anna Kareninová II",
+      "title": "XIX",
       "file": "anna_karenina_2_123.html",
       "words": 780,
       "chars": 4540,
@@ -2414,11 +2531,11 @@
       ]
     },
     {
-      "title": "Tiráž • Anna Kareninová II",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 154,
-      "chars": 1040,
-      "ideas": 26,
+      "words": 127,
+      "chars": 851,
+      "ideas": 17,
       "role": "colophon",
       "order": null,
       "prev": "anna_karenina_2_123.html",
@@ -2436,9 +2553,9 @@
   ],
   "totals": {
     "all": {
-      "words": 127550,
-      "chars": 756496,
-      "ideas": 3683
+      "words": 127523,
+      "chars": 756307,
+      "ideas": 3674
     },
     "chapters": {
       "words": 127388,

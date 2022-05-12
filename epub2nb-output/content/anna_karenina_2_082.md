@@ -1,5 +1,6 @@
 ---
 title: X
+contentType: prose
 ---
 
 Šla ho uvítat a nijak se netajila radostí, že ho vidí. A v klidu, s jakým mu podala energickou malou ruku, ho představila Vorkujevovi a ukázala na hezké ryšavé děvčátko, které tu sedělo nad ruční prací a které nazvala svou schovankou, v tom klidu poznával Levin příjemné vystupování dámy velkého světa, vždy klidné a přirozené.

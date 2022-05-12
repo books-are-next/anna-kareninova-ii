@@ -1,5 +1,6 @@
 ---
 title: XXV
+contentType: prose
 ---
 
 S vědomím, že došlo k úplnému smíru, pustila se Anna živě hned po ránu do příprav k odjezdu. Ačkoliv se ještě nedohodli, zda pojedou v pondělí, či v úterý, jelikož si včera dělali navzájem ústupky, chystala se Anna horlivě na cestu a bylo jí teď zcela lhostejné, zda odjedou o den dříve, či později. Stála ve svém pokoji nad otevřeným kufrem a odkládala stranou kusy šatstva, když Vronskij, už oblečený, k ní přišel o něco dříve než obvykle.

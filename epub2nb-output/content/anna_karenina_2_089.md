@@ -1,5 +1,6 @@
 ---
 title: XVII
+contentType: prose
 ---
 
 Oblonskij se octl v neutěšených poměrech.

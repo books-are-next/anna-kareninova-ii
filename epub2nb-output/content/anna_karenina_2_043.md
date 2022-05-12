@@ -1,5 +1,6 @@
 ---
 title: IV
+contentType: prose
 ---
 
 Váreňka ve svém bílém šátku na černých vlasech, obklopena dětmi, kterým se dobromyslně a vesele věnovala, a patrně rozechvělá vyhlídkou, že muž, který se jí líbí, se možná vyjádří, byla velice půvabná. Sergej Ivanovič chodil vedle ní a stále ji se zalíbením pozoroval. Při pohledu na ni vzpomínal na všecky ty milé řeči, které od ní slyšel, na všecko, co o ní věděl hezkého, a stále víc a víc si uvědomoval, že k ní chová docela zvláštní cit, jaký poznal dávno a dávno a jen jednou, v raném mládí. Radostný pocit, že je jí nablízku, stále vzrůstal. A když jí pak dával do košíku obrovského kozáka na tenké nožičce a s ohnutým okrajem, pohlédl jí do očí, zpozoroval, jak jí obličej polila červeň radostného i bázlivého rozechvění, také upadl do rozpaků a mlčky se na ni usmál až příliš výmluvně.

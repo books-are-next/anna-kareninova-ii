@@ -1,5 +1,6 @@
 ---
 title: XXVIII
+contentType: prose
 ---
 
 Po příjezdu do Petrohradu se Vronskij a Anna ubytovali v jednom z nejlepších hotelů. Vronskij zvlášť, v dolním poschodí, Anna s dítětem, kojnou a služebnou nahoře ve velkém čtyřpokojovém apartmá.

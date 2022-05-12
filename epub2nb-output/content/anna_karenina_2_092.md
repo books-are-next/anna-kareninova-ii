@@ -1,5 +1,6 @@
 ---
 title: XX
+contentType: prose
 ---
 
 Jako vždy, Oblonskij ani tentokrát v Petrohradě nezahálel. Kromě řízení, které měl s rozvodem sestřiným a s obstaráváním místa, musel se v Petrohradě jako vždy osvěžit po moskevské zatuchlosti, jak říkal.

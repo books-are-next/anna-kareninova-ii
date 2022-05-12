@@ -1,5 +1,6 @@
 ---
 title: XV
+contentType: prose
 ---
 
 „A víš, Kosťo, s kým Sergej Ivanovič jel?“ řekla Dolly, když podělila děti okurkami a medem. „S Vronským! Jede do Srbska.“

@@ -1,5 +1,6 @@
 ---
 title: XII
+contentType: prose
 ---
 
 Levin se bral dlouhými kroky po silnici. Zkoumal ani ne tak své myšlenky (ještě se v nich nevyznal), jako svůj duševní stav, jaký dosud nepoznal.

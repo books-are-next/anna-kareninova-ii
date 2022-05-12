@@ -1,5 +1,6 @@
 ---
 title: IX
+contentType: prose
 ---
 
 Ty myšlenky ho trýznily a mučily někdy méně, někdy více, ale nikdy ho neopouštěly úplně. Četl a přemýšlel, a čím víc četl a přemýšlel, tím vzdálenější se mu zdál sledovaný cíl.

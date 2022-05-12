@@ -1,5 +1,6 @@
 ---
 title: V
+contentType: prose
 ---
 
 „Varvaro Andrejevno, když jsem byl ještě hodně mladý, vytvořil jsem si ideál ženy, do které se zamiluji a kterou pln štěstí učiním svou ženou. Prožil jsem dlouhý život a teď poprvé jsem ve vás potkal, co jsem hledal. Miluji vás a žádám vás o ruku.“

@@ -1,5 +1,6 @@
 ---
 title: XIII
+contentType: prose
 ---
 
 Michajlov prodal Vronskému svůj obrázek a uvolil se malovat Anninu podobiznu. V určený den přišel a dal se do práce.

@@ -1,5 +1,6 @@
 ---
 title: XIX
+contentType: prose
 ---
 
 „Skryl tyto věci před moudrými a opatrnými a zjevil je nemluvňátkům,“ říkal si Levin o své ženě, když toho večera spolu rozprávěli.

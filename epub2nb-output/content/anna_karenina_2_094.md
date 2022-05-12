@@ -1,5 +1,6 @@
 ---
 title: XXII
+contentType: prose
 ---
 
 Stěpan Arkaďjič byl nadobro přiveden z konceptu těmi divnými, pro něho novými řečmi, které tu slyšel. Složitý petrohradský život jako takový na něho účinkoval povzbudivě, neboť ho vyváděl z moskevské stagnace. Ale ty složitosti se mu líbily a rozuměl jim ve sférách, které mu byly blízké a známé. V tom cizím prostředí však byl zaražen, ohromen a nemohl všecko postihnout. Jak tak poslouchal hraběnku Lydii Ivanovnu a cítil, že krásné, snad naivní, snad chytrácké (to sám nevěděl) Landauovy oči jsou upřeny na něho, začínal pociťovat v hlavě jakousi zvlášní tíhu.

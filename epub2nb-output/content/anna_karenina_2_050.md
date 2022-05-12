@@ -1,5 +1,6 @@
 ---
 title: XI
+contentType: prose
 ---
 
 Když Levin a Oblonskij přišli do chalupy k sedlákovi, u kterého Levin vždycky přespával, Veslovskij už tam byl. Seděl uprostřed světnice, oběma rukama se držel lavice a voják, selčin bratr, mu stahoval boty olepené bahnem. Veslovskij se smál svým veselým, nakažlivým smíchem.

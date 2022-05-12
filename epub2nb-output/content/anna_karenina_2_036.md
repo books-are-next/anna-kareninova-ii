@@ -1,5 +1,6 @@
 ---
 title: XXXI
+contentType: prose
 ---
 
 I když si Anna tak toužebně přála shledání se synem, i když na to už dávno myslila a tolik se těšila, přece se nenadála, že na ni tak mocně zapůsobí. Když se vrátila do svého osamělého apartmá v hotelu, dlouho nemohla pochopit, jak se tu vlastně octla. Ano, všemu je konec a jsem zase sama, řekla si. Ani neodložila klobouk a usedla do křesla u krbu. Strnule se zadívala na bronzové hodiny, stojící na stolku mezi okny, a upadla v zamyšlení.

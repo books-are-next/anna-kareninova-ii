@@ -1,5 +1,6 @@
 ---
 title: IV
+contentType: prose
 ---
 
 „Už jsou tu!“ „To je on!“ „Který? Ten mladší?“ „Ale ona je chudinka polomrtvá!“ ozývalo se ze zástupu, když Levin přivítal nevěstu u vchodu a společně s ní vešel do kostela.

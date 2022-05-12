@@ -1,5 +1,6 @@
 ---
 title: XXIV
+contentType: prose
 ---
 
 „Tím spíš tedy musíš uspořádat své poměry, pokud to jde,“ řekla Dolly.

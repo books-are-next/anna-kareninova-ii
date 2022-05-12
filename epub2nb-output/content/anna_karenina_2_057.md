@@ -1,5 +1,6 @@
 ---
 title: XVIII
+contentType: prose
 ---
 
 Anna pozorovala Dollin hubený, zmučený obličej, na němž se ve vráskách zachytil prach, a chtěla říci, co si myslila – totiž, že Dolly zhubla. Ale pak si uvědomila, že ona sama jen kvete a že Dollin pohled jí to pověděl. Vzdychla a začala o sobě.

@@ -1,5 +1,6 @@
 ---
 title: XXVII
+contentType: prose
 ---
 
 „Odjel! Je konec!“ řekla si Anna, stojíc u okna. A dojem temnoty, když včera zhasla svíce, i dojem z děsivého snu splynuly v celek a jako odpověď na tu otázku jí naplnily srdce mrazivou hrůzou.

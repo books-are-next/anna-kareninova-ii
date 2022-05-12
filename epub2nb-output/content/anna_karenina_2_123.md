@@ -1,5 +1,6 @@
 ---
 title: XIX
+contentType: prose
 ---
 
 Když Levin vyšel z dětského pokoje a zůstal sám, rázem se opět upamatoval na myšlenku, v které zbyla nějaká nejasnost.
