@@ -1,5 +1,6 @@
 ---
 title: XIII
+contentType: prose
 ---
 
 Lovecká pověra – nedáte-li si ujít první kus, lov bude zdařilý – se ukázala pravdivou.

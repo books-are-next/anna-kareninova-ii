@@ -1,5 +1,6 @@
 ---
 title: XVII
+contentType: prose
 ---
 
 Hotel v gubernském městě, kde ležel Nikolaj Levin, byl jedním z gubernských hotelů, jaké jsou zřizovány podle nejnovějších zdokonalených vzorů a s nejlepšími úmysly, aby byly čisté, komfortní, ba elegantní – jenže společnost, která zde pobývá, je závratnou rychlostí proměňuje ve špinavé krčmy, které si činí nároky na moderní vymoženosti, a právě pro tuto marnou snahu jsou horší než staré, obyčejné, špinavé hotely. Tento hotel už dospěl do takového stadia. Válečný invalida ve špinavém mundúru u vchodu s cigaretou v ruce, patrně sloužící za vrátného; ponuré, nevlídné, litinové schody; klackovitý sklepník ve špinavém fraku a lokál s kyticí zaprášených voskových květin na stole, špína, prach a nepořádek všude, a zároveň jakási nová, moderně podnikatelská samolibá pečlivost po celém hotelu vše vyvolalo v Levinových po jejich novomanželském životě nanejvýš skličující pocit, zejména proto, že falešný dojem, kterým měl hotel působit, se naprosto nehodil k tomu, co je čekalo.

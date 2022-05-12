@@ -1,5 +1,6 @@
 ---
 title: XVIII
+contentType: prose
 ---
 
 Po celý den za nejrůznějších hovorů, kterých se účastnil vlastně jen vnější stránkou rozumu, Levin nepřestal radostně sledovat, jak mu překypuje srdce, i když byl zklamán, že očekávaná vnitřní změna v něm nenastala.

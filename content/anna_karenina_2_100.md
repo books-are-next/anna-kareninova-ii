@@ -1,5 +1,6 @@
 ---
 title: XXVIII
+contentType: prose
 ---
 
 Bylo slunné počasí. Celé dopoledne hustě, drobně pršelo a před chvílí se vyjasnilo. Plechová krytina střech, dlaždice chodníků, kamenná dlažba, kola i kůže, mosaz i plech povozů – vše se jasně třpytilo v májovém slunci. Byly tři hodiny, kdy v ulicích panuje největší ruch.

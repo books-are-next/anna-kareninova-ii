@@ -1,5 +1,6 @@
 ---
 title: III
+contentType: prose
 ---
 
 Kitty byla zvlášť ráda, že se jí naskytla příležitost být s mužem o samotě. Všimla si, jak mu po tváři, v níž se vše tak živě odráželo, přeběhl mráček nevole ve chvíli, kdy vešel na terasu a zeptal se, o čem mluvily, ale nedostal odpověď.

@@ -1,5 +1,6 @@
 ---
 title: IX
+contentType: prose
 ---
 
 Opuštěný starý palác s vysokými štukovými stropy a freskami na zdech, s mozaikovými podlahami, s těžkými, vlněnými žlutými závěsy na vysokých oknech, s vázami na stojáncích a krbech, s vyřezávanými dveřmi a ponurými sály plnými obrazů – tento palác, když se do něho přestěhovali, už svým vzhledem utvrzoval Vronského v příjemném bludu, že není ani tak ruský statkář, gardový myslivec mimo službu, jako osvícený milovník a podpůrce umění, sám skromný umělec, který se zřekl společnosti, vlivných styků a kariéry pro milovanou ženu.

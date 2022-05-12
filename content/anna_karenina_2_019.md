@@ -1,5 +1,6 @@
 ---
 title: XIV
+contentType: prose
 ---
 
 Levin byl ženatý už třetí měsíc. Byl šťastný, ale docela jinak, než si představoval. Na každém kroku ho čekalo zklamání v dřívějších snech i nové nenadálé okouzlení. Levin byl šťastný, ale sotva vkročil do rodinného života, viděl na každém kroku, že je to docela jiné, než si představoval. Na každém kroku prožíval, co by prožil člověk, který by zálibně sledoval klidnou, šťastnou plavbu loďky na jezeře, a pak by se do té loďky posadil. Viděl, že nestačí sedět rovně a nekymácet se – nikoli, člověk nesmí ani na okamžik zapomenout, kam má plout, a přitom musí mít na zřeteli, že má pod sebou vodu a že musí veslovat, až ho ruce rozbolí, poněvadž na to není zvyklý; že je snadné jenom se dívat, ale když se to má dělat, je to sice velmi radostné, ale přetěžké.

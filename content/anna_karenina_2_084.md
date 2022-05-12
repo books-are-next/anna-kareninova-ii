@@ -1,5 +1,6 @@
 ---
 title: XII
+contentType: prose
 ---
 
 Když Anna vyprovodila hosty, nesedla si, ale začala chodit po pokoji sem tam. Ačkoli podvědomě (jak poslední dobou jednala se všemi mladými muži) dělala celý večer všecko možné, aby v Levinovi vzbudila sympatie, třebaže věděla, že toho dosáhla, pokud lze něčeho takového dosáhnout u řádného ženatého muže a za jediný večer, a třebaže se jí velice líbil (přestože se Vronskij a Levin z mužského hlediska od sebe ostře lišili, jako žena v nich viděla týž společný rys, pro který si i Kitty zamilovala jak Vronského, tak Levina), jakmile odešel z pokoje, přestala na něho myslit.

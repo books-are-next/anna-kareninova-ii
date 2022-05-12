@@ -1,5 +1,6 @@
 ---
 title: XIV
+contentType: prose
 ---
 
 Levin se díval před sebe a viděl stádo, potom uviděl svůj vozík tažený Vraníkem a kočího, který dojel ke stádu a mluvil s pastýřem; potom uslyšel už docela zblízka rachot kol a frkání vypaseného koně; ale byl tak zabrán do svých myšlenek, že ani neuvažoval, proč vlastně kočí za ním jede.

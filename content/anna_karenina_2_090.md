@@ -1,5 +1,6 @@
 ---
 title: XVIII
+contentType: prose
 ---
 
 „Ještě mám něco, ty víš co. Týká se to Anny,“ řekl po krátké pomlčce Stěpan Arkaďjič, když ze sebe setřásl nelibý dojem.

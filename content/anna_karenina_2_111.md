@@ -1,5 +1,6 @@
 ---
 title: VII
+contentType: prose
 ---
 
 Agafja po špičkách odešla. Chůva stáhla roletu, zahnala mouchy zpod mušelínové záclonky nad postýlkou i sršně, který sebou tloukl o okenní tabuli, usedla a ovívala vadnoucí březovou větví matku i dítě.

@@ -1,5 +1,6 @@
 ---
 title: XI
+contentType: prose
 ---
 
 Toho dne, kdy Koznyšov přijel do Pokrovského, měl Levin jeden ze svých nejhorších dnů.

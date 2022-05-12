@@ -1,5 +1,6 @@
 ---
 title: IV
+contentType: prose
 ---
 
 Na zastávce v gubernském městě nešel Sergej Ivanovič do bufetu, ale procházel se po nástupišti sem a tam.

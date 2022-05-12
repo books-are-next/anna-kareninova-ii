@@ -1,5 +1,6 @@
 ---
 title: XXX
+contentType: prose
 ---
 
 Zase jedu! Zase všecko chápu, řekla si Anna, jakmile se koleska houpavě rozjela a zahrčela na drobné dlažbě, a opět se začaly střídat dojmy jeden za druhým.

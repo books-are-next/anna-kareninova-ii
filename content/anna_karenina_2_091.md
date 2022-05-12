@@ -1,5 +1,6 @@
 ---
 title: XIX
+contentType: prose
 ---
 
 Stěpan Arkaďjič už byl na odchodu, když přišel Korněj a hlásil:

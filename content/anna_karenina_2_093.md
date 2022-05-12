@@ -1,5 +1,6 @@
 ---
 title: XXI
+contentType: prose
 ---
 
 Po skvostném obědě a značném množství koňaku, vypitého u Bart­ňanského, přišel Stěpan Arkaďjič jen s nepatrným zpožděním k hraběnce Lydii Ivanovně.

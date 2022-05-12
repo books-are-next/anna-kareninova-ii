@@ -1,5 +1,6 @@
 ---
 title: V
+contentType: prose
 ---
 
 Do kostela přišla celá Moskva, příbuzní a známí. A při svatebním obřadu v nádherně osvětleném kostele, v kruhu vyšňořených paní a dívek a pánů s bílými nákrčníky, ve fracích a uniformách, ne­utuchal diskrétní tichý hovor, který začínali převážně muži, kdežto ženy se cele oddaly sledování všech detailů posvátného úkonu, který je vždy tolik dojímá.

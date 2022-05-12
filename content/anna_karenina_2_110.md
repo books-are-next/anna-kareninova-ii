@@ -1,5 +1,6 @@
 ---
 title: VI
+contentType: prose
 ---
 
 Poněvadž Sergej Ivanovič nevěděl, kdy bude moci odjet z Moskvy, netelegrafoval bratrovi, aby mu poslal povoz. Levin nebyl doma, když Katavasov a Sergej Ivanovič, zčernalí prachem jako mouřenínové, dojeli v kryté čtyřkolce vypůjčené na stanici kolem poledne k pokrovské usedlosti. Kitty seděla s otcem a sestrou na balkóně. Poznala švagra a běžela dolů, aby ho uvítala.

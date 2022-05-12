@@ -1,5 +1,6 @@
 ---
 title: XXXIII
+contentType: prose
 ---
 
 Vronskij se poprvé na Annu mrzel, skoro se na ni zlobil, že si nechce uvědomit své postavení. Ten pocit byl ještě vystupňován tím, že jí nemohl vysvětlit příčinu své rozmrzelosti. Kdyby jí rovnou řekl, co si myslí, řekl by: „Přijít v tomto úboru, v doprovodu známé princezny do divadla – znamená nejen přiznat své postavení padlé ženy, ale také hodit rukavici vznešené společnosti, to jest zříci se jí navždycky.“

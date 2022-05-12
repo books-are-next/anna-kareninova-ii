@@ -1,5 +1,6 @@
 ---
 title: XXIII
+contentType: prose
 ---
 
 Aby se v rodinném životě mohlo něco podniknout, k tomu je nezbytný buď naprostý rozkol mezi manžely, anebo láskyplná shoda. Je-li poměr mezi manžely nejasný a chybí jedno i druhé, pak nelze podnikat nic.

@@ -1,5 +1,6 @@
 ---
 title: XXII
+contentType: prose
 ---
 
 Alexej Alexandrovič zapomněl na hraběnku Lydii Ivanovnu, ale ona nezapomněla na něho. V nejtěžší chvíli osamělého zoufalství přijela k němu a bez ohlášení vstoupila do pracovny. Seděl s hlavou v dlaních a tak ho nalezla.

@@ -1,5 +1,6 @@
 ---
 title: XVI
+contentType: prose
 ---
 
 Darja Alexandrovna dostála svému předsevzetí a jela k Anně. Bylo jí velice líto, že to snad zarmoutí sestru a nemile se dotkne jejího muže. Chápala, že Levinovi jsou zcela v právu, nechtějí-li mít žádné styky s Vronským. Ale pokládala za svou povinnost navštívit Annu a dokázat jí, že její vztah se nemůže změnit, i když je Anna v jiné situaci.

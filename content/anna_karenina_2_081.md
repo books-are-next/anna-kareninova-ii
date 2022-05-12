@@ -1,5 +1,6 @@
 ---
 title: IX
+contentType: prose
 ---
 
 „Kočár knížete Oblonského!“ zlostným bručivým hlasem zavolal vrátný. Kočár předjel a oba nasedli. Jen v první chvíli, dokud kočár vyjížděl ze vrat, měl Levin dosavadní pocit klubovního klidu, uspokojení i dojem nesporného dobrého tónu všude a ve všem. Ale sotvaže kočár vyjel na ulici a Levin cítil, jak se kymácí na hrbolaté dlažbě, sotvaže uslyšel zlostný pokřik drožkáře, jedoucího proti nim, sotvaže uviděl v matném osvětlení červený vývěsní štít hospody a krámku, celý dojem se rozplynul vniveč, Levin začal uvažovat o svém jednání a v duchu se tázal, zda je správné, že jede k Anně. Co tomu řekne Kitty? Ale Stěpan Arkaďjič ho nenechal přemýšlet, a jako by uhádl jeho pochybnosti, hned je rozptýlil.

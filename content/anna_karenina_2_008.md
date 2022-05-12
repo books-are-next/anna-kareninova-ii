@@ -1,5 +1,6 @@
 ---
 title: III
+contentType: prose
 ---
 
 Zástup lidu, zejména žen, se nahrnul kolem osvětleného kostela. Ti, kdo se včas nedostali dovnitř, tlačili se kolem oken, strkali se, hádali a nakukovali skrz mříže.

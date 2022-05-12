@@ -1,5 +1,6 @@
 ---
 title: VII
+contentType: prose
 ---
 
 Levin se vrátil domů, teprve když pro něho vzkázali k večeři. Na schodech stála Kitty s Agafjou a radily se, jaká vína mají k večeři podávat.

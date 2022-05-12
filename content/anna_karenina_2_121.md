@@ -1,5 +1,6 @@
 ---
 title: XVII
+contentType: prose
 ---
 
 Kníže a Sergej Ivanovič nasedli do vozíku a odjeli. Ostatní společnost šla domů pěšky, přidávajíc do kroku.

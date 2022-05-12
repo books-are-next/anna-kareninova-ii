@@ -1,5 +1,6 @@
 ---
 title: VII
+contentType: prose
 ---
 
 Vronskij a Anna cestovali spolu už tři měsíce po Evropě. Byli v Benátkách, v Římě, v Neapoli a teď právě přijeli do menšího italského města, kde se chtěli na nějaký čas usadit.

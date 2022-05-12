@@ -1,5 +1,6 @@
 ---
 title: XXX
+contentType: prose
 ---
 
 Svijažskij vzal Levina pod paží a šel s ním ke svým přátelům. Teď už nebylo možné vyhnout se Vronskému. Stál s Oblonským a Koznyšovem a díval se přímo na přicházejícího Levina.

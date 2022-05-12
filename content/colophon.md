@@ -2,16 +2,15 @@
 title: Tiráž
 ---
 
-***
-
-Anna  
-Kareninová  
-II
-
-Lev Nikolajevič Tolstoj
-
-_Přeložila Taťjana Hašková_
-
+**Lev Nikolajevič Tolstoj    
+Anna Kareninová II**  
+Edice Klasická světová próza  
+Překlad Taťjana Hašková  
+Ilustrace na obálce Mikhail Zahranichny/Shutterstock.com  
+Redakce Markéta Teuchnerová  
+Vydala Městská knihovna v Praze  
+Mariánské nám. 1, 115 72 Praha 1  
+1. vydání z 12. 5. 2022.
 
 ***
 
@@ -25,44 +24,7 @@ Text díla (Lev Nikolajevič Tolstoj: Anna Kareninová II), publikovaného [Měs
 
 Vydání (obálka, upoutávka, citační stránka a grafická úprava), jehož autorem je Městská knihovna v Praze, podléhá licenci [Creative Commons Uveďte autora-Nevyužívejte dílo komerčně-Zachovejte licenci 3.0 Česko](https://creativecommons.org/licenses/by-nc-sa/3.0/cz/).
 
-Verze 1.0 z 18. 2. 2019.
 
   
 
 ![image002.jpg](./resources/image002_fmt.png)
-
-
-***
-
-**Lev Nikolajevič Tolstoj  
-Anna Kareninová II**
-
-  
-
-Edice Klasická světová próza
-
-Překlad Taťjana Hašková
-
-Ilustrace na obálce Mikhail Zahranichny/Shutterstock.com
-
-Redakce Markéta Teuchnerová
-
-  
-
-Vydala Městská knihovna v Praze
-
-Mariánské nám. 1, 115 72 Praha 1
-
-  
-
-V MKP 1. vydání
-
-Verze 1.0 z 18. 2. 2019
-
-  
-
-ISBN 978-80-7602-524-0 (epub)
-
-ISBN 978-80-7602-525-7 (pdf)
-
-ISBN 978-80-7602-526-4 (prc)

@@ -1,5 +1,6 @@
 ---
 title: X
+contentType: prose
 ---
 
 Malíř Michajlov měl jako vždy napilno, když mu byly přineseny navštívenky hraběte Vronského a Goleniščeva. Dopoledne pracoval v ateliéru na velkém plátně. Když přišel domů, rozzlobil se na ženu, že si neuměla poradit s domácí, která chtěla peníze.

@@ -1,5 +1,6 @@
 ---
 title: XXVI
+contentType: prose
 ---
 
 „Tak co, Kapitonyči?“ řekl Serjoža, když se den před svými narozeninami vrátil zčervenalý a veselý z procházky a podával svůj nabíraný kabátek velikánskému starému vrátnému, který se na malého človíčka shovívavě usmíval. „Byl tu dnes ten obvázaný úředník? Přijal ho tatínek?“

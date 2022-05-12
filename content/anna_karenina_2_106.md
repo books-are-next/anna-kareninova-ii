@@ -1,5 +1,6 @@
 ---
 title: II
+contentType: prose
 ---
 
 Sotvaže Koznyšov a Katavasov dojeli na stanici kurské dráhy, dnes zvlášť oživenou zástupy lidu, vystoupili z kočáru a vyhledali sluhu, který jel se zavazadly za nimi, už přijeli i dobrovolníci ve čtyřech drožkách. Dámy s kyticemi je uvítaly a dobrovolníci vešli na nádraží, provázeni zástupem, který se valil za nimi.

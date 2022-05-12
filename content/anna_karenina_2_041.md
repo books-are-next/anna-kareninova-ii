@@ -1,5 +1,6 @@
 ---
 title: II
+contentType: prose
 ---
 
 Na terase se shromáždila celá dámská společnost. Vůbec tam po obědě rády sedávaly, ale dnes měly ke všemu práci. Kromě šití košilek a háčkování povijánů, kterým byly všecky zaměstnány, se tam dnes zavářelo podle metody, jež byla pro Agafju Michajlovnu novinkou, totiž bez přidání vody. Kitty zaváděla tuto novou metodu, které se používalo u nich doma. Dříve to mívala na starosti Agafja, a jelikož pokládala za vyloučené, že by se u Levinů něco dělalo špatně, přece nalila do zahradních a lesních jahod vodu a tvrdila, že to jinak nejde. Byla přistižena a teď se zavářely maliny v přítomnosti všech. Agafja měla být názorně přesvědčena, že i bez vody se zavařenina povede.

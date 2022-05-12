@@ -1,5 +1,6 @@
 ---
 title: XII
+contentType: prose
 ---
 
 Anna a Vronskij se na sebe už dlouho dívali, rozzlobeni na přítele pro jeho učenou mnohomluvnost, a Vronskij už nakonec nečekal na malířovo vyzvání a šel k dalšímu, menšímu obrazu.

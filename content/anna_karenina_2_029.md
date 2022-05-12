@@ -1,5 +1,6 @@
 ---
 title: XXIV
+contentType: prose
 ---
 
 Návštěva u dvora končila. Lidé, kteří se na odchodu potkávali, přetřásali poslední novinku dne, totiž komu byly nově uděleny řády a kteří významní úředníci byli přeloženi.

@@ -1,5 +1,6 @@
 ---
 title: XXI
+contentType: prose
 ---
 
 „Ne, myslím, že kněžna je asi unavená a koně ji nezajímají,“ řekl Vronskij Anně, když navrhla, aby šli do hřebčince, kde se chtěl Svijažskij podívat na nového hřebce. „Vy jděte a já doprovodím kněžnu domů a pohovoříme si, nemáte-li nic proti tomu,“ obrátil se k Darje Alexandrovně.

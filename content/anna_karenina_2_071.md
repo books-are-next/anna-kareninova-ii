@@ -1,5 +1,6 @@
 ---
 title: XXXII
+contentType: prose
 ---
 
 Než Vronskij odjel k volbám, uvážila Anna, že scény, které se mezi nimi opakovaly při každém jeho odjezdu, by v něm spíš mohly vzbudit jen chlad, než aby ho připoutaly; proto si řekla, že se všemožně ovládne, aby snášela rozloučení klidně. Avšak chladný, strohý pohled, s jakým jí přišel oznámit svůj odjezd, ji urazil, a Vronskij ještě ani neodjel, a její klid už byl tentam.

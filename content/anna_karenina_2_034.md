@@ -1,5 +1,6 @@
 ---
 title: XXIX
+contentType: prose
 ---
 
 Když se Anna vracela do Ruska, pomýšlela také na shledání se synkem. Od toho dne, co odjela z Itálie, myšlenka na to shledání ji neustále rozechvívala. A čím víc se blížila k Petrohradu, tím se jí zdálo radostnější a významnější. Ani si nekladla otázku, jak to zařídí. Myslila, že je přirozené a jednoduché uvidět syna, když bude v témž městě jako on; ale když přijela do Petrohradu, tu si jasně uvědomila své nynější společenské postavení a pochopila, že shledání je těžko uskutečnitelné.

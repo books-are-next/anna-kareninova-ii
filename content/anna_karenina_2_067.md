@@ -1,5 +1,6 @@
 ---
 title: XXVIII
+contentType: prose
 ---
 
 Levin stál dost daleko. Vedle něho těžce, chrčivě oddychoval jakýsi šlechtic a jiný šoupal tlustými podešvemi. Levina to rušilo, takže neslyšel dobře. Slyšel z dálky něžný hlas maršálkův, pak vřískavý hlas jízlivého šlechtice a Svijažského. Přeli se, pokud rozuměl, o smysl jistého článku zákona a o význam slov _býti vyšetřován_.

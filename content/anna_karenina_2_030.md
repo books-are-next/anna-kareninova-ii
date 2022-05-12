@@ -1,5 +1,6 @@
 ---
 title: XXV
+contentType: prose
 ---
 
 Když Alexej Alexandrovič vstoupil do malého, útulného salónku hraběnky Lydie Ivanovny, plného starožitného porcelánu a podobizen, paní domu tu ještě nebyla. Převlékala se.

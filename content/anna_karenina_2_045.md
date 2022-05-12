@@ -1,5 +1,6 @@
 ---
 title: VI
+contentType: prose
 ---
 
 Zatímco děti svačily, seděli dospělí na balkóně a rozprávěli, jako by se nic nestalo, ačkoli všichni – zejména Sergej Ivanovič a Váreňka – velmi dobře věděli, že se stala byť nepříznivá, ale přece důležitá věc. Oba měli stejné pocity, jaké mívá žák, když musí po neúspěšné zkoušce opakovat třídu anebo je provždy vyloučen ze školy. Všichni přítomní rovněž tušili, že se něco zběhlo, a živě se bavili o vedlejších věcech. Levin a Kitty byli dnes večer zvlášť šťastní a milostně naladění. A to, že byli šťastní ve své lásce, obsahovalo nemilou narážku na ty, kdo také toužili po lásce a nemohli ji mít – až si to Levin a Kitty vyčítali.

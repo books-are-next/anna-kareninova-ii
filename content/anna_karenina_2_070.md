@@ -1,5 +1,6 @@
 ---
 title: XXXI
+contentType: prose
 ---
 
 Nově zvolený gubernský maršálek a četní příslušníci vítězné strany obědvali toho dne u Vronského.

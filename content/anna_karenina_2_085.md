@@ -1,5 +1,6 @@
 ---
 title: XIII
+contentType: prose
 ---
 
 Člověk si zvykne na všecko, zvlášť když vidí, že celé okolí žije stejně jako on. Před třemi měsíci by Levin nebyl uvěřil, že by mohl klidně usnout za takových okolností jako nyní; že by dokázal vést bezúčelný, nesmyslný život, ke všemu nad poměry, opíjet se (jinak nemohl nazvat to, co se dělo v klubu), navazovat nejapné přátelské vztahy s člověkem, do něhož kdysi byla zamilovaná jeho manželka, učinit ještě nejapnější návštěvu ženě, kterou nebylo lze nazvat jinak než beznadějně ztracenou, propadnout kouzlu té ženy a zarmoutit manželku – a za všech těch okolností klidně usnout. Ale únavou, po bezesné noci a vypitém víně usnul pevně a klidně.

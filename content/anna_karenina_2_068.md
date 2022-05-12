@@ -1,5 +1,6 @@
 ---
 title: XXIX
+contentType: prose
 ---
 
 Úzký sál, v kterém se kouřilo a podávalo se občerstvení, byl plný šlechticů. Ruch stále stoupal a na všech tvářích bylo znát neklid. Zvlášť rozčileni byli předáci, kteří znali všecko podrobně a věděli, jaký je poměr hlasů. Byli to pořadatelé nastávající bitvy. Ostatní se jako řadoví vojíni sice připravovali k boji, ale prozatím hledali rozptýlení. Někteří jedli vstoje nebo si přisedli ke stolu. Jiní přecházeli sem tam po dlouhé místnosti, kouřili cigarety a rozprávěli se známými, které tu po dlouhé době potkali.

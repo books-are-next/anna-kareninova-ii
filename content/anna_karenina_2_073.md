@@ -1,5 +1,6 @@
 ---
 title: I
+contentType: prose
 ---
 
 Levinovi žili už třetí měsíc v Moskvě. Už dávno minula lhůta, kdy podle nejspolehlivějších výpočtů lidí, rozumějících těm věcem, měla Kitty rodit. Zatím ještě byla s outěžkem a neobjevily se žádné známky, že by teď její těžká hodinka byla blíž než před dvěma měsíci. Lékař i porodní asistentka, Dolly i matka, a především Levin, který nemohl na nastávající událost pomyslit bez hrůzy, všichni začínali být netrpěliví a neklidní. Jen Kitty se cítila dokonale klidná a šťastná.
