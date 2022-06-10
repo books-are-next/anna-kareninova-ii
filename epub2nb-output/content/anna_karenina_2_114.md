@@ -3,6 +3,8 @@ title: X
 contentType: prose
 ---
 
+<section>
+
 Když Levin o sobě přemýšlel, co vlastně je a proč žije, nenalézal odpověď a propadal zoufalství; ale když se na to přestal v duchu ptát, najednou jaksi věděl, co je i proč žije, poněvadž jednal a žil s jistotou a určitostí; ta životní jistota a určitost byla poslední čas dokonce větší než dříve.
 
 Počátkem června se vrátil na venkov a vrátil se i k svému obvyklému zaměstnání. Hospodářství, styky s rolníky a se sousedy, domácnost, záležitosti sestřiny a bratrovy, o které se staral, vztah k ženě a k příbuzným, péče o dítě, včelařství, kterým se horlivě zabýval od letošního jara, to vše mu vyplňovalo čas.
@@ -32,3 +34,5 @@ Zda jedná dobře, či špatně, nevěděl a už by teď nerad něco dokazoval,
 Uvažování v něm budilo pochybnosti a bránilo mu, aby viděl, co má a co nemá být. Když nepřemýšlel, ale žil, tu si neustále uvědomoval ve své duši přítomnost neomylného soudce, jenž rozhodoval, který ze dvou možných skutků je lepší a který horší; a jakmile nejednal správně, hned to vytušil.
 
 Tak žil, nevěděl ani neviděl možnost poznání, co vlastně je a proč žije na světě, trápil se pro tu nevědomost do té míry, že se bál sebevraždy, ale přitom si pevně razil vlastní, osobitou, určitou cestu životem.
+
+</section>

@@ -3,6 +3,8 @@ title: VIII
 contentType: prose
 ---
 
+<section>
+
 Od té chvíle, co Levin viděl umírat milovaného bratra a poprvé pohlédl na otázky života a smrti ze stanoviska oněch nových (jak říkal) názorů, které v období mezi dvacátým až čtyřicátým rokem nepozorovaně vystřídaly jeho dětské a jinošské krédo – nezhrozil se ani tak smrti, jako života, o němž neměl ani ponětí, odkud se bere, proč a nač a co vlastně znamená. Organismus, jeho rozklad, nezničitelnost hmoty, zákon zachování energie, vývoj – tato slova mu nahradila dřívější víru. Ta slova a pojmy s nimi související se velmi dobře hodily k účelům intelektuálním; ale pro život nic nedávaly a Levin si pojednou připadal jako člověk, který by vyměnil teplý kožich za mušelínový šat, a až by se poprvé octl na mraze, nezvratně by se přesvědčil nikoli úvahou, ale celou svou bytostí, že je na tom stejně, jako kdyby byl nahý, a že strašlivá zkáza ho nemine.
 
 Od té chvíle – i když si to neuvědomoval a žil jako dříve – Levin pro svou nevědomost pociťoval neustálý strach.
@@ -24,3 +26,5 @@ A druhá věc: když přečetl mnoho knih, dospěl k přesvědčení, že lid�
 Kromě toho, když žena rodila, stala se mu neobyčejná věc. On, člověk nevěřící, se začal modlit a v té chvíli, kdy se modlil, věřil. Ale ta chvíle minula a Levin nevěděl, kam tehdejší náladu do svého života zařadit.
 
 Nemohl uznat, že tehdy znal pravdu, kdežto nyní se mýlí; kdykoli o tom začal klidně přemýšlet, všecko se tříštilo na kousky; právě tak nemohl uznat, že se tehdy mýlil, poněvadž si tehdejšího rozpoložení mysli vysoko cenil, a kdyby je považoval za daň slabosti, poskvrnil by vzpomínku na ty chvíle. Byl v mučivém rozporu sám se sebou a napínal všechny duševní síly, aby se z něho vymanil.
+
+</section>

@@ -3,6 +3,8 @@ title: VI
 contentType: prose
 ---
 
+<section>
+
 „Panstvo možná nepřijímá?“ řekl Levin, když vstupoval do předsíně v domě hraběnky Bolové.
 
 „Přijímá, jen račte,“ řekl vrátný a energicky mu pomohl z kožichu.
@@ -51,6 +53,10 @@ Na veřejném zasedání komitétu byla spousta lidí a téměř celá lepší 
 
 Levin zajel se švagrovou domů, a když shledal, že Kitty je veselá a spokojená, jel do klubu.
 
-  
+</section>
+
+<section>
 
 [^46]: Bláznivý den. _(franc.)_
+
+</section>

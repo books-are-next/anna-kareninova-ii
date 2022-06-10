@@ -3,6 +3,8 @@ title: XII
 contentType: prose
 ---
 
+<section>
+
 Levin procitl časně na úsvitu a pokusil se vzbudit kamarády. Váseňka ležel na břiše, jednu nohu v punčoše nataženou, a spal tak tvrdě, že z něho Levin nedostal odpověď. Oblonskij zahučel ze spaní, že tak brzo nepůjde. I Laska, která spala stočená do klubíčka v koutě na seně, vstala nerada a líně si protahovala a narovnávala zadní nohy. Levin se obul, vzal pušku, opatrně otevřel vrzavé dveře a vyšel ven. Vozkové spali u povozů, koně dřímali. Jen jeden líně žral oves a rozhazoval jej chřípím po žlabu. Venku bylo ještě šero.
 
 „Co tak brzo, můj holečku?“ přátelsky jako k starému dobrému známému se k němu obrátila stará hospodyně, která vyšla z chalupy.
@@ -42,3 +44,5 @@ Jeden z kluků přiběhl k Levinovi.
 „Strejdo, včera tu byly kačeny,“ zavolal na něho a pak ho zpovzdáli sledoval.
 
 A když Levin vzápětí střelil tři bekasiny jednu po druhé a chlapec se tvářil uznale, těšilo ho to dvojnásob.
+
+</section>

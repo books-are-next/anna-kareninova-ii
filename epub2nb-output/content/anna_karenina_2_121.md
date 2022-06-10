@@ -3,6 +3,8 @@ title: XVII
 contentType: prose
 ---
 
+<section>
+
 Kníže a Sergej Ivanovič nasedli do vozíku a odjeli. Ostatní společnost šla domů pěšky, přidávajíc do kroku.
 
 Ale mrak, chvílemi přecházející do běla a zase do černa, se hnal tak prudce, že museli ještě zrychlit krok, aby přišli domů, než se rozprší. Mračna vpředu, nízká a černá jako dým se sazemi, letěla nesmírnou rychlostí po obloze. K domu zbývalo ještě nějakých dvě stě kroků, když už se strhl vítr a každý okamžik se mohl spustit liják.
@@ -50,3 +52,5 @@ Míťovi se nic nestalo, ani trochu nezmokl a klidně spal.
 Sebrali mokré plenky. Chůva vzala dítě z kočárku a nesla je.
 
 Levin šel vedle ženy. Vyčítal si, že se na ni zlobil, a provinile jí tiskl ruku, aby chůva neviděla.
+
+</section>

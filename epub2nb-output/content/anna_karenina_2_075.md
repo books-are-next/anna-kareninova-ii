@@ -3,6 +3,8 @@ title: III
 contentType: prose
 ---
 
+<section>
+
 Za svého nynějšího pobytu v Moskvě se Levin opět začal stýkat s bývalým kolegou ze studií profesorem Katavasovem, s kterým se od svatby neviděl. Na Katavasovovi mu imponoval jeho jasný a prostý světový názor. Levin se domníval, že Katavasovův jasný světový názor plyne z jeho jednoduché povahy, kdežto Katavasov soudil, že Levinova názorová nedůslednost plyne z nedostatku duševní kázně. Avšak Levinovi se líbila profesorova jednoznačnost a nadbytek Levinových neukázněných myšlenek se líbil profesorovi. Rádi se scházeli a debatovali.
 
 Levin předčítal Katavasovovi některé pasáže ze svého spisu a Katavasovovi se líbily. Včera se potkali na veřejné přednášce. Katavasov Levinovi sdělil, že proslulý Metrov, jehož studie se Levinovi tak líbila, je toho času v Moskvě a má prý velký zájem o všecko, co mu Katavasov říkal o Levinově práci; že zítra v jedenáct bude Metrov u něho a velice rád by se s Levinem seznámil.
@@ -56,3 +58,5 @@ Ačkoli se Levin o vědcův životopis valně nezajímal, přece bezděčně po
 Když přednášející skončil, předseda mu poděkoval a potom přečetl verše, jež mu k tomuto jubileu zaslal básník Ment, a několika slovy vyjádřil básníkovi dík. Potom přednesl Katavasov silným, pronikavým hlasem své poznámky o vědeckých pracích jubilantových.
 
 Když Katavasov domluvil, podíval se Levin na hodinky, zjistil, že už táhne na druhou, a řekl si, že před koncertem už nebude mít čas přečíst Metrovovi svůj spis, a teď už o to ani nestál. Při přednášce myslil i na nedávnou rozmluvu. Bylo mu teď jasné, že Metrovovy myšlenky sice snad mají svůj význam, že však význam mají i jeho vlastní myšlenky; tyto myšlenky mohou být ujasněny a k něčemu vést jen tenkrát, když budou pracovat každý zvlášť na zvoleném úseku, ale ze vzájemného sdělování těchto myšlenek nemůže vzejít nic kloudného. Levin se rozhodl, že Metrovovo pozvání odmítne, a ke konci zasedání šel za ním. Metrov seznámil Levina s předsedou, s kterým rozmlouval o nejnovějších politických zprávách. Při tom Metrov vyprávěl předsedovi totéž, co vyprávěl Levinovi, a Levin k tomu učinil stejné poznámky jako dnes dopoledne, jen vyslovil pro větší rozmanitost ještě nový názor, který ho zrovna napadl. Pak se opět začalo o univerzitním problému. Jelikož to Levin už všecko slyšel, pospíšil Metrovovi říci, že velmi lituje, ale nemůže přijmout jeho laskavé pozvání, odporoučel se a jel ke Lvovovi.
+
+</section>

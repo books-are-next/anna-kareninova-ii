@@ -3,6 +3,8 @@ title: XXV
 contentType: prose
 ---
 
+<section>
+
 Když Alexej Alexandrovič vstoupil do malého, útulného salónku hraběnky Lydie Ivanovny, plného starožitného porcelánu a podobizen, paní domu tu ještě nebyla. Převlékala se.
 
 Na kulatém stole byl prostřen ubrus a stála na něm čínská čajová souprava a stříbrná konvice s lihovým vařičem. Alexej Alexandrovič přelétl roztržitým pohledem nesčetné známé podobizny zdobící salónek, sedl si ke stolu a rozevřel evangelium, které tu leželo. Vyrušil ho šelest hraběnčiných hedvábných šatů.
@@ -35,7 +37,9 @@ Hraběnka Lydie Ivanovna si zastřela tvář a odmlčela se. Modlila se.
 
 Nakonec Alexej Alexandrovič svolil a hraběnka Lydie Ivanovna napsala francouzský dopis.
 
-  
+</section>
+
+<section>
 
 „Milostivá paní,
 
@@ -52,3 +56,5 @@ Vzpomínka na ženu, jež se na něm tolik provinila a vedle níž byl takovým
 A stejný pocit studu a lítosti teď prožíval, když si v duchu rozebíral jejich společnou minulost a vzpomínal, jak neobratnými slovy ji po dlouhém váhání požádal o ruku.
 
 „Ale v čem je vlastně má chyba?“ říkal si. A ta otázka v něm vždy vyvolávala otázku další – zda jinak cítí, jinak milují, jinak se žení ti jiní lidé, ti Vronští, Oblonští… ti komoří s tlustými lýtky. A tu se mu vybavoval celý šik těch svěžích, zdatných, sebejistých lidí, kteří mimoděk vždy a všude budí zvědavost a pozornost. Odháněl ty myšlenky, hleděl se ujistit, že nežije pro vezdejší pomíjivý život, nýbrž pro život věčný, že v jeho duši přebývá pokoj a láska. Ale že se v tom pomíjivém nicotném životě dopustil – jak si myslil – některých nicotných omylů, to ho tak trýznilo, jako by ani nebylo věčné spásy, v kterou věřil. Pokušení však netrvalo dlouho a záhy se Alexejovi Alexandroviči v duši opět rozhostil vznešený klid, takže mohl zapomínat, nač nechtěl vzpomínat.
+
+</section>

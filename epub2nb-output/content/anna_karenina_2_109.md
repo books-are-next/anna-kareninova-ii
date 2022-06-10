@@ -3,6 +3,8 @@ title: V
 contentType: prose
 ---
 
+<section>
+
 V šikmém večerním stínu žoků naházených na nástupišti chodil Vronskij ve svém dlouhém plášti a naraženém klobouku, ruce v kapsách, chodil jako šelma v kleci a po každých dvaceti krocích se prudce obracel. Když se k němu Sergej Ivanovič blížil, zdálo se mu, že ho Vronskij vidí, ale dělá, jako by ho neviděl. Sergejovi Ivanoviči to nevadilo. Byl povznesen nad jakékoli osobní účty.
 
 V té chvíli viděl Sergej Ivanovič ve Vronském významného činitele ve veliké věci a měl za svou povinnost povzbudit ho i pochválit. Přikročil k němu.
@@ -38,3 +40,5 @@ Když mlčky přešel dvakrát kolem žoků a už se ovládl, obrátil se klidn
 „Nečetl jste po včerejšku další zprávy? Ano, byli poraženi potřetí, ale nazítří má dojít k rozhodující bitvě.“
 
 Pohovořili ještě o tom, že Milan byl prohlášen za krále, což může mít nedozírné následky, a po druhém zvonění se rozešli každý do svého vozu.
+
+</section>

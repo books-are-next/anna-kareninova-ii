@@ -3,6 +3,8 @@ title: XXVI
 contentType: prose
 ---
 
+<section>
+
 „Tak co, Kapitonyči?“ řekl Serjoža, když se den před svými narozeninami vrátil zčervenalý a veselý z procházky a podával svůj nabíraný kabátek velikánskému starému vrátnému, který se na malého človíčka shovívavě usmíval. „Byl tu dnes ten obvázaný úředník? Přijal ho tatínek?“
 
 „Ano. Jak odešel pan přednosta, hned jsem ho ohlásil,“ řekl vrátný a vesele mrkl na Serjožu. „Račte prosím, sundám vám kabátek.“
@@ -88,3 +90,5 @@ Zvolil k tomu okamžik, kdy učitel hleděl do knihy. „Michaile Ivanyči, kdy
 „Měl byste raději myslit na svou práci, svátek nemá pro tvora rozumného nižádný význam. Je to stejný den jako všecky ostatní, kdy musíme pracovat.“
 
 Serjoža pozorně pohlédl na učitele, na jeho řídké vousy, na brýle, které se mu svezly pod vytlačenou rýhu na nose, a zamyslil se tak, že už neslyšel nic, co mu učitel vysvětloval. Chápal, že si učitel nemyslí doopravdy, co říká, vycítil to z tónu, jakým to bylo řečeno. Ale proč se všichni smluvili, že to budou vykládat pořád stejně a pořád samé nudné a zbytečné věci? Proč ho pan učitel od sebe odstrkuje, proč ho nemá rád? Tak se v duchu smutně tázal a nemohl najít odpověď.
+
+</section>

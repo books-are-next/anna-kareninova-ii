@@ -3,6 +3,8 @@ title: XXII
 contentType: prose
 ---
 
+<section>
+
 Alexej Alexandrovič zapomněl na hraběnku Lydii Ivanovnu, ale ona nezapomněla na něho. V nejtěžší chvíli osamělého zoufalství přijela k němu a bez ohlášení vstoupila do pracovny. Seděl s hlavou v dlaních a tak ho nalezla.
 
 „J’ai forcé la consigne,“[^5] řekla, když vstoupila rychlým krokem, těžce oddychujíc rozčilením i tím, jak rychle šla. „Všecko jsem slyšela! Alexeji Alexandroviči! Příteli!“ pokračovala, oběma rukama mu pevně tiskla ruku a hleděla mu do očí krásnýma zádumčivýma očima.
@@ -55,12 +57,18 @@ Hraběnka Lydie Ivanovna ještě jednou stiskla příteli obě ruce.
 
 Hraběnka Lydie Ivanovna se odebrala do Serjožových pokojů a tam řekla zděšenému chlapci, skrápějíc jeho tváře slzami, že jeho otec je světec a matka že zemřela.
 
-  
+</section>
+
+<section>
 
 Hraběnka Lydie Ivanovna splnila svůj slib. Opravdu si vzala na starost celou Kareninovu domácnost. Jenže nijak nepřeháněla, když tvrdila, že není silná v praktických věcech. Všecka nařízení musela být měněna, jelikož byla neproveditelná. Měnil je Korněj, komorník Alexeje Alexandroviče. Nenápadně se ujal vedení celé Kareninovy domácnosti a vždycky při oblékání klidně a obezřele hlásil pánovi, co bylo třeba. Ale pomoc Lydie Ivanovny byla přesto nanejvýš účinná. Poskytla Alexejovi Alexandroviči mravní oporu tím, že se přesvědčil o její lásce a úctě, a zejména tím (jak si v duchu lichotila), že ho takřka obrátila na křesťanskou víru, že totiž z člověka lhostejně a liknavě věřícího učinila vášnivého, neochvějného stoupence nové křesťanské věrouky, jež se poslední dobou rozšířila v Petrohradě. Alexej Alexandrovič se dal snadno přesvědčit. Stejně jako Lydie Ivanovna a ostatní lidé, sdílející jejich názory, zcela postrádal hloubku fantazie, onu duševní schopnost, při níž se představy vyvolané ve fantazii stávají tak skutečnými, že volají po souladu s jinými představami a se skutečností. Neviděl nic nemožného ani protismyslného v představě, že smrt, která existuje pro nevěřící, pro něho neexistuje, a jelikož je prodchnut dokonalou vírou, jejíž míru může sám posoudit, že pak už nemá žádný hřích na svědomí a dochází už zde na zemi dokonalé spásy.
 
 Alexej Alexandrovič ovšem nejasně tušil, že taková představa o vlastní víře je lehkovážná a mylná. Věděl, že poznal větší štěstí, když se poddal bezprostřednímu citu, aniž se domýšlel, že jeho odpuštění je dílem vyšší moci. Prožil tenkrát větší štěstí než nyní, kdy v každém okamžiku myslil na to, že v jeho duši přebývá Kristus, jehož vůli vykonává, když podepisuje akta. Alexej Alexandrovič však nutně musel takto smýšlet, tak nezbytně potřeboval ve svém ponížení tuto – byť smyšlenou – výši, z které by mohl, obklopen pohrdáním, pohrdat ostatními, že lpěl na své domnělé spáse jako na spáse opravdové.
 
-  
+</section>
+
+<section>
 
 [^5]: Vymohla jsem si vstup. _(franc.)_
+
+</section>

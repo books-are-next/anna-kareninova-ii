@@ -3,6 +3,8 @@ title: XVI
 contentType: prose
 ---
 
+<section>
+
 Darja Alexandrovna dostála svému předsevzetí a jela k Anně. Bylo jí velice líto, že to snad zarmoutí sestru a nemile se dotkne jejího muže. Chápala, že Levinovi jsou zcela v právu, nechtějí-li mít žádné styky s Vronským. Ale pokládala za svou povinnost navštívit Annu a dokázat jí, že její vztah se nemůže změnit, i když je Anna v jiné situaci.
 
 Aby nebyla při té cestě závislá na Levinových, poslala Darja Alexandrovna do vsi najmout povoz. Ale Levin se to dověděl a přišel jí domluvit.
@@ -40,3 +42,5 @@ Koleska ujížděla po návsi k můstku. Přes most šel hlouček veselých, hl
 Ale i když se nedívala do zrcátka, domnívala se, že ani teď ještě není pozdě. Vzpomněla si na Sergeje Ivanoviče, jak je k ní dvorný, vzpomněla si na Stivova přítele dobráka Turovcyna, který společně s ní ošetřoval její děti, když měly spálu, a byl do ní zamilován. A ještě tu byl jeden docela mladý muž, který – jak jí žertem říkal manžel – shledával, že Darja Alexandrovna je ze všech sester nejhezčí. A Darja Alexandrovna si představovala nejvášnivější a nejnemožnější milostné historie. Anna jednala naprosto správně a já jí rozhodně nebudu nic vyčítat. Je šťastná, činí šťastným druhého člověka a není tak ušlápnutá jako já, ale jistě je svěží, moudrá, přístupná všem dojmům jako vždy, přemýšlela Darja Alexandrovna a potutelný úsměv jí zvlnil rty, zvlášť proto, že v myšlenkách na Anninu lásku si souběžně představovala svou vlastní, skoro stejnou lásku s vysněným, všecky nejlepší vlastnosti ztělesňujícím mužem, který byl do ní zamilovaný. Stejně jako Anna se přiznávala manželovi ke všemu. A údiv a zmatek Stěpana Arkaďjiče při té zprávě u ní vyvolal úsměv.
 
 Za takového snění dojela na křižovatku, kde měli odbočit z hlavní silnice na Vozdviženské.
+
+</section>

@@ -3,6 +3,8 @@ title: I
 contentType: prose
 ---
 
+<section>
+
 Darja Alexandrovna byla s dětmi na letním bytě v Pokrovském u své sestry Kitty Levinové. V její vsi se dům docela rozpadl a Levinovi ji přemluvili, aby strávila léto u nich. Stěpan Arkaďjič byl s tímto řešením nadmíru spokojen. Vyslovil politování, že úřad mu nedovoluje, aby strávil léto s rodinou na venkově, což by pro něho bylo vrcholem štěstí. Zůstal v Moskvě a občas přijížděl na venkov na den, na dva. Kromě Oblonských se všemi dětmi a s vychovatelkou dlela toho léta na návštěvě u Levinových i stará paní kněžna, neboť měla za svou povinnost pečovat o nezkušenou dceru, která byla v jiném stavu. I Váreňka, Kittina družka z ciziny, splnila svůj slib, že přijede, až se Kitty vdá, a byla teď jejím hostem. Byli to samí příbuzní a přátelé Levinovy ženy. A třebaže je měl všecky rád, bylo mu trošku líto levinovského světa a řádu, který byl zatlačován tím přívalem „ščerbackovského živlu“, jak si v duchu říkal. Z jeho příbuzných bydlil u nich toho léta jen Sergej Ivanovič, jenže i on byl typ nikoli levinovský, nýbrž koznyšovovský, takže levinovský duch naprosto upadal.
 
 V Levinově domě, dlouho opuštěném, byla teď taková spousta lidí, že skoro všecky pokoje byly obsazeny a stará kněžna musela takřka denně všecky přepočítávat, a pokud jich bylo třináct ke stolu, usazovala některého vnuka nebo vnučku ke zvláštnímu stolku. I Kitty, která se pečlivě věnovala domácnosti, měla plno starostí se sháněním slepic, krůt a kachen, kterých se při letním apetýtu dospělých hostí i dětí spotřebovalo spousta.
@@ -48,3 +50,5 @@ Váreňka uslyšela, jak ji Kitty volá a že jí matka vyčinila. Rychle, svi�
 „Musím se podívat na nové vozy a udělat soupis. A kde budeš ty?“
 
 „Na terase.“
+
+</section>

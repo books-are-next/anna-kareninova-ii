@@ -3,6 +3,8 @@ title: XI
 contentType: prose
 ---
 
+<section>
+
 Toho dne, kdy Koznyšov přijel do Pokrovského, měl Levin jeden ze svých nejhorších dnů.
 
 Byla to doba horečné práce, kdy se u všeho venkovského lidu projevuje tak neobyčejné vypětí pracovní obětavosti, jaké se neobjevuje za žádných jiných okolností životních a jaké by bylo hodnoceno velmi vysoko, kdyby je dovedli ocenit sami lidé, kteří ty vlastnosti projevují, kdyby se neopakovalo každým rokem a kdyby výsledky tohoto vzepětí nebyly tak prosté.
@@ -50,3 +52,5 @@ Levin se s podavačem Fjodorem rozhovořil o těchto pozemcích a ptal se, zd
 „Známá věc, podle pravdy, podle vůle Páně. Však jsou lidi všelijaký. Třebas vy, taky byste člověku neublížil…“
 
 „Ano jistě, buď sbohem!“ zvolal Levin, zalykaje se vzrušením. Otočil se, popadl hůl a rychle zamířil k domovu. Při dělníkových slovech, že Fokanyč žije pro duši, podle pravdy, podle vůle Páně, najednou odněkud houfně vyrazily nejasné, ale závažné, dosud uzavřené myšlenky, zavířily Levinovi v hlavě, všechny mířily k společnému cíli a oslňovaly ho svým jasem.
+
+</section>

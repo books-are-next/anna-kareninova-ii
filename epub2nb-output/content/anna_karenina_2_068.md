@@ -3,6 +3,8 @@ title: XXIX
 contentType: prose
 ---
 
+<section>
+
 Úzký sál, v kterém se kouřilo a podávalo se občerstvení, byl plný šlechticů. Ruch stále stoupal a na všech tvářích bylo znát neklid. Zvlášť rozčileni byli předáci, kteří znali všecko podrobně a věděli, jaký je poměr hlasů. Byli to pořadatelé nastávající bitvy. Ostatní se jako řadoví vojíni sice připravovali k boji, ale prozatím hledali rozptýlení. Někteří jedli vstoje nebo si přisedli ke stolu. Jiní přecházeli sem tam po dlouhé místnosti, kouřili cigarety a rozprávěli se známými, které tu po dlouhé době potkali.
 
 Levin neměl hlad ani nekouřil. Také nestál o to, aby se sešel s přáteli, totiž se Sergejem Ivanovičem, Stěpanem Arkaďjičem, Svijažským a jinými, neboť s nimi stál v živém hovoru Vronskij v uniformě dvorního štolby. Levin ho zahlédl při volbách už včera a pečlivě se mu vyhýbal, protože se s ním nechtěl setkat. Šel k oknu, posadil se, obhlížel si jednotlivé skupinky a poslouchal, co se kolem mluví. Bylo mu smutno zejména proto, že viděl, jak jsou všichni rozjaření, jak mají plno starostí a práce, a jen on a prastarý, šišlavý, bezzubý stařeček v námořnické uniformě, který si přisedl k němu, tu seděli bez zájmu a nečinně.
@@ -85,6 +87,10 @@ Statkář se usmál do bílých vousů.
 
 „Člověk si musí občas ulevit.“
 
-  
+</section>
+
+<section>
 
 [^41]: Státního převratu. _(franc.)_
+
+</section>

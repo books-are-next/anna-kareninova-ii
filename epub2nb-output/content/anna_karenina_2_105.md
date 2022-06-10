@@ -3,6 +3,8 @@ title: I
 contentType: prose
 ---
 
+<section>
+
 Uplynuly skoro dva měsíce. Byla už polovina horkého léta, ale Sergej Ivanovič Koznyšov se teprve teď chystal odjet z Moskvy.
 
 V životě Sergeje Ivanoviče se tou dobou leccos událo. Už více než před rokem dokončil knihu, ovoce šestileté práce, pod názvem _Studie o základech státní formy v Evropě a v Rusku._ Některé kapitoly této knihy, stejně jako úvod, byly uveřejněny v periodickém tisku, kdežto jiné části předčítal Sergej Ivanovič v kruhu svých známých, takže myšlenky tohoto spisu už nemohly být pro veřejnost naprostou novinkou. Nicméně očekával, že kniha vzbudí ve společnosti značný dojem, a nebude-li převratem ve vědě, tedy aspoň vyvolá silný rozruch ve vědeckém světě.
@@ -52,3 +54,5 @@ Byl teď plně zaneprázdněn, takže neměl kdy odpovídat na všechny došlé 
 Pracoval celé jaro i část léta a teprve v červenci se vypravil na venkov k bratrovi.
 
 Jel si na čtrnáct dní odpočinout a také chtěl přímo ve svatyni lidu, na vesnické samotě, blaženě pozorovat ono vzepětí ducha lidu, o němž byl plně přesvědčen, stejně jako všichni obyvatelé hlavního města i ostatních měst. Katavasov, který se k Levinovi už dávno chystal na slíbenou návštěvu, jel s ním.
+
+</section>

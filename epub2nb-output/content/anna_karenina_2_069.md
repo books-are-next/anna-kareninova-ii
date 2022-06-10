@@ -3,6 +3,8 @@ title: XXX
 contentType: prose
 ---
 
+<section>
+
 Svijažskij vzal Levina pod paží a šel s ním ke svým přátelům. Teď už nebylo možné vyhnout se Vronskému. Stál s Oblonským a Koznyšovem a díval se přímo na přicházejícího Levina.
 
 „Těší mě. Měl jsem tuším potěšení setkat se s vámi… u kněžny Ščerbacké,“ řekl, když podával Levinovi ruku.
@@ -118,3 +120,5 @@ Za statkářem se vynořil obličej gubernského maršálka. Vypadal hrozně ve 
 „Bože, bože!“ Gubernský maršálek těžce vzdychl a se svěšenou hlavou se unaveně šoural ve svých bílých kalhotách středem sálu k velkému stolu.
 
 Něvědovskíj získal víc hlasů, jak se také očekávalo, a stal se gubernským maršálkem. Mnoha lidem bylo veselo, mnozí byli spokojení a šťastní, bylo mnoho nadšených i mnoho nespokojených a nešťastných. Gubernský maršálek byl zoufalý a nedovedl to skrýt. Když Něvědovskij vycházel ze sálu, obklopil ho celý zástup a u vytržení ho následoval, stejně jako následoval první den gubernátora, když zahájil volby, a stejně jako následoval Snětkova, když byl zvolen.
+
+</section>

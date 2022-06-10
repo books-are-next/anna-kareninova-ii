@@ -3,6 +3,8 @@ title: XVII
 contentType: prose
 ---
 
+<section>
+
 Oblonskij se octl v neutěšených poměrech.
 
 Peníze za dvě třetiny lesa už byly utraceny a Stěpan Arkaďjič si vybral od obchodníka skoro celou poslední třetinu předem, a to při desetiprocentní srážce. Obchodník už nechtěl žádné peníze dát, tím spíš, že Darja Alexandrovna letos v zimě poprvé uplatnila svá práva na majetek a odmítla podepsat smlouvu, že obdržela částku za poslední třetinu lesa. Celé služné padlo na vydání v domácnosti a na úhradu nekonečných menších dluhů. Stěpan Arkaďjič byl úplně bez peněz.
@@ -56,3 +58,5 @@ Stěpan Arkaďjič se při zmínce o Bolgarinovi začervenal, protože toho dne
 Snad byl nesvůj, že on, potomek Rjurikův, kníže Oblonskij, sedí dvě hodiny v předpokoji u žida anebo že poprvé v životě nenásleduje vzoru svých předků a nechce sloužit jen státu, nýbrž vstupuje na nové kolbiště, ale tak či onak byl hrozně nesvůj. Za toho dvouhodinového čekání u Bolgarinova se čiperně procházel po čekárně, hladil si licousy, dával se do řeči s ostatními návštěvníky a vymýšlel si slovní hříčku, jak se ucházel u žida o místo, aby mu neušlo, ale přitom pečlivě skrýval před ostatními i sám před sebou své pocity.
 
 Ale celou tu dobu byl nesvůj a rozmrzelý, sám nevěděl proč; zda proto, že se mu nedařil vtip „_ucházel_ jsem se o _ucházející_ místo, a zatím _ucházel_ čas“, či pro něco jiného. Když ho konečně Bolgarinov nadmíru uctivě přijal, s patrným triumfem nad jeho pokořením, a téměř mu odřekl, hleděl na to Stěpan Arkaďjič co nejrychleji zapomenout. Až teď si na to vzpomněl, a proto se začervenal.
+
+</section>

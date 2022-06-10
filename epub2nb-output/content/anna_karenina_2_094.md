@@ -3,6 +3,8 @@ title: XXII
 contentType: prose
 ---
 
+<section>
+
 Stěpan Arkaďjič byl nadobro přiveden z konceptu těmi divnými, pro něho novými řečmi, které tu slyšel. Složitý petrohradský život jako takový na něho účinkoval povzbudivě, neboť ho vyváděl z moskevské stagnace. Ale ty složitosti se mu líbily a rozuměl jim ve sférách, které mu byly blízké a známé. V tom cizím prostředí však byl zaražen, ohromen a nemohl všecko postihnout. Jak tak poslouchal hraběnku Lydii Ivanovnu a cítil, že krásné, snad naivní, snad chytrácké (to sám nevěděl) Landauovy oči jsou upřeny na něho, začínal pociťovat v hlavě jakousi zvlášní tíhu.
 
 V hlavě mu vířily nejrozmanitější myšlenky. Marie Saninová se raduje, že jí zemřelo dítě… Teď by neškodilo si zakouřit… Ke spáse je třeba jen víry a mniši nevědí, jak se to dělá, ale ví to hraběnka Lydie Ivanovna… Z čeho má tu tíhu v hlavě? Z koňaku, nebo proto, že je to všecko tak zvláštní? Zatím snad nic neprovedl. Ale žádat o přímluvu už přece nesmí. Prý tu každého nutí, aby se modlil. Jenom aby ho taky nenutili. To by bylo už příliš hloupé. A ona čte nějaký hrozný nesmysl, ale má dobrou výslovnost. Landau je Bezzubov. Jak to, že je Bezzubov? Vtom Stěpan Arkaďjič cítil, jak se mu spodní čelist nezadržitelně nakrucuje k zívnutí. Přihladil si licousy, aby nebylo vidět, že zívá, a trochu se probral. Ale hned vzápětí cítil, že spí a užuž začne chrápat. Procitl ve chvíli, kdy se ozval hlas hraběnky Lydie Ivanovny. „Spí.“
@@ -33,7 +35,9 @@ Stěpan Arkaďjič měl skleslou náladu, což se mu stávalo zřídka, a dlouh
 
 Nazítří dostal od Alexeje Alexandroviče naprosto zamítavou odpověď ve věci Annina rozvodu a pochopil, že rozhodnutí vyplynulo z toho, co včera řekl Francouz ve svém skutečném či předstíraném spánku.
 
-  
+</section>
+
+<section>
 
 [^53]: Příteli. _(franc.)_
 
@@ -44,3 +48,5 @@ Nazítří dostal od Alexeje Alexandroviče naprosto zamítavou odpověď ve vě
 [^56]: Prominete mi, ale sám vidíte... Přijďte kolem desáté hodiny, anebo ještě lépe zítra. _(franc.)_
 
 [^57]: To mám být já, že ano? _(franc.)_
+
+</section>

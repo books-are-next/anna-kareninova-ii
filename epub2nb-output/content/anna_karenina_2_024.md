@@ -3,6 +3,8 @@ title: XIX
 contentType: prose
 ---
 
+<section>
+
 „Skryl tyto věci před moudrými a opatrnými a zjevil je nemluvňátkům,“ říkal si Levin o své ženě, když toho večera spolu rozprávěli.
 
 Levin nepřemýšlel o průpovědi z evangelia proto, že by se považoval za moudrého. Nepovažoval se za moudrého, ale jistě věděl, že je rozumnější než žena nebo Agafja Michajlovna; stejně tak věděl, že když přemýšlel o smrti, napínal všechny duševní síly. Věděl také, že mnozí velcí duchové, muži, jejichž myšlenky o tom četl, přemýšlejí o té věci a neznají ani setinu toho, co o tom ví jeho žena a Agafja. Ačkoli ty dvě ženy, Agafja a Káťa, jak jí říkal bratr Nikolaj a jak jí teď zvlášť rád říkal Levin, ačkoli byly tak rozdílné, v té věci si byly naprosto podobné. Obě nezvratně věděly, co je život a co je smrt, a třebaže neuměly zodpovědět, ba ani by nepochopily otázky, jež vyvstávaly před Levinem, nepochybovaly o významu tohoto jevu a dívaly se na věc úplně stejně, přičemž to nebyla jen jejich vzájemná shoda, neboť tento názor sdílely milióny lidí. Důkazem toho, že neomylně vědí, co je smrt, bylo, že nezůstávaly ani na okamžik na pochybách, jak zacházet s umírajícími, a nebály se jich. Avšak Levin a ti ostatní mohli sice o smrti leccos povědět, a přece ji neznali, protože se jí báli a vůbec nevěděli, co se má dělat, když lidé umírají. Kdyby teď byl Levin s bratrem Nikolajem sám, s hrůzou by na něho zíral a s ještě větší hrůzou by čekal, ale na víc by se nezmohl.
@@ -38,3 +40,5 @@ Po debatě o náboženství, kterou měli ještě za svobodna, žádný z nich
 „Ano, _byli by_,“ opakoval smutně. „Vidíš, on zrovna patří k lidem, o kterých se říká, že nejsou stvoření pro tento svět.“
 
 „Ale čekají nás perné dny, musíme jít spát,“ řekla Kitty, když se podívala na své maličké hodinky.
+
+</section>

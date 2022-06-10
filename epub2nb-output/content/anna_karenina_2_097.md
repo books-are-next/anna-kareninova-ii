@@ -3,6 +3,8 @@ title: XXV
 contentType: prose
 ---
 
+<section>
+
 S vědomím, že došlo k úplnému smíru, pustila se Anna živě hned po ránu do příprav k odjezdu. Ačkoliv se ještě nedohodli, zda pojedou v pondělí, či v úterý, jelikož si včera dělali navzájem ústupky, chystala se Anna horlivě na cestu a bylo jí teď zcela lhostejné, zda odjedou o den dříve, či později. Stála ve svém pokoji nad otevřeným kufrem a odkládala stranou kusy šatstva, když Vronskij, už oblečený, k ní přišel o něco dříve než obvykle.
 
 „Pojedu teď k mamá, může mi poslat peníze po Jegorovovi. A zítra mohu jet,“ řekl.
@@ -140,3 +142,5 @@ Nic zlého jsem jí neudělal, říkal si v duchu. Když se chce trápit, tím 
 „Nic,“ odpověděla stejně ledově a klidně.
 
 Když nic, tím hůř, pomyslil si opět s rostoucím chladem, otočil se a zamířil ke dveřím. V zrcadle spatřil její tvář, bledou a s rozechvělými rty. Chtěl se zastavit, říci jí něco pro útěchu, ale nohy ho samy vynesly z pokoje, dříve než ho napadlo, co by jí řekl. Celý ten den strávil mimo domov, a když se pozdě večer vrátil, sdělila mu komorná, že Annu Arkaďjevnu bolí hlava a že prosila, aby k ní nechodil.
+
+</section>

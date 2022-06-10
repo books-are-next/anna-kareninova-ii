@@ -3,6 +3,8 @@ title: XVI
 contentType: prose
 ---
 
+<section>
+
 Když přišel Levin nahoru, seděla jeho žena u nového samovaru nad novým čajovým servisem. Posadila si k malému stolku starou Agafju, nalila jí šálek čaje a četla psaní od Dolly, s kterou si pravidelně a pilně dopisovala.
 
 „Vidíte, mladá paní si mě pozvala, říkala, ať s ní posedím,“ pravila Agafja a přátelsky se na Kitty usmívala.
@@ -64,3 +66,5 @@ Když Levin přišel za ní, tonula v slzách.
 Začal jí domlouvat, hledal slova, která by ji mohla ne snad přesvědčit, ale aspoň uklidnit. Ale neposlouchala ho a nedala si říci. Sklonil se k ní a vzal ji za ruku, která se mu vzpouzela. Políbil jí ruku, políbil ji na vlasy, pak znova ruku – Kitty stále mlčela. Ale když ji vzal oběma rukama za hlavu a řekl „Kitty“, najednou se vzpamatovala, ještě si trošku poplakala a pak se s ním udobřila.
 
 Bylo rozhodnuto, že zítra odjedou spolu. Levin ženě řekl, že věří, že chtěla jet jen proto, aby mu nějak prospěla; uznal, že na pobytu Marie Nikolajevny u bratra není nic závadného; ale když odjížděli, vskrytu duše se zlobil na ni i na sebe. Zlobil se na ni, protože se neodhodlala pustit ho samotného, když to bylo nutné (jak divné pomyšlení – ještě nedávno se neodvážil věřit takovému štěstí, že by ho mohla mít ráda, a dnes je nešťastný z toho, že ho má ráda až příliš!), a zlobil se na sebe, že nebyl důsledný. Ještě víc vskrytu duše popíral, že by jí nic nebylo po té ženě, která žije s jeho bratrem, a s hrůzou myslil na to, k jakým srážkám může dojít. Při pouhé představě, že jeho žena, jeho Kitty, bude v jednom pokoji s děvkou, se otřásal odporem a hrůzou.
+
+</section>

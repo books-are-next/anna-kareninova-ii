@@ -3,6 +3,8 @@ title: XIV
 contentType: prose
 ---
 
+<section>
+
 Lékař ještě nebyl vzhůru a sluha oznámil, že „pan doktor šel pozdě spát a říkal, ať ho nebudí, ale že brzo vstane“. Sluha zrovna čistil lampy a tvářil se velice zaměstnaně. Sluhova horlivá péče o lampy a jeho lhostejnost k tomu, co se děje u Levinů, zpočátku Levina udivila, ale hned se vzpamatoval a uvědomil si, že nikdo neví ani není povinen vědět o jeho pocitech a že tím spíš musí jednat klidně, s rozmyslem a energicky, aby prorazil tu zeď lhostejnosti a dosáhl cíle. Neunáhlit se a nic neopominout, říkal si Levin. Pociťoval stále rostoucí vzepětí fyzických sil i pozornosti ke všemu, co měl udělat.
 
 Když se dověděl, že lékař dosud nevstal, ze všech možností, které se mu naskýtaly, zvolil tento postup: Kuzma pojede s dopisem k jinému lékaři, kdežto on sám pojede do lékárny pro opium; nebude-li lékař po jeho návratu ještě vzhůru, podplatí sluhu anebo – kdyby se sluha zpěčoval – vzbudí lékaře násilím stůj co stůj.
@@ -80,3 +82,5 @@ Po celý ten čas se v něm střídala dvojí různá nálada. Jiné to bylo, k
 „Bože, odpusť a pomoz.“ A jak čas plynul, přibývalo obojí náladě na intenzitě. Tím klidnější byl, když ji neviděl a docela na ni zapomínal, a tím mučivější byly její útrapy i pocit bezmoci. Vyskakoval, byl by rád uprchl, ale nakonec běžel k ní.
 
 Někdy, když ho zase a zase volala, jí to zazlíval. Ale když uviděl její pokornou, usměvavou tvář a uslyšel slova „já jsem tě utrápila“, obviňoval boha; ale sotva vzpomněl boha, vzápětí ho prosil za odpuštění a smilování.
+
+</section>

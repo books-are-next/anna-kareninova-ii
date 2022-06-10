@@ -3,6 +3,8 @@ title: XIV
 contentType: prose
 ---
 
+<section>
+
 Levin se díval před sebe a viděl stádo, potom uviděl svůj vozík tažený Vraníkem a kočího, který dojel ke stádu a mluvil s pastýřem; potom uslyšel už docela zblízka rachot kol a frkání vypaseného koně; ale byl tak zabrán do svých myšlenek, že ani neuvažoval, proč vlastně kočí za ním jede.
 
 Vzpomněl si teprve, když kočí dojel až k němu a zavolal na něho: „Posílá mě paní. Přijel pan bratr a ještě nějaký pán.“
@@ -98,3 +100,5 @@ Byla to snad jen chvilková nálada a pomine, zmizí beze stopy?
 Ale sotva se k své náladě vrátil, v tu chvíli cítil plný radosti, že se s ním událo cosi nového a důležitého. Skutečnost jen dočasně zastírala duševní klid, který nalezl; ale klid sám zůstal neporušen.
 
 Teď kolem něho kroužily včely, hrozily mu a upoutávaly jeho pozornost, zbavovaly ho úplného fyzického klidu, protože se musel krčit a uhýbat jim; a podobně, když nasedl do vozíku, v té chvíli se mu nahrnuly starosti a zbavovaly ho klidu duševního; avšak trvalo to jen potud, dokud na něho dorážely. I když ho ohrožovaly včely, zůstávala v něm fyzická síla neporušena, a zrovna tak neporušena byla jeho síla duchovní, kterou si nově uvědomil.
+
+</section>

@@ -3,6 +3,8 @@ title: III
 contentType: prose
 ---
 
+<section>
+
 Kitty byla zvlášť ráda, že se jí naskytla příležitost být s mužem o samotě. Všimla si, jak mu po tváři, v níž se vše tak živě odráželo, přeběhl mráček nevole ve chvíli, kdy vešel na terasu a zeptal se, o čem mluvily, ale nedostal odpověď.
 
 Když se vydali pěšky napřed a zmizeli ostatním z dohledu na ujeté prašné cestě, poseté žitnými klasy a zrním, opřela se Kitty pevněji o jeho rameno a přitiskla je k sobě. Levin už zapomněl na chvilkový nelibý dojem a nyní, kdy ho myšlenka na její těhotenství neopouštěla ani na chvilku, prožíval dosud neznámou, radostnou, od smyslnosti zcela oproštěnou rozkoš z důvěrného vztahu k milované ženě. Nemuseli ani mluvit, avšak přál si slyšet tón jejího hlasu, nyní v těhotenství změněný stejně jako pohled. V hlase i v pohledu byla něha a vážnost, jak tomu bývá u lidí, kteří jsou trvale soustředěni jen a jen na milovanou práci.
@@ -96,3 +98,5 @@ Těšilo ho, že nevěří v jeho nespokojenost s vlastní osobou, a mimoděk
 „Nebo bys mohla nasednout, když koně budou klidní a pojedete krokem.“
 
 Ale už to nestálo za to. Už to měli blízko a všichni šli pěšky.
+
+</section>

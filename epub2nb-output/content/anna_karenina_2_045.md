@@ -3,6 +3,8 @@ title: VI
 contentType: prose
 ---
 
+<section>
+
 Zatímco děti svačily, seděli dospělí na balkóně a rozprávěli, jako by se nic nestalo, ačkoli všichni – zejména Sergej Ivanovič a Váreňka – velmi dobře věděli, že se stala byť nepříznivá, ale přece důležitá věc. Oba měli stejné pocity, jaké mívá žák, když musí po neúspěšné zkoušce opakovat třídu anebo je provždy vyloučen ze školy. Všichni přítomní rovněž tušili, že se něco zběhlo, a živě se bavili o vedlejších věcech. Levin a Kitty byli dnes večer zvlášť šťastní a milostně naladění. A to, že byli šťastní ve své lásce, obsahovalo nemilou narážku na ty, kdo také toužili po lásce a nemohli ji mít – až si to Levin a Kitty vyčítali.
 
 „Vzpomeňte si na má slova, Alexandr nepřijede,“ řekla stará kněžna.
@@ -87,8 +89,12 @@ A nejvíc proti mysli mu byla Kitty, protože se tak vpravila do onoho tónu ro
 
 V živém hovoru se všichni ubírali dovnitř. Ale sotvaže se všichni usadili, Levin se otočil a odešel. Kitty viděla, že se s mužem něco děje. Chtěla využít příhodné chvilky, aby si promluvili o samotě, ale řekl jí, že musí do kanceláře, a chvátal pryč. Už dávno si nepřipouštěl takovou starost o hospodářství jako dnes. „Oni by mohli mít celý týden neděli,“ myslil si, „ale tady je každodenní práce, která nepočká a bez které bychom nebyli živi.“
 
-  
+</section>
+
+<section>
 
 [^14]: On, ona, ono, jeho, její, jeho. _(lat.)_
 
 [^15]: Krátkosrstý lovecký pes. Pozn. red.
+
+</section>

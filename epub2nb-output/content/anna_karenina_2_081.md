@@ -3,6 +3,8 @@ title: IX
 contentType: prose
 ---
 
+<section>
+
 „Kočár knížete Oblonského!“ zlostným bručivým hlasem zavolal vrátný. Kočár předjel a oba nasedli. Jen v první chvíli, dokud kočár vyjížděl ze vrat, měl Levin dosavadní pocit klubovního klidu, uspokojení i dojem nesporného dobrého tónu všude a ve všem. Ale sotvaže kočár vyjel na ulici a Levin cítil, jak se kymácí na hrbolaté dlažbě, sotvaže uslyšel zlostný pokřik drožkáře, jedoucího proti nim, sotvaže uviděl v matném osvětlení červený vývěsní štít hospody a krámku, celý dojem se rozplynul vniveč, Levin začal uvažovat o svém jednání a v duchu se tázal, zda je správné, že jede k Anně. Co tomu řekne Kitty? Ale Stěpan Arkaďjič ho nenechal přemýšlet, a jako by uhádl jeho pochybnosti, hned je rozptýlil.
 
 „Jsem hrozně rád,“ řekl, „že ji poznáš. Víš, Dolly si to už dávno přála. A Lvov přece byl u ní taky a pořád tam chodí. Je to sice moje sestra,“ pokračoval Stěpan Arkaďjič, „ale mohu klidně prohlásit, že je to skvělá žena. Však uvidíš. Její situace je ovšem málo záviděníhodná, zvlášť teď.“
@@ -36,3 +38,5 @@ Pohlédl do zrcadla a viděl, že je červený v obličeji, ale byl si jistý,
 Oblonskij a Levin prošli malou jídelnou s tmavými táflovanými stěnami a po měkkém koberci vstoupili do zšeřelé pracovny, osvětlené lampou s velkým tmavým stínidlem. Druhá lampa s reflektorem svítila na zdi a ozařovala portrét ženy v životní velikosti, který bezděčně upoutal Levinovu pozornost. Byla to Annina podobizna, kterou maloval v Itálii Michajlov. Zatímco Stěpan Arkaďjič odešel za treláž s popínavými rostlinami a neznámý mužský hlas zmlkl, díval se Levin na podobiznu, která v zářivém osvětlení tak vynikala v rámu, a nemohl se od ní odpoutat. Takřka zapomněl, kde je, neposlouchal, co kdo mluví, a nespustil z pozoruhodné podobizny oči. Nebyl to obraz, ale rozkošná živoucí žena s kadeřavými černými vlasy, s obnaženými rameny a rukama, se zádumčivým poloúsměvem na něžně ochmýřených rtech, hleděla na něho vítězně i něžně a její oči ho vzrušovaly. Nebyla živá jen proto, že byla krásnější, než může být živoucí bytost.
 
 „Velice mě těší,“ náhle uslyšel vedle sebe hlas, patrně oslovující jeho, hlas ženy, jejíž podobizně se obdivoval. Anna se objevila před treláží, šla ho přivítat a Levin spatřil v pološeru pracovny ženu z portrétu, v tmavomodrých, různě odstíněných šatech, v jiné póze, s jiným výrazem, avšak na stejném vrcholu krásy, jak ji zpodobnil umělec. Ve skutečnosti byla méně oslňující, ale zato měla jakési kouzlo, které portrétu chybělo.
+
+</section>

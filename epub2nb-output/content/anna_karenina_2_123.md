@@ -3,6 +3,8 @@ title: XIX
 contentType: prose
 ---
 
+<section>
+
 Když Levin vyšel z dětského pokoje a zůstal sám, rázem se opět upamatoval na myšlenku, v které zbyla nějaká nejasnost.
 
 Místo aby šel do salónu, z kterého se ozývaly hlasy, zastavil se na terase, opřel se o zábradlí a díval se na oblohu.
@@ -34,3 +36,5 @@ Ten nový cit ho nezměnil, neoblažil, neosvítil ho najednou, jak o tom snív
 Bude se pořád ještě zlobit na kočího Ivana, ještě se bude hádat, bude nevhod vyslovovat své názory, ještě bude hradba mezi svatyní jeho duše a ostatními, dokonce i jeho ženou, bude jí zrovna tak zazlívat své obavy a potom litovat, ještě nebude rozumově chápat, proč se modlí, a přece se bude modlit – ale jeho život, celý jeho život bez zřetele k tomu, co by se s ním mohlo stát, každý jeho okamžik nejenže už teď není nesmyslný, jako byl dříve, ale obsahuje nepochybný smysl dobra a je na něm, aby jej do života vložil!
 
 _1873–1877_
+
+</section>

@@ -3,6 +3,8 @@ title: XX
 contentType: prose
 ---
 
+<section>
+
 „Tady vám vedu Dolly, princezno, tolik jste si ji přála vidět,“ řekla Anna, když s Darjou Alexandrovnou vstoupila na velkou kamennou terasu, na které seděla ve stínu princezna Varvara a vyšívala v rámu polštář na křeslo pro hraběte Vronského. „Říká, že před obědem nechce nic jíst, ale dejte přinést svačinu, a já se půjdu podívat po Alexejovi a všecky je přivedu.“
 
 Princezna Varvara uvítala Dolly vlídně a poněkud protektorsky a hned jí začala vykládat, že bydlí u Anny proto, že ji měla vždycky raději než její sestra Katěrina Pavlovna, která Annu vychovala, a že nyní, když Annu všichni opustili, měla za svou povinnost pomoci jí v tomto přechodném, nejsvízelnějším období.
@@ -85,8 +87,12 @@ Při vší úctě ji Vronskij přerušil.
 
 Darja Alexandrovna se o všecko zajímala, všecko se jí velmi líbilo, ale nejvíc se jí líbil Vronskij ve svém upřímném naivním horování. Ano, je to velice milý, hodný člověk, myslila si chvílemi, když ho neposlouchala, ale dívala se na něho, zpytovala jeho výraz a v duchu přejímala Annino stanovisko. Ve svém rozjaření se jí nyní tak líbil, že chápala, jak se do něho Anna mohla zamilovat.
 
-  
+</section>
+
+<section>
 
 [^31]: Ale nesmíme nechat chudáka Veslovského a Tuškeviče mořit se s loďkou. _(franc.)_
 
 [^32]: Stužky. Pozn. red.
+
+</section>

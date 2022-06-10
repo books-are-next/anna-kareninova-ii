@@ -3,6 +3,8 @@ title: XXIV
 contentType: prose
 ---
 
+<section>
+
 Návštěva u dvora končila. Lidé, kteří se na odchodu potkávali, přetřásali poslední novinku dne, totiž komu byly nově uděleny řády a kteří významní úředníci byli přeloženi.
 
 „Hraběnka Marie Borisovna by měla dostat ministerstvo vojenství a náčelníkem generálního štábu ať udělají kněžnu Vatkovskou,“ říkal šedovlasý stařeček v uniformě zlatě vyšívané, obrácen k urostlé, hezké dvorní dámě, která se ho ptala na přesuny v úřadech.
@@ -85,8 +87,12 @@ Alexej Alexandrovič se zachvěl při zmínce o ženě, ale vzápětí se mu ro
 
 Hraběnka Lydie Ivanovna na něho s nadšením pohlédla a do očí jí vstoupily slzy obdivu nad velikostí jeho duše.
 
-  
+</section>
+
+<section>
 
 [^6]: Řád svatého Alexandra Něvského. Pozn. red.
 
 [^7]: Ten člověk nemá... _(franc.)_
+
+</section>

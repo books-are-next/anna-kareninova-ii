@@ -3,6 +3,8 @@ title: I
 contentType: prose
 ---
 
+<section>
+
 Kněžna Ščerbacká soudila, že nemohou slavit svatbu před půstem, do kterého zbývalo pět neděl, jelikož polovina výbavy by do té doby nebyla hotová. Dávala ovšem za pravdu Levinovi, že po půstu by už bylo příliš pozdě, neboť stará teta knížete Ščerbackého byla velmi nemocná a mohla každou chvíli zemřít, takže pro smutek by svatbu museli zase odložit. Proto se kněžna rozhodla, že výbavu rozdělí na dvě části, na výbavu velkou a malou, a svolila, aby se svatba konala o masopustu. Rozhodla se, že malou část výbavy pořídí už teď a velkou jim pošle později. Přitom se velice zlobila na Levina, že jí nedovede kloudně odpovědět, zda s tím souhlasí, či nikoli. Takové řešení bylo tím vhodnější, že mladí měli hned po svatbě odjet na venkov, kde věci z velké výbavy nepotřebovali.
 
 Levin byl dosud v tom bláznivém stavu, kdy se domníval, že on a jeho štěstí jsou hlavním cílem všeho tvorstva, že teď nemusí na nic myslit a o nic se starat, že všecko za něho dělají a obstarají jiní. Neměl ani žádné plány a cíle do budoucna; přenechával řešení jiným lidem, přesvědčen, že všecko dopadne znamenitě. Jeho bratr Sergej Ivanovič, Stěpan Arkaďjič a kněžna ho poučovali, co má dělat. Levin plně souhlasil se vším, co mu navrhovali. Bratr si pro něho vypůjčil peníze, kněžna mu poradila, aby po svatbě odjeli z Moskvy. Stěpan Arkaďjič mu radil cestu do ciziny. Levin byl se vším srozuměn. Dělejte si, co chcete, když vás to baví. Jsem šťasten, a kdybyste dělali nevímco, na mém štěstí to nic nezmění, myslil si. Když Kitty svěřil, že Stěpan Arkaďjič jim radí cestu do ciziny, byl velice překvapen, že Kitty nesouhlasí, nýbrž klade na jejich budoucí život své určité požadavky. Věděla, že Levin má na vsi práci, kterou má rád. Ona sama, jak viděl, té práci nerozuměla a ani se nesnažila rozumět. To však jí nebránilo, aby ji pokládala za velmi důležitou. A proto věděla, že jim bude domovem venkov, a nechtěla jet do ciziny, kde nebude žít, ale tam, kde budou doma. Ten úmysl, s určitostí vyjádřený, Levina překvapil. Ale protože mu bylo všecko jedno, neprodleně požádal Stěpana Arkaďjiče (jako by to byla jeho povinnost), aby jel na venkov a zařídil tam všecko podle vlastního uvážení a podle svého vkusu, kterým tak oplývá.
@@ -86,3 +88,5 @@ Teď ovšem ne, myslil si Levin, ale někdy později. Nyní cítil ještě víc 
 Ten večer strávil Levin s nevěstou u Dolly a byl zvlášť veselý.
 
 Aby Stěpanovi Arkaďjiči vysvětlil, v jaké je povznesené náladě, řekl mu, že má radost jako pes, kterého učili skákat skrz obruč, až nakonec pochopil a udělal, co se od něho žádalo, a teď kňučí, vrtí ocasem a skáče nadšením na stoly a okna.
+
+</section>

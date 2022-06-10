@@ -3,6 +3,8 @@ title: XII
 contentType: prose
 ---
 
+<section>
+
 Když Anna vyprovodila hosty, nesedla si, ale začala chodit po pokoji sem tam. Ačkoli podvědomě (jak poslední dobou jednala se všemi mladými muži) dělala celý večer všecko možné, aby v Levinovi vzbudila sympatie, třebaže věděla, že toho dosáhla, pokud lze něčeho takového dosáhnout u řádného ženatého muže a za jediný večer, a třebaže se jí velice líbil (přestože se Vronskij a Levin z mužského hlediska od sebe ostře lišili, jako žena v nich viděla týž společný rys, pro který si i Kitty zamilovala jak Vronského, tak Levina), jakmile odešel z pokoje, přestala na něho myslit.
 
 Pronásledovala ji neodbytně jedna jediná myšlenka v různých obměnách. Jestliže takto působí na jiné lidi, na toho ženatého muže, který svou ženu miluje, proč _on_ je k ní tak chladný? Ani ne snad chladný, miluje ji, to ona ví. Ale teď je od sebe dělí něco nového. Proč je celý večer pryč? Vzkázal po Stivovi, že nemůže opustit Jašvina a musí na něho dávat pozor, jak hraje. Je snad Jašvin malé dítě? Ale dejme tomu, že je to pravda. On nikdy nelže. Ale za tou pravdou vězí něco jiného. Je rád, když se mu naskytne příležitost, aby jí ukázal, že má ještě jiné povinosti. Ona to ví, souhlasí s tím. Ale proč jí to chce dokazovat? Chce jí dokázat, že jeho láska nesmí být na překážku jeho volnosti. Ale ona nechce důkazy, chce lásku. Měl by chápat, jak těžko se jí žije tady v Moskvě. Copak žije? Nežije, ale čeká na rozuzlení, a to se pořád oddaluje. Zase nepřišla žádná odpověď! A Stiva říká, že nemůže za Alexejem Alexandrovičem jet. Ale ona mu nemůže znova psát. Nemůže nic dělat, nic začít, nic změnit, přemáhá se, čeká, vymýšlí si všecko možné pro ukrácení chvíle… Je tu anglická rodina, psaní, čtení, ale všecko je pouhý klam, je to stejné jako morfium. Měl by ji politovat… Anna cítila, jak se jí do očí derou slzy lítosti nad sebou samou.
@@ -42,3 +44,5 @@ Jeho ruka se sevřela, odvrátil se a jeho obličej nabyl výrazu ještě zarpu
 „To nic!“ řekla. „Sama nevím, čím to je… Snad to dělá ta osamělost nebo nervy… No, už o tom nemluvme. Jaké byly dostihy? Ještě jsi mi o nich nevyprávěl,“ zeptala se, aby skryla triumf vítězství, které se přece jen přiklonilo na její stranu.
 
 Řekl si o večeři a začal jí podrobně vykládat o dostizích, ale z jeho tónu, z pohledů, které byly stále a stále chladnější, viděla, že jí neodpustil její triumf, že umíněnost, s kterou se potýkala, v něm opět nabývá vrchu. Byl k ní chladnější než dřív, jako by litoval, že podlehl. A když si vzpomněla na slova, která jí dobyla vítězství, totiž že může dojít k strašnému neštěstí a že se bojí sama sebe – pochopila, že je to zbraň nebezpečná a že jí podruhé nesmí použít. Tušila, že zároveň s láskou, která je spojuje, se mezi nimi zrodil jakýsi duch boje, který nedokázala vypudit ani z jeho, a tím méně ze svého srdce.
+
+</section>

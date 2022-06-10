@@ -3,6 +3,8 @@ title: III
 contentType: prose
 ---
 
+<section>
+
 Koznyšov se rozloučil s kněžnou, spolu s Katavasovem, který mezitím přišel, vstoupil do nabitého vozu, a vlak se dal do pohybu.
 
 Na nádraží v Caricynu byl vlak uvítán pěkně sladěným sborem mladých mužů, kteří zpívali _Veleben buď ruský car._ Dobrovolníci se opět ukláněli a vykláněli se z oken, ale Sergej Ivanovič si jich nevšímal; měl tolik co činit s dobrovolníky, že už znal jejich obecný typ, a to ho nezajímalo. Zato Katavasov, který pro samou badatelskou práci neměl příležitost dobrovolníky pozorovat, se o ně velice zajímal a vyptával se na ně Sergeje Ivanoviče.
@@ -38,3 +40,5 @@ Staroušek byl voják, který prodělal dvě tažení. Věděl, jak má pravý v
 Katavasov se vrátil do svého vozu a bezděčně si zalhal, když Sergejovi Ivanoviči líčil své postřehy, z kterých vyplývalo, že dobrovolníci jsou znamenití hoši.
 
 Na velkém nádraží v městě dobrovolníky opět uvítal zpěv a volání, znova se objevily pokladničky a gubernské dámy podaly dobrovolníkům kytice a šly za nimi do bufetu; ale už to bylo všecko daleko slabší a v menším rozsahu nežli v Moskvě.
+
+</section>

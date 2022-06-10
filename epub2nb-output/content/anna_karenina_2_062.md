@@ -3,6 +3,8 @@ title: XXIII
 contentType: prose
 ---
 
+<section>
+
 Dolly už si chtěla lehnout, když k ní vstoupila Anna v nočním úboru.
 
 Za dne Anna několikrát navázala řeč o důvěrných věcech a pokaždé se po několika slovech zarazila. „Až potom, až budem samy. Musím ti toho tolik povědět,“ říkala.
@@ -104,3 +106,5 @@ Byly to stejné důvody, jaké si uváděla i Darja Alexandrovna. Ale teď posl
 „Dobře, jenže nezapomínej, že ty a já, to je rozdíl… A kromě toho,“ dodala Anna, jako by přes hojnost svých důvodů a nedostatek důvodů Dolliných přece jen uznávala, že to správné není, „především nezapomínej, že dnes jsem na tom jinak než ty. Pro tebe je otázkou, zda si přeješ nemít další děti, kdežto pro mne, zda si je přeju mít. A to je velký rozdíl. Chápeš, že si to dnes nesmím přát!“
 
 Darja Alexandrovna neodporovala. Znenadání si uvědomila, že se Anně už tolik vzdálila, že jsou mezi nimi otázky, v kterých se nikdy neshodnou a o kterých je lépe nemluvit.
+
+</section>

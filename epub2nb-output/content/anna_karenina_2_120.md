@@ -3,6 +3,8 @@ title: XVI
 contentType: prose
 ---
 
+<section>
+
 Koznyšov, zkušený v dialektice, neodporoval a ihned zavedl řeč na jiné pole.
 
 „Ano, chceš-li aritmetickou cestou poznat ducha lidu, pak toho ovšem stěží dosáhneš. A hlasování nemáme ani nemůžeme mít zavedeno, protože nevyjadřuje vůli lidu. Ale jsou tu jiné cesty. Je to znát v ovzduší, poznáme to srdcem. Nemluvím ani o spodních proudech, které se daly ve stojatém moři lidu do pohybu a které jasně vidí každý nezaujatý člověk. Vezmi si společnost v užším slova smyslu. Všechny nejrůznorodější strany v kruzích inteligence, dříve tak nepřátelské, všechny se spojily. Všechny nesváry skončily, všechny veřejné orgány mluví stejně, všichni pocítili, že je zachvátila živelná síla a unáší je všecky jedním směrem.“
@@ -56,3 +58,5 @@ Ne, nesmím se s nimi hádat, řekl si, oni mají neprůstřelné brnění, ale
 Viděl, že bratra a Katavasova nepřesvědčí, a ještě méně viděl možnost, že by sám s nimi souhlasil. To, co hlásali, byla ona pýcha rozumu, která ho málem zahubila. Nemohl souhlasit s tím, že by několik málo lidí (mezi nimiž byl i jeho bratr) mohlo vyslechnout pár set žvanivých dobrovolníků, přicházejících do hlavních měst, a na základě toho si osobovat právo tvrdit, že spolu s tiskem vyjadřují vůli a smýšlení lidu, nadto smýšlení, které se projevuje pomstou a vražděním. Nemohl s tím souhlasit, poněvadž se nesetkal s projevem takového myšlení u lidu, mezi kterým žil, ani neshledával takové myšlenky u sebe (a nemohl se pokládat za nic jiného než za jednoho z lidí tvořících ruský národ); ale především nemohl souhlasit proto, že stejně jako lid nevěděl ani nemohl vědět, v čem záleží obecné blaho, ale zároveň věděl najisto, že tohoto obecného blaha lze dosáhnout jen přesným prováděním zákona dobra, který je zjevný každému člověku; a proto si nemohl přát válku a hlásat ji, ať už měla sledovat jakékoli obecné zájmy. Říkal spolu s Michajlyčem a s lidem, který vyjádřil své smýšlení v pověsti o povolání Varjagů: „Vládněte nám a panujte. Radostně slibujeme plnou poslušnost. Všechnu práci, všechno ponížení, všechny oběti bereme na sebe; ale nesoudíme a nerozhodujeme.“ A teď se lid – dle slov různých Sergejů Ivanovičů – zříkal tohoto, tak draze vykoupeného práva.
 
 Byl by ještě rád řekl: je-li veřejné mínění neomylným soudcem, proč tedy revoluce, komuna nejsou stejně zákonné jako hnutí ve prospěch Slovanů? Ale to všecko byly myšlenky, které nemohly nic vyřešit. Jediná věc byla mimo pochyby – že totiž v dané chvíli spor Sergeje Ivanoviče dráždil, a proto nebylo dobře se hádat. Levin se tedy odmlčel a pak hosty upozornil, že je zamračeno a že by raději měli jít domů, než začne pršet.
+
+</section>

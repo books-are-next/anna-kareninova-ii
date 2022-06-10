@@ -3,6 +3,8 @@ title: XVII
 contentType: prose
 ---
 
+<section>
+
 Kočí zastavil čtyřspřeží a ohlédl se napravo, kde v žitném poli seděli u vozu rolníci. Kancelista chtěl seskočit, ale pak se rozmyslil a velitelsky křikl na sedláčka, aby šel k němu. Větřík, který cítili, dokud jeli, ustal, jakmile zastavili. Ovádi se sesypali na zpocené koně a ti se zlostně oháněli. U vozu naklepávali kosu, ale teď kovový zvuk utichl. Jeden z rolníků se zdvihl a kráčel ke kolesce.
 
 „Co jdeš jak svázaný?“ zlostně křikl kancelista na sedláčka, který zvolna našlapoval bosýma nohama na hroudy neuježděné suché cesty. „Hoď sebou!“
@@ -86,3 +88,5 @@ Všichni vesničané kolem vozu povstali, zvědavě a vesele se dívali na uví
 „Tak co, hoši, spát se už asi nebude?“
 
 „Kdepak, teďka spát!“ řekl staroch a přimhouřil oči proti slunci. „Poledne už je dávno pryč! Vemte si kosy a do toho!“
+
+</section>

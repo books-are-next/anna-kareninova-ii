@@ -3,6 +3,8 @@ title: XIX
 contentType: prose
 ---
 
+<section>
+
 Stěpan Arkaďjič už byl na odchodu, když přišel Korněj a hlásil:
 
 „Sergej Alexejevič!“
@@ -65,6 +67,10 @@ Za půl hodiny nalezl slavjanofilský vychovatel svého svěřence na schodech a
 
 „Nechte mě! Pořád jestli se pamatuju, nebo ne… Co je mu do toho? Co bych se pamatoval. Dejte mi pokoj!“ obrátil se, ne už k vychovateli, ale k celému světu.
 
-  
+</section>
+
+<section>
 
 [^50]: Strýčku. _(franc.)_
+
+</section>

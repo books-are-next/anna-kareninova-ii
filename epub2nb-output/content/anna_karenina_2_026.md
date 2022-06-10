@@ -3,6 +3,8 @@ title: XXI
 contentType: prose
 ---
 
+<section>
+
 Od chvíle, co Alexej Alexandrovič z rozmluvy s Betsy a se Stěpanem Arkaďjičem pochopil, že se od něho nežádá nic, než aby nechal ženu na pokoji a neobtěžoval ji svou přítomností, a že si to přeje i sama žena, od té chvíle byl tak zlomen, že si v ničem nevěděl rady, sám nevěděl, co teď chce, a proto vložil svůj osud do rukou těm, kdo se o něho s takovou oblibou starali, a na všecko souhlasně přikyvoval. Teprve když Anna už odjela z jeho domu a anglická vychovatelka k němu poslala s dotazem, zda má obědvat s ním, či odděleně, tu si poprvé jasně uvědomil svou situaci a zhrozil se jí.
 
 Nejhorší na tom bylo, že si zanic nedokázal sloučit a srovnat svou minulost s tím, co bylo nyní. Nezneklidňovala ho minulost, kdy s ženou šťastně žil. Přechod od té minulosti k poznání, že je mu žena nevěrná, si už protrpěl; byl to sice hrozný stav, ale dovedl jej pochopit. Kdyby ho byla žena opustila tenkrát, když mu řekla o své nevěře, byl by býval zarmoucený a nešťastný, avšak nebyl by se octl v tak beznadějné, spletité situaci, jako byl dnes. Nijak si teď nedovedl sloučit své nedávné odpuštění, svou něhu, svou lásku k nemocné ženě a cizímu dítěti s tím, co bylo nyní, že totiž jako odměnou za to vše zůstal nyní sám, pohaněn, potupen, že o něho nikdo nestál a všichni jím pohrdali.
@@ -34,3 +36,5 @@ Alexej Alexandrovič podepsal všecky listiny a potom dlouho mlčel, díval se 
 Druhý byl lékař, který mu byl rovněž nakloněn; jenže se už dávno mlčky dohodli na tom, že mají oba práce nad hlavu a že mají vždycky naspěch.
 
 Na své přítelkyně mezi ženami ani na nejlepší z nich, hraběnku Lydii Ivanovnu, Alexej Alexandrovič nepomyslil. Všecky ženy ho děsily a byly mu protivné už proto, že to byly ženy.
+
+</section>

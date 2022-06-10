@@ -3,6 +3,8 @@ title: XXVIII
 contentType: prose
 ---
 
+<section>
+
 Po příjezdu do Petrohradu se Vronskij a Anna ubytovali v jednom z nejlepších hotelů. Vronskij zvlášť, v dolním poschodí, Anna s dítětem, kojnou a služebnou nahoře ve velkém čtyřpokojovém apartmá.
 
 Hned první den se Vronskij rozjel k bratrovi. Nalezl tam matku, která si přijela z Moskvy něco vyřídit. Matka i švagrová ho přivítaly jako vždy. Vyptávaly se ho, jak se měl v cizině, hovořily o společných známých, ale ani slovem se nezmínily o jeho poměru. Avšak bratr přijel nazítří ráno k Vronskému a sám se ho na Annu zeptal. Alexej Vronskij mu přímo prohlásil, že se na svůj poměr s Kareninovou dívá jako na manželství; doufá, že dosáhnou rozvodu, a pak se s ní ožení, a než se tak stane, považuje ji za svou pravoplatnou manželku; žádal bratra, aby to vyřídil matce a své ženě.
@@ -47,6 +49,10 @@ Vronskij pochopil, že další pokusy jsou marné, že musí strávit v Petrohr
 
 Pobyt v Petrohradě se zdál Vronskému o to tíživější, že celou tu dobu pozoroval u Anny jakousi nezvyklou náladu, v které se nevyznal. Někdy se k němu chovala milostně, jindy zas byla chladná, popudlivá a nevyzpytatelná. Něco ji trápilo, něco mu tajila a zdánlivě nevnímala všechny ty urážky, které mu otravovaly život a pro ni, při jejím jemném postřehu, musely být ještě větší trýzní.
 
-  
+</section>
+
+<section>
 
 [^8]: To se dá zařídit. _(franc.)_
+
+</section>

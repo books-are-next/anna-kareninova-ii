@@ -3,6 +3,8 @@ title: XXI
 contentType: prose
 ---
 
+<section>
+
 „Ne, myslím, že kněžna je asi unavená a koně ji nezajímají,“ řekl Vronskij Anně, když navrhla, aby šli do hřebčince, kde se chtěl Svijažskij podívat na nového hřebce. „Vy jděte a já doprovodím kněžnu domů a pohovoříme si, nemáte-li nic proti tomu,“ obrátil se k Darje Alexandrovně.
 
 „Koním vůbec nerozumím, a bude mě velice těšit,“ odpověděla poněkud překvapená.
@@ -66,3 +68,5 @@ Darja Alexandrovna si všimla, že na tomto místě svého rozkladu ztratil souv
 „Dobře, promluvím s ní. Ale že na to sama nemyslí?“ pravila Darja Alexandrovna a nevěděla proč, ale najednou si při tom vzpomněla na nový, podivný Annin zvyk mhouřit oči. A tu si vzpomněla, že Anna přimhuřuje oči, právě když jde o bytostné otázky životní. Jako by přimhuřovala oči nad svým životem, aby neviděla všecko, napadlo Dolly. „Určitě s ní promluvím, ve svém i v jejím zájmu,“ odpověděla Darja Alexandrovna na jeho projevy díků.
 
 Vstali a ubírali se k domu.
+
+</section>

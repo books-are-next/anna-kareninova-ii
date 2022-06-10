@@ -3,6 +3,8 @@ title: XII
 contentType: prose
 ---
 
+<section>
+
 Levin se bral dlouhými kroky po silnici. Zkoumal ani ne tak své myšlenky (ještě se v nich nevyznal), jako svůj duševní stav, jaký dosud nepoznal.
 
 Fjodorova slova účinkovala na jeho mysl jako elektrická jiskra, která najednou přetvořila a sjednotila celý roj nemohoucích, roztříštěných jednotlivých myšlenek, kterými se nikdy nepřestal zabývat. Ty myšlenky ho zaměstnávaly – aniž sám pozoroval – i ve chvíli, kdy mluvil o propachtování půdy.
@@ -54,3 +56,5 @@ Jak k tomu došel? Dospěl snad rozumovou úvahou k tomu, že máme milovat bl
 Ano, pýcha, řekl si Levin. Převalil se na břicho a uvazoval na uzel stébla trávy tak, aby je nepolámal.
 
 A nejen pýcha rozumu, nýbrž hloupost rozumu. Ale především – šejdířství rozumu. Ano, darebáctví rozumu, opakoval si.
+
+</section>

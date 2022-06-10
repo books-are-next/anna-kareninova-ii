@@ -3,6 +3,8 @@ title: XVIII
 contentType: prose
 ---
 
+<section>
+
 Po celý den za nejrůznějších hovorů, kterých se účastnil vlastně jen vnější stránkou rozumu, Levin nepřestal radostně sledovat, jak mu překypuje srdce, i když byl zklamán, že očekávaná vnitřní změna v něm nenastala.
 
 Po dešti bylo příliš mokro, takže se nedalo jít na procházku; kromě toho bouřkové mraky zůstávaly na obzoru a sem tam se přehnaly po okraji oblohy, černaly a občas zahřmělo. Celá společnost strávila zbytek dne doma.
@@ -52,3 +54,5 @@ Pozorně ho poslouchala, když stála nad dítětem a navlékala si na jemné p
 Kitty se všecka rozzářila.
 
 „A moc ses polekal?“ řekla. „Já taky, ale teď na mne jde ještě větší hrůza, když už je po všem. Půjdu se na ten dub podívat. A ten Katavasov je tak roztomilý! Vůbec to bylo celý den moc hezké. A ty dovedeš být k Sergejovi Ivanoviči tak příjemný, když chceš… No, jdi za nimi. Je tu vždycky po koupání horko a plno páry…“
+
+</section>

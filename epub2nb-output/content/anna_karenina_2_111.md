@@ -3,6 +3,8 @@ title: VII
 contentType: prose
 ---
 
+<section>
+
 Agafja po špičkách odešla. Chůva stáhla roletu, zahnala mouchy zpod mušelínové záclonky nad postýlkou i sršně, který sebou tloukl o okenní tabuli, usedla a ovívala vadnoucí březovou větví matku i dítě.
 
 „To je vedro! Mělo by trochu sprchnout,“ řekla.
@@ -24,3 +26,5 @@ A vtom se jí živě vybavilo, jak se před nedávnem projevil ve své dobrotě
 Jakýpak nevěřící! S jeho srdcem, s tím věčným strachem, aby nikomu neublížil, ani dítěti! Všecko pro jiné, pro sebe nic. Koznyšov se klidně domnívá, že je to Kosťova povinnost, dělat mu správce. A sestra taky. Teď má na starosti Dolly s dětmi. A všichni ti sedláci, kteří za ním denně chodí, jako by jim musel sloužit.
 
 „Ano, jen buď takový jako tvůj otec, jen takový,“ řekla Kitty, podala Míťu chůvě a vdechla mu políbení na tvářičku.
+
+</section>

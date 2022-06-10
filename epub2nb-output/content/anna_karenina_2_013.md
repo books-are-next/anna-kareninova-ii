@@ -3,6 +3,8 @@ title: VIII
 contentType: prose
 ---
 
+<section>
+
 V prvním údobí po svém vysvobození a rychlém uzdravení si Anna připadala až hříšně šťastná a plná radosti ze života. Vzpomínka na nešťastného manžela její štěstí nekalila. Ta vzpomínka jednak byla příliš děsivá, než aby na to myslila, jednak jí manželovo neštěstí přineslo příliš velké štěstí, než aby litovala. Vzpomínka na vše, co prožila po nemoci: smíření s mužem, rozchod, zpráva o zranění Vronského, jeho příchod, přípravy k rozvodu, odchod z mužova domu, loučení se synem – to vše jí připadalo jako horečný sen, z něhož procitla, když se octla sama s Vronským v cizině. Vzpomínka na neštěstí, do něhož uvrhla muže, v ní budila pocit blízký ošklivosti, asi takový, jaký by měl tonoucí, kdyby se vytrhl člověku, který se ho křečovitě držel. Ten člověk utonul. Jistěže to byla špatnost, ale byla to jediná možnost, jak se zachránit, a raději na ty hrozné podrobnosti ani nevzpomínat.
 
 Tenkrát v první chvíli po rozchodu ji napadl uklidňující výklad jejího činu, a když si teď vzpomněla na celou minulost, vzpomněla si i na něj. „Zcela jistě jsem toho člověka učinila nešťastným,“ říkala si, „ale nechci z jeho neštěstí těžit. Také trpím a budu trpět, vždyť ztrácím, co mi bylo nade všecko – ztrácím poctivé jméno a syna. Jednala jsem špatně, a proto nechci být šťastná, nechci rozvod a budu vystavena hanbě a musím trpět odloučením od syna.“ Ale třebaže si Anna upřímně přála trpět, nijak netrpěla. O hanbě nebylo ani řeči. Měli oba sdostatek taktu, a proto se v cizině nikdy neoctli v choulostivé situaci, ruským dámám se vyhýbali a všude se setkávali s lidmi, kteří se tvářili, že dokonale chápou jejich vzájemný poměr, mnohem lépe než oni sami. Ani odloučení od milovaného syna ji první dobu nesoužilo. Děvčátko, jeho dítě, bylo tak milé a tolik Annu k sobě připoutávalo od té doby, co jí zbylo jen ono, že si Anna na syna málokdy vzpomněla.
@@ -16,3 +18,5 @@ Protože měl v mládí malířské nadání a protože začal – z přemí
 Měl schopnost chápat umění a věrně, vkusně umění napodobit, i řekl si, že má vlastnosti, jež umělec potřebuje. Nějakou dobu ještě váhal, jaký námět a způsob si zvolit, zda obrazy náboženské, historické, žánr, nebo realistické, a pak se pustil do malování. Rozuměl všem oblastem a mohl se inspirovat tím neb oním; ale neuměl si představit, že by bylo možné vůbec nevědět, jaké obory v malířství existují, bezprostředně se inspirovat tím, co má člověk na srdci, a nestarat se, zda bude hotový obraz náležet k nějakému známému druhu. Jelikož to nevěděl a inspiroval se nikoli životem bezprostředně, nýbrž prostřednictvím života umělecky už vyjádřeného, inspiroval se velice snadno a rychle, a stejně snadno a rychle dokázal, aby to, co maloval, bylo hodně podobné stylu, který chtěl napodobit.
 
 Nejvíce se mu líbil styl francouzský, graciózní a efektní, a tímto stylem začal malovat podobiznu Anny v italském kroji; podobizna se zdála jemu i každému, kdo ji viděl, velice zdařilá.
+
+</section>

@@ -3,6 +3,8 @@ title: XXIX
 contentType: prose
 ---
 
+<section>
+
 Anna nasedla do kolesky ve stavu ještě horším, než v jakém odjížděla z domova. K dřívější trýzni se teď připojil pocit urážky a zavržení, které si tak ostře uvědomila při setkání s Kitty.
 
 „Kam račte? Domů?“ ptal se Petr.
@@ -35,6 +37,10 @@ Oběd stál na stole. Anna k němu přistoupila, čichla k chlebu a k sýru,
 
 Petr vyskočil na kozlík, založil ruce v bok a poručil kočímu, aby jel na nádraží.
 
-  
+</section>
+
+<section>
 
 [^58]: Kadeřník. Dávám se česat u Ťuťkina. _(franc.)_
+
+</section>

@@ -3,6 +3,8 @@ title: VI
 contentType: prose
 ---
 
+<section>
+
 Poněvadž Sergej Ivanovič nevěděl, kdy bude moci odjet z Moskvy, netelegrafoval bratrovi, aby mu poslal povoz. Levin nebyl doma, když Katavasov a Sergej Ivanovič, zčernalí prachem jako mouřenínové, dojeli v kryté čtyřkolce vypůjčené na stanici kolem poledne k pokrovské usedlosti. Kitty seděla s otcem a sestrou na balkóně. Poznala švagra a běžela dolů, aby ho uvítala.
 
 „Že vám hanba není, proč jste nám nedal vědět,“ kárala Sergeje Ivanoviče. Podala mu ruku a nastavila čelo k políbení.
@@ -58,3 +60,5 @@ Usmívala se. Sice říkala, že syn ještě nemůže nikoho poznávat, ale ve s
 „Však až se probudí, uvidíte sama. Když takhle udělám, hned se drobeček začne smát, jako když vyjde sluníčko,“ říkala Agafja.
 
 „No dobře, dobře, pak uvidíme,“ zašeptala Kitty. „Teď už pojďte, on usíná.“
+
+</section>

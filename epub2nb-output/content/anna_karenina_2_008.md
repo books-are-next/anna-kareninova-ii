@@ -3,6 +3,8 @@ title: III
 contentType: prose
 ---
 
+<section>
+
 Zástup lidu, zejména žen, se nahrnul kolem osvětleného kostela. Ti, kdo se včas nedostali dovnitř, tlačili se kolem oken, strkali se, hádali a nakukovali skrz mříže.
 
 Přes dvacet kočárů už stálo podle pokynů četnictva po celé délce ulice. Policejní důstojník stál nedbaje mrazu u vchodu a oslňoval svou uniformou. Další kočáry neustále přijížděly a dámy, samý květ, si zvedaly vlečky, páni smekali čapky nebo černé klobouky a všecko vcházelo do kostela. Tam už byly rozsvíceny oba lustry a všechny svíce před svatými obrazy. Zlatá svatozář na rudém pozadí oltáře, zlacená řezba ikon, stříbro visutých lamp a svícnů, dlaždice podlahy, koberečky i korouhve nad kůrem, stupínky kněžiště i zčernalé staré knihy, kleriky i komže – vše bylo zaplaveno jasem. Na pravé straně vytopeného kostela, ve shluku fraků a bílých nákrčníků, uniforem a sukna, sametu, atlasu, vlasů, květin, odhalených ramenou i paží a dlouhých rukavic, vládl tlumený i živý hovor, který se podivně odrážel od vysoké klenby. Pokaždé když vrzly otvírané dveře, hovor v zástupu umlkal a všichni se ohlíželi v naději, že uvidí vcházet ženicha a nevěstu. Ale dveře už se otevřely nejméně desetkrát a pokaždé to byl nějaký opozdilý host, který se připojoval ke skupince pozvaných vpravo, anebo nějaká zvědavá žena, která obelstila nebo přemluvila policejního důstojníka a pak se připojovala k zástupu cizích diváků nalevo. Příbuzní i lidé cizí už prošli všemi fázemi čekání.
@@ -40,3 +42,5 @@ Neblahý Kuzma, téměř bez dechu, konečně vletěl s košilí do pokoje.
 Levin už se raději nedíval na hodinky, aby si nedrásal srdce, a za tři minuty pádil po chodbě.
 
 „Tím už to nespravíš,“ zasmál se Oblonskij a zvolna ho následoval. „Ono se to _vystříbří…_ povídám ti.“
+
+</section>

@@ -3,6 +3,8 @@ title: XXII
 contentType: prose
 ---
 
+<section>
+
 Anna se vrátila o chvíli později, a když se setkala s Dolly, pozorně jí pohlédla do očí, jako by se tázala, o čem s Vronským mluvili. Ale nahlas se nezeptala.
 
 „Už asi bude čas k obědu,“ řekla. „Ještě jsme se ani neužily. Těším se, že si večer všecko vynahradíme. Teď se musím jít převléknout. Ty asi taky. Všichni jsme se na té stavbě umazali.“
@@ -129,7 +131,9 @@ Když po večerním čaji a noční projížďce na loďce přišla Darja Alexa
 
 Skoro jí bylo nepříjemné pomyšlení, že teď Anna přijde za ní. Byla by raději zůstala sama se svými myšlenkami.
 
-  
+</section>
+
+<section>
 
 [^33]: Ó ano, je to docela jednoduchá věc. _(něm.)_
 
@@ -140,3 +144,5 @@ Skoro jí bylo nepříjemné pomyšlení, že teď Anna přijde za ní. Byla by 
 [^36]: Zbožňuji němčinu. _(franc.)_
 
 [^37]: Přestaňte. _(franc.)_
+
+</section>

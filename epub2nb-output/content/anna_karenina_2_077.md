@@ -3,6 +3,8 @@ title: V
 contentType: prose
 ---
 
+<section>
+
 Na matiné byly na pořadu dvě velice zajímavé skladby.
 
 První byla fantazie _Král Lear na pusté pláni_, druhý byl kvartet věnovaný památce Bachově. Obě skladby byly nové, byly komponovány v novém duchu a Levin si o nich chtěl utvořit vlastní mínění. Doprovodil švagrovou k jejímu sedadlu a sám si stoupl ke sloupu a umínil si, že bude poslouchat co nejpozorněji a nejsvědomitěji. Snažil se nerozptylovat a nekazit si dojem pohledem na dirigenta s bílou vázankou, mávajícího rukama, což vždycky tak nemile ruší poslech hudby, snažil se nevidět dámy v kloboucích, které si na koncert pečlivě ovázaly uši stuhami, a všecky ty osoby, které se buď nezabývaly ničím, anebo měly nejrozmanitější zájmy, jenom ne zájem o hudbu. Snažil se vyhnout setkání s hudebními odborníky a s mluvky. Stál se zrakem upřeným dolů před sebe a poslouchal.
@@ -27,6 +29,10 @@ Druhé číslo koncertu už Levin nemohl poslouchat. Pescov si stoupl vedle něh
 
 „Tak jeďte teď,“ radila mu Lvovová, když se jí svěřil, „možná že vás nepřijmou, a pak přijeďte na zasedání pro mne. Ještě to stihnete.“
 
-  
+</section>
+
+<section>
 
 [^45]: Věčné ženství. _(něm.)_
+
+</section>

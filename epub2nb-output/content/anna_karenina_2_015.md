@@ -3,6 +3,8 @@ title: X
 contentType: prose
 ---
 
+<section>
+
 Malíř Michajlov měl jako vždy napilno, když mu byly přineseny navštívenky hraběte Vronského a Goleniščeva. Dopoledne pracoval v ateliéru na velkém plátně. Když přišel domů, rozzlobil se na ženu, že si neuměla poradit s domácí, která chtěla peníze.
 
 „Už jsem ti stokrát říkal, že nemáš nic vykládat. Beztak jsi káča, a jak spustíš italsky, jsi káča teprv,“ řekl jí po dlouhé hádce.
@@ -29,6 +31,10 @@ Blížil se rychlým krokem ke dveřím ateliéru. Anna stála ve stínu v brá
 
 „Račte dále, prosím,“ řekl. Snažil se přitom vypadat lhostejně. Vešel do předsíně, vytáhl z kapsy klíč a odemkl dveře.
 
-  
+</section>
+
+<section>
 
 [^1]: Látka podobná vosku užívaná k výrobě mýdla, svíček ap. Pozn. red.
+
+</section>
