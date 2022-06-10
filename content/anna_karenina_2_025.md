@@ -4,6 +4,8 @@ hiddenTitle: true
 contentType: prose
 ---
 
+<section>
+
 Příští den byla nemocnému udělena svátost oltářní a poslední pomazání. Při obřadu se Nikolaj vroucně modlil. Ve velkých očích, upřených na svatý obraz stojící na hracím stolku, přikrytém barevným ubrouskem, se mu zračila taková vášnivá prosba a naděje, že Levina při pohledu na to jímala hrůza. Levin věděl, že ta vášnivá prosba a naděje mu jenom ještě ztíží loučení s životem, který tolik miloval. Levin znal bratra a jeho myšlenkový svět. Věděl, že jeho nevěrectví nepramení z toho, že by se mu bez víry lépe žilo, ale že soudobé vědecké výklady přírodních jevů postupně vytlačily víru. A proto věděl, že jeho dnešní návrat k víře není zákonitý, že nenastal myšlenkovým pochodem, nýbrž je pouze dočasný, zištný, že je veden šílenou nadějí na zázračné uzdravení. Levin také věděl, že Kitty v něm tuto naději ještě posílila svým vyprávěním o ne­obyčejných případech vyléčení, o kterých slyšela. To všecko Levin věděl, a proto mu bolestně usedalo srdce, když viděl ten úpěnlivý pohled plný naděje a tu vyzáblou ruku, která se stěží zvedala a dělala znamení kříže na otlačené čelo s napjatou pokožkou, na vyčnělá ramena a chroptivá prázdná prsa, jež už nemohla pojmout do sebe život, o nějž nemocný prosil. Při udílení svátosti se Levin také modlil a dělal, co ve svém nevěrectví dělal už tisíckrát. Obracel se k bohu: „Jsi-li, učiň, aby se tento člověk uzdravil (vždyť se tak stalo mnohokrát), a zachráníš jeho i mne.“
 
 Když bylo nemocnému uděleno poslední pomazání, najednou se mu značně ulevilo. Celou hodinu ani jednou nezakašlal, usmíval se, líbal Kitty ruku, se slzami v očích jí děkoval a říkal, že je mu dobře, že ho nic nebolí, že má chuť k jídlu a cítí se silný. Dokonce se sám nadzvedl, když mu přinesli polévku, a řekl si ještě o karbanátek. Třebaže to s ním bylo beznadějné, třebaže na něm bylo vidět, že se nemůže uzdravit, prožívali Levin a Kitty celou tu hodinu oba stejné vzrušení, plné štěstí i bázně, aby se nemýlili.
@@ -64,7 +66,9 @@ Ještě dlouho tak nad ním seděl a pořád čekal, kdy přijde konec. Ale kon
 
 S mrtvolnou rukou ve své ruce seděl půl hodiny, hodinu, ještě hodinu. Nyní už vůbec nepřemýšlel o smrti. Myslil na to, co asi dělá Kitty, kdo bydlí vedle v pokoji, jestli má lékař vlastní dům. Dostal hlad a chtělo se mu spát. Opatrně vyprostil ruku a ohmatal bratrovi nohy. Byly studené, ale nemocný dýchal. Levin zase chtěl po špičkách odejít, ale nemocný se zase pohnul a hlesl: „Neodcházej.“
 
-  
+</section>
+
+<section>
 
 Rozednilo se. Stav nemocného se nezměnil. Levin pomalu vyprostil svou ruku, a aniž se na umírajícího podíval, odešel do svého pokoje a usnul. Když se vzbudil, místo očekávané zprávy o bratrově úmrtí se dověděl, že nemocný je opět v takovém stavu, jako byl předtím. Opět si sedal na lůžku, kašlal, začal zase jíst, mluvit, zase přestal hovořit o smrti, opět začal vyslovovat naději na uzdravení a byl ještě popudlivější a zasmušilejší než dřív. Nikdo, ani bratr ani Kitty, ho neuměl uklidnit. Na všecky se osopoval a ke všem byl protivný, všem vyčítal, že mohou za jeho utrpení, a dožadoval se, aby poslali pro slavného lékaře do Moskvy. Na všecky otázky, jak mu je, odpovídal s vyčítavou, zlobnou tváří: „Hrozně zkouším, je to nesnesitelné!“
 
@@ -121,3 +125,5 @@ Pohled na bratra a blízkost smrti vzkřísily v Levinově nitru pocit hrůzy 
 Sotva se před jeho zraky dokonalo tajemství smrti, jež zůstalo neodhaleno, a už povstalo tajemství jiné, stejně skryté, ale vybízející k lásce a k životu.
 
 Lékař potvrdil svou domněnku o Kittině stavu. Příčinou její nevolnosti bylo těhotenství.
+
+</section>

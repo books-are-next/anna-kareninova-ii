@@ -3,6 +3,8 @@ title: XXVI
 contentType: prose
 ---
 
+<section>
+
 V září se Levin přestěhoval do Moskvy, kde měla Kitty rodit. Žil tam nečinně už celý měsíc, když se Sergej Ivanovič Koznyšov, který měl v kašinské gubernii statek a velmi se o nadcházející volby zajímal, začal chystat na cestu. Zval s sebou i bratra, který měl hlasovací právo za selezněcký okres. Kromě toho měl Levin v Kašinu vyřídit své sestře žijící v cizině naléhavou záležitost opatrovnickou a převzít pro ni peníze za vykoupenou půdu.
 
 Levin se pořád nemohl rozhodnout, ale Kitty viděla, jak se v Moskvě nudí, radila mu, aby jel a objednala mu bez jeho vědomí šlechtický stejnokroj v ceně osmdesáti rublů. A těch osmdesát rublů zaplacených za stejnokroj bylo hlavní pohnutkou, že se Levin rozhodl. Odjel do Kašina.
@@ -26,3 +28,5 @@ Druhý a třetí den se jednalo o šlechtických penězích a o dívčím gy
 „I kdež! Je to poctivý člověk. Ale bylo třeba otřást tím zastaralým způsobem patriarchálního rodinného řízení šlechtických záležitostí.“
 
 Pátý den se konaly volby okresních maršálků. Pro některé okresy to byl den velice bouřlivý. Za selezněvský okres byl aklamací zvolen Svijažskij a uspořádal toho dne oběd.
+
+</section>

@@ -3,6 +3,8 @@ title: XXXIII
 contentType: prose
 ---
 
+<section>
+
 Vronskij se poprvé na Annu mrzel, skoro se na ni zlobil, že si nechce uvědomit své postavení. Ten pocit byl ještě vystupňován tím, že jí nemohl vysvětlit příčinu své rozmrzelosti. Kdyby jí rovnou řekl, co si myslí, řekl by: „Přijít v tomto úboru, v doprovodu známé princezny do divadla – znamená nejen přiznat své postavení padlé ženy, ale také hodit rukavici vznešené společnosti, to jest zříci se jí navždycky.“
 
 Nemohl jí to říci. Ale jak je možné, že to sama nechápe, a co se s ní vůbec děje? Cítil, jak k ní ztrácí úctu a zároveň si ještě víc uvědomuje, jak je krásná.
@@ -41,7 +43,9 @@ Komorník si nebyl vědom viny a chtěl se ospravedlnit, ale podíval se na pá
 
 „To není tvá věc, pošli sem sluhu, ať to uklidí, a připrav mi frak.“
 
-  
+</section>
+
+<section>
 
 Vronskij přišel do divadla o půl deváté. Představení bylo v plném proudu. Stařičký biletář pomohl Vronskému z kožichu, a jelikož ho poznal, oslovil ho „Excelence“ a doporučil mu, aby si nebral lístek od šatny, ale prostě zavolal Fjodora. Na osvětlené chodbě nebyl nikdo kromě biletáře a dvou sluhů s kožichy přes ruce, kteří poslouchali u dveří. Za pootevřenými dveřmi znělo pečlivé staccato orchestru a ženský hlas, který výrazně přednášel hudební větu. Dveře se otevřely, biletář proklouzl dovnitř a věta, která už spěla ke konci, jasně zazněla Vronskému do uší. Ale dveře se hned nato zavřely, takže Vronskij neslyšel konec věty a kadenci, poznal však z bouře potlesku, která se strhla za dveřmi, že kadence je skončena. Když vstoupil do hlediště, jasně ozářeného lustry a bronzovými plynovými hořáky, ruch ještě neustával. Zpěvačka, oslňující nahými rameny a brilianty, rozdávala z jeviště úsměvy, ukláněla se a s pomocí tenoristy, který ji držel za ruku, sbírala kytice létající nešikovně přes rampu a blížila se k pánovi s pěšinkou v lesklých napomádovaných vlasech, který natahoval dlouhé ruce přes rampu a cosi jí podával – a všechno obecenstvo v přízemí i lóžích bouřilo, tlačilo se kupředu, volalo a tleskalo. Kapelník na stupínku pomáhal předávat dary a rovnal si bílý nákrčník. Vronskij zůstal stát uprostřed přízemí a rozhlížel se kolem sebe. Dnes si ani tolik nevšímal známého běžného prostředí, jeviště, hluku, ani nevnímal celé to známé, všední, pestré stádo diváků v nabitém divadle.
 
@@ -149,10 +153,14 @@ Bylo mu jí líto, a přece se zlobil. Ujišťoval ji o své lásce, neboť vi
 
 A všecka ta slova lásky, která mu připadala tak banální, až se je styděl říkat, Anna dychtivě vpíjela a pomalu se uklidňovala. Nazítří, už zcela usmířeni, odjeli na venkov.
 
-  
+</section>
+
+<section>
 
 [^9]: Dvořit se paní Kareninové. _(franc.)_
 
 [^10]: Budí senzaci. Lidé pro ni zapomínají na Pattiovou. _(franc.)_
 
 [^11]: Krátká lyrická árie. Pozn. red.
+
+</section>

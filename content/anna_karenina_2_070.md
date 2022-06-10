@@ -3,6 +3,8 @@ title: XXXI
 contentType: prose
 ---
 
+<section>
+
 Nově zvolený gubernský maršálek a četní příslušníci vítězné strany obědvali toho dne u Vronského.
 
 Vronskij přijel k volbám jednak proto, že se na venkově nudil a musel vůči Anně uplatnit své právo na svobodu, jednak aby podporou při volbách oplatil Svijažskému všechny služby, které mu prokázal při volbách do samosprávy, a především proto, aby přesně dostál povinnostem plynoucím z úlohy šlechtice a statkáře, kterou si zvolil. Ale nenadál se, že ho volby tolik zaujmou a strhnou a že si bude v té věci tak dobře vést. Byl zde v šlechtickém kruhu docela novým člověkem, ale patrně měl úspěch a nemýlil se, když se domníval, že už si mezi šlechtou získal vliv. Tomuto vlivu napomáhalo: jeho bohatství a urozenost; nádherný byt ve městě, který mu přenechal starý známý Širkov, jenž se zabýval peněžními obchody a založil v Kašinu vzkvétající banku; výtečný vlastní kuchař, kterého si Vronskij přivezl ze vsi; přátelství s gubernátorem, který byl jeho spolužákem, ke všemu spolužákem, nad nímž Vronskij držel ochrannou ruku; ale především to bylo jeho prosté chování, ke všem bez výjimky stejné, jež záhy přimělo většinu šlechticů, aby změnili svůj úsudek o jeho domnělé pýše. Sám cítil, že kromě toho potrhlého pána, manžela Kitty Ščerbacké, který mu zničehonic v bezuzdném vzteku napovídal spoustu nesmyslů, získal stoupence v každém šlechtici, s kterým se seznámil. Viděl jasně – a také ostatní to uznávali –, že hojnou měrou přispěl k úspěchu Něvědovského. A když teď u tabule oslavoval zvolení Něvědovského, měl příjemný pocit triumfu, že jeho vyvolenec zvítězil. Volby samy ho tak navnadily, že už pomýšlel na vlastní kandidaturu, bude-li do příštího tříletého období ženatý – asi tak, jako když mu žokej vyhrál cenu a on dostal chuť jet dostih sám.
@@ -43,8 +45,12 @@ Dítě jí stůně, a ona chtěla jet sama. Dcera stůně, a takový nepřáte
 
 Protiklad mezi nevinným veselím voleb a tou ponurou tíživou láskou, ke které se musel vrátit, Vronského až ohromil. Ale nezbylo než jet, a tak se nejbližším nočním vlakem vrátil domů.
 
-  
+</section>
+
+<section>
 
 [^42]: Rozehrávat telegraf. _(franc.)_
 
 [^43]: Na to si nepotrpím. _(angl.)_
+
+</section>

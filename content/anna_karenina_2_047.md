@@ -3,6 +3,8 @@ title: VIII
 contentType: prose
 ---
 
+<section>
+
 Nazítří ještě dámy ani nebyly vzhůru, když povozy pro lovce, bryčka a vozík, už stály před domem. Laska poznala hned zrána, že se pojede na hon, a kňučela a skákala radostí. Teď seděla v bryčce vedle kočího a rozčileně a vyčítavě pokukovala po dveřích, co že je to za průtahy, že ti myslivci pořád nejdou. První vyšel Váseňka Veslovskij v nových vysokých botách sahajících do poloviny tlustých stehen, v zelené haleně stažené novým opaskem se sumkou, vonícím kůží, ve své čapce se stuhami a s anglickou, zbrusu novou puškou bez poutek a bez řemene. Laska mu běžela naproti, na uvítanou skákala kolem něho, pak se ho ve své řeči zeptala, kdy už tu budou ostatní, ale nedostala odpověď, vrátila se na své stanoviště a ztichla, jen dala hlavu na stranu a našpicovala slechy. Konečně se dveře hlučně otevřely, strakatý pointer Oblonského Krak vyrazil ven, točil se a vrtěl na vzduchu, až potom vyšel i Stěpan Arkaďjič s puškou v ruce a s doutníkem v ústech. „Lehni, Kraku!“ laskavě okřikoval psa, který mu dával tlapy na břicho a na prsa a chytal za loveckou brašnu. Stěpan Arkaďjič měl selské botky a onuce, ošumělé kalhoty a krátký svrchník. Na hlavě trosky jakéhosi klobouku, ale puška nejnovějšího systému byla pravá pohádka, a brašna i sumka, třeba opotřebované, byly nejlepší jakosti.
 
 Váseňka Veslovskij kdysi nechápal to pravé myslivecké frajerství – jít v hadrech, ale mít prvotřídní loveckou výzbroj. Pochopil to nyní, když viděl Stěpana Arkaďjiče, jak v těch hadrech oslňuje svým elegantním, blahobytným a jarým panským zjevem, a umínil si, že příště se zařídí podle toho.
@@ -70,3 +72,5 @@ Když ujeli tři versty, Veslovskij najednou pohřešil doutníky a náprsní t
 „Ne, pročpak?“ odpověděl Levin, neboť v duchu odhadl, že Váseňka jistě váží dobrých šest pudů. „Pošlu tam kočího.“
 
 Kočí jel na podsedním koni domů a Levin teď řídil sám dvojspřežení.
+
+</section>

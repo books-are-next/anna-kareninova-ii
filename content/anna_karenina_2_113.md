@@ -3,6 +3,8 @@ title: IX
 contentType: prose
 ---
 
+<section>
+
 Ty myšlenky ho trýznily a mučily někdy méně, někdy více, ale nikdy ho neopouštěly úplně. Četl a přemýšlel, a čím víc četl a přemýšlel, tím vzdálenější se mu zdál sledovaný cíl.
 
 Poslední dobou v Moskvě a na venkově, když se přesvědčil, že u materialistů odpověď nenalezne, četl jednoho po druhém, a znova si pročetl Platona i Spinozu, Kanta a Schellinga, Hegela i Schopenhauera – filozofy, kteří vykládali život nematerialisticky.
@@ -30,3 +32,5 @@ Bylo nutné se z té moci vysvobodit. Vysvobození bylo pro každého nasnadě.
 Levin, ten šťastný manžel a otec, zdravý člověk, měl několikrát tak blízko k sebevraždě, že schoval provaz, aby se nemohl oběsit, a bál se chodit s puškou, aby se nezastřelil.
 
 Avšak nezastřelil se ani neoběsil a žil dál.
+
+</section>

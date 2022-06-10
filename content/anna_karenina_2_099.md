@@ -3,6 +3,8 @@ title: XXVII
 contentType: prose
 ---
 
+<section>
+
 „Odjel! Je konec!“ řekla si Anna, stojíc u okna. A dojem temnoty, když včera zhasla svíce, i dojem z děsivého snu splynuly v celek a jako odpověď na tu otázku jí naplnily srdce mrazivou hrůzou.
 
 „Ne, to není možné!“ vykřikla, přešla pokojem a prudce zazvonila. Tolik se teď hrozila samoty, že nečekala, až sluha přijde, a šla mu naproti.
@@ -64,3 +66,5 @@ Když odeslala telegram, šla se oblékat. Už oblečená a v klobouku se opě
 „Kam račte?“ otázal se Petr, než se posadil na kozlík.
 
 „Na Znamenku k Oblonským.“
+
+</section>

@@ -3,6 +3,8 @@ title: XXXI
 contentType: prose
 ---
 
+<section>
+
 I když si Anna tak toužebně přála shledání se synem, i když na to už dávno myslila a tolik se těšila, přece se nenadála, že na ni tak mocně zapůsobí. Když se vrátila do svého osamělého apartmá v hotelu, dlouho nemohla pochopit, jak se tu vlastně octla. Ano, všemu je konec a jsem zase sama, řekla si. Ani neodložila klobouk a usedla do křesla u krbu. Strnule se zadívala na bronzové hodiny, stojící na stolku mezi okny, a upadla v zamyšlení.
 
 Přišla francouzská komorná, kterou si Anna přivezla z ciziny, a nabídla se, že jí pomůže s převlékáním. Anna se na ni udiveně podívala a řekla:
@@ -58,3 +60,5 @@ Vzala ho za ruku, dívala se na něho, oka z něho nespustila a přitom usilov
 „Brzo, už brzo. Ani bys nevěřila, jak mě taky tíží náš život tady,“ pravil a odtahoval ruku.
 
 „Tak už jdi, jdi si!“ pravila uraženě a rychle ho opustila.
+
+</section>

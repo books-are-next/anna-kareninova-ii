@@ -3,6 +3,8 @@ title: XI
 contentType: prose
 ---
 
+<section>
+
 Když vstoupili do ateliéru, prohlédl si malíř Michajlov hosty ještě jednou a nyní si vštípil do paměti tvář Vronského, zvlášť jeho vysedlé lícní kosti. Ačkoli jeho umělecký cit bez ustání sbíral materiál, ačkoli pociťoval stále mocnější vzrušení nad blížící se chvílí, kdy bude posuzováno jeho dílo, přece si z nepatrných znaků rychle a bystře utvořil představu o těchto třech osobách. Tamten (Goleniščev) je Rus, žijící zde. Michajlov si nepamatoval jeho jméno, ani kde se s ním setkal a o čem spolu mluvili. Pamatoval si pouze jeho obličej, jako si pamatoval všecky obličeje, co jich kdy viděl, ale zároveň si pamatoval, že je to jedna z tváří, odložených v jeho paměti do obrovského oddílu tváří rádoby působivých a přitom výrazově chudých. Dlouhé vlasy a značně vysoké čelo dodávaly vnějškové působivosti tváři, která měla jen maloučko neklidného dětinského výrazu, soustředěného nad úzkým kořenem nosu. Vronskij a Kareninová, uvažoval Michajlov, jsou asi urození bohatí Rusové, kteří jako všichni bohatí Rusové vůbec nerozumějí umění, ale dělají ze sebe jeho milovníky a znalce. Nejspíš už zbrousili všecky galerie a teď jezdí po ateliérech nových malířů, toho mazala Němce a bláznivého anglického preraffaelity[^2], a ke mně přijeli, jenom aby měli úplný přehled, říkal si v duchu. Znal velice dobře způsoby diletantů (čím víc moudrostí pochytili, tím to bylo horší), kteří navštěvovali ateliéry soudobých malířů jen proto, aby pak mohli hlásat, že výtvarné umění upadá, a čím déle prý se díváme na malíře nové, tím spíš si uvědomujeme, jak nedostižní jsou podnes velcí staří mistři. To všecko očekával, to vše jim četl ve tvářích, viděl to v lhostejné nonšalanci, s jakou spolu hovořili, dívali se na manekýny a busty a nenuceně se procházeli v očekávání, kdy jim ukáže obraz. Ale přesto se ho zmocnilo velké rozčilení, když listoval ve svých skicách, vytahoval stóry[^3] a sundával plachtu – rozčilení o to větší, že v jeho představách všichni urození a bohatí Rusové sice měli být darebáci a troupové, avšak Vronskij a Anna se mu velice líbili, zvláště Anna.
 
 „Prosím, není libo se podívat?“ řekl, houpavým krokem poodešel stranou a ukázal na obraz. „To je soud Pilátův. Matouš, kapitola sedmadvacátá,“ dodal a cítil v té chvíli, že rty se mu začínají třást rozčilením. Poodešel a stoupl si dozadu.
@@ -51,8 +53,12 @@ Goleniščev nesouhlasil, svého původního názoru – že dojem z uměleck�
 
 Michajlov byl rozčilen, ale na obhajobu svého názoru nedovedl nic říci.
 
-  
+</section>
+
+<section>
 
 [^2]: Novoromantický malíř 19. století navazující na italskou renesanci. Pozn. red.
 
 [^3]: Stahovací záclona přes celé okno. Pozn. red.
+
+</section>

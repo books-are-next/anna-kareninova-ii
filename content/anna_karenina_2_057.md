@@ -3,6 +3,8 @@ title: XVIII
 contentType: prose
 ---
 
+<section>
+
 Anna pozorovala Dollin hubený, zmučený obličej, na němž se ve vráskách zachytil prach, a chtěla říci, co si myslila – totiž, že Dolly zhubla. Ale pak si uvědomila, že ona sama jen kvete a že Dollin pohled jí to pověděl. Vzdychla a začala o sobě.
 
 „Ty se na mě díváš,“ řekla, „a přemýšlíš, jestli mohu být při svém postavení šťastná? Inu co! Stydím se přiznat. Ale jsem… jsem hříšně šťastná… Stalo se kouzlo jako v pohádce, jako když se ti zdá něco strašného, až jde na tebe úzkost, a pak se najednou vzbudíš a cítíš, že všecky ty hrůzy jsou pryč. Procitla jsem. Prožila jsem strašná muka a teď jsem už dávno, zvlášť co jsme tady, tolik šťastná!“ Anna pohlédla s nesmělým, tázavým úsměvem na Dolly.
@@ -73,7 +75,9 @@ Nebyl to parádní pokoj, který navrhoval Vronskij, nýbrž jiný, o kterém A
 
 „Ale co, to já samou radostí mluvím hlouposti. Jenom mi věř, drahoušku, jsem hrozně ráda, žes tady!“ pravila Anna a zase ji líbala. „Ještě jsi mi neřekla, jak a co o mně soudíš, a já chci všecko vědět. Ale jsem ráda, že mě uvidíš takovou, jaká jsem. Hlavně bych nerada, aby si někdo myslil, že chci něco dokazovat. Nic dokazovat nechci, chci prostě žít. Nikomu neškodit, leda sobě. Na to mám právo, ne? Ale to by vlastně byl delší rozhovor a ještě si o všem důkladně popovídáme. Teď se půjdu obléknout a tobě sem pošlu děvče.“
 
-  
+</section>
+
+<section>
 
 [^25]: Mladý hřebec. _(angl.)_
 
@@ -82,3 +86,5 @@ Nebyl to parádní pokoj, který navrhoval Vronskij, nýbrž jiný, o kterém A
 [^27]: Promiňte, mám toho plné kapsy. _(franc.)_
 
 [^28]: Ale přicházíte příliš pozdě. _(franc.)_
+
+</section>

@@ -3,6 +3,8 @@ title: XVII
 contentType: prose
 ---
 
+<section>
+
 Hotel v gubernském městě, kde ležel Nikolaj Levin, byl jedním z gubernských hotelů, jaké jsou zřizovány podle nejnovějších zdokonalených vzorů a s nejlepšími úmysly, aby byly čisté, komfortní, ba elegantní – jenže společnost, která zde pobývá, je závratnou rychlostí proměňuje ve špinavé krčmy, které si činí nároky na moderní vymoženosti, a právě pro tuto marnou snahu jsou horší než staré, obyčejné, špinavé hotely. Tento hotel už dospěl do takového stadia. Válečný invalida ve špinavém mundúru u vchodu s cigaretou v ruce, patrně sloužící za vrátného; ponuré, nevlídné, litinové schody; klackovitý sklepník ve špinavém fraku a lokál s kyticí zaprášených voskových květin na stole, špína, prach a nepořádek všude, a zároveň jakási nová, moderně podnikatelská samolibá pečlivost po celém hotelu vše vyvolalo v Levinových po jejich novomanželském životě nanejvýš skličující pocit, zejména proto, že falešný dojem, kterým měl hotel působit, se naprosto nehodil k tomu, co je čekalo.
 
 Když se jich sklepník zeptal, v jaké ceně si přejí pokoj, vyšlo jako vždy najevo, že ani jeden slušný pokoj není volný. Jeden lepší pokoj měl obsazen revizor od dráhy, druhý obýval advokát z Moskvy, třetí kněžna Astafjevová, která přijela z venkova. Zbýval jen jeden špinavý pokoj a slíbili, že navečer vyklidí ještě místnost sousední. Levin se mrzel na ženu, protože zlé tušení ho nezklamalo, a ve chvíli, kdy přijel, kdy mu rozčilením usedalo srdce při myšlence, co je s bratrem, musel se starat o ni, místo aby se ihned rozběhl k bratrovi. S takovými pocity zavedl ženu do pokoje.
@@ -76,3 +78,5 @@ Svižně kráčela, neustále se dívala na muže a ukazovala mu statečnou a 
 Kitty ještě nedomluvila, když se v jeho tváři zase objevil přísný, vyčítavý výraz – umírající záviděl živému.
 
 „Bojím se, že tady to nemáte moc dobré,“ pravila, a uhýbajíc před jeho upřeným zrakem rozhlédla se po místnosti. „Musíme hotelié­rovi říct o jiný pokoj,“ řekla. „A taky abychom byli blíž.“
+
+</section>

@@ -3,6 +3,8 @@ title: IX
 contentType: prose
 ---
 
+<section>
+
 Opuštěný starý palác s vysokými štukovými stropy a freskami na zdech, s mozaikovými podlahami, s těžkými, vlněnými žlutými závěsy na vysokých oknech, s vázami na stojáncích a krbech, s vyřezávanými dveřmi a ponurými sály plnými obrazů – tento palác, když se do něho přestěhovali, už svým vzhledem utvrzoval Vronského v příjemném bludu, že není ani tak ruský statkář, gardový myslivec mimo službu, jako osvícený milovník a podpůrce umění, sám skromný umělec, který se zřekl společnosti, vlivných styků a kariéry pro milovanou ženu.
 
 Úloha, kterou si Vronskij zvolil, se po přesídlení do paláce zdařila dokonale, a když ho Goleniščev seznámil s některými zajímavými osobnostmi, byl první dobu klidný. Maloval pod vedením italského profesora malířství studie podle skutečnosti a studoval italský středověk. Italský středověk Vronského v poslední době tak okouzlil, že teď nosil i klobouk a přehoz přes rameno po středověkém způsobu, což mu velice slušelo.
@@ -38,3 +40,5 @@ Vronskij také vyhlédl z okna, podíval se Anně do očí a pak se hned otoč
 Goleniščev se uklidnil a rád souhlasil. Ale poněvadž malíř bydlil ve vzdálené čtvrti, rozhodli se, že si vezmou drožku.
 
 Hodinu poté Anna vedle Goleniščeva a Vronskij na předním sedadle kočáru přijeli k hezkému novému domu ve vzdálené čtvrti. Přivítala je domovnice a sdělila, že Michajlov přijímá návštěvy v ateliéru, ale teď že je ve svém bytě pár kroků odtud. Poslali mu po ní své navštívenky s prosbou, aby si směli prohlédnout jeho obrazy.
+
+</section>

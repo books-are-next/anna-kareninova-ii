@@ -3,6 +3,8 @@ title: XXVII
 contentType: prose
 ---
 
+<section>
+
 Po hodině mluvnice následovala hodina s otcem. Než otec přišel, sedl si Serjoža ke stolu, hrál si s nožíkem a přemýšlel. Oblíbeným Serjožovým zaměstnáním bylo hledat při procházkách matku. Nevěřil ve smrt vůbec a zvláště ne v její smrt, ačkoli mu to Lydie Ivanovna řekla a otec to potvrdil, takže i potom, co mu bylo řečeno, že matka zemřela, vždycky po ní při procházkách pátral. Každá statnější, půvabná paní s tmavými vlasy byla jeho matka. Kdykoli spatřil takovou dámu, zaplavila mu srdce taková něha, až se zalykal a do očí se mu draly slzy. A užuž čekal, že dáma přijde k němu a odhrne si závoj. Uvidí jí do obličeje, dáma se usměje, obejme ho, Serjoža ucítí její vůni, ucítí její něžnou ruku a rozpláče se štěstím, jako když si jí jednou večer lehl k nohám, ona ho lechtala a on se smál a kousal ji do bílé ruky plné prstenů. Když se pak od chůvy náhodou dověděl, že matka nezemřela, a otec a Lydie Ivanovna mu vysvětlili, že zemřela pro něho, poněvadž není hodná (tomu už teprve nemohl věřit, protože ji měl rád), stejně po ní pátral a čekal na ni. Dnes byla v Letním sadu jedna dáma ve fialovém závoji, kterou se zatajeným dechem sledoval, když se blížila po pěšince k nim. Doufal, že je to ona. Dáma nedošla až k nim a někam zmizela. Dnes pociťoval Serjoža prudší nával lásky než kdy jindy, a jak teď čekal na otce, díval se rozzářenýma očima před sebe a myslil na ni, až v zasnění pořezal nožíkem celý okraj stolu.
 
 „Tatínek už jde!“ vyrušil ho Vasilij Lukič ze zadumání.
@@ -56,3 +58,5 @@ Otec potrestal Serjožu tím, že ho nepustil k Naděnce, neteři Lydie Ivanovn
 „Ale já vidím bez světla ještě líp, co vidím a zač jsem se modlil. – Hele, už bych se málem podřekl!“ vesele se zasmál Serjoža.
 
 Když byla odnesena svíce, Serjoža slyšel a cítil vedle sebe matku. Stála nad ním a laskala ho milujícím pohledem. Ale pak se objevily větrníky, nožík, všecko se smíchalo dohromady a Serjoža usnul.
+
+</section>

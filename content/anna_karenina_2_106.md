@@ -3,6 +3,8 @@ title: II
 contentType: prose
 ---
 
+<section>
+
 Sotvaže Koznyšov a Katavasov dojeli na stanici kurské dráhy, dnes zvlášť oživenou zástupy lidu, vystoupili z kočáru a vyhledali sluhu, který jel se zavazadly za nimi, už přijeli i dobrovolníci ve čtyřech drožkách. Dámy s kyticemi je uvítaly a dobrovolníci vešli na nádraží, provázeni zástupem, který se valil za nimi.
 
 Jedna z dam, které vítaly dobrovolníky, vyšla z čekárny a obrátila se k Sergejovi Ivanoviči.
@@ -79,6 +81,10 @@ Když vyšli na nástupiště, Vronskij pustil matku napřed a beze slova zmize
 
 Na nástupišti zaznělo _Bože, carja chrani,_ potom volání _hurá_ a _živio._ Jeden z dobrovolníků, veliký, tuze mladý muž s vpadlou hrudí, se klaněl zvlášť nápadně a mával nad hlavou plstěným kloboukem a kyticí. Za ním vystrkovali hlavy dva důstojníci a postarší muž s dlouhým vousem a v umaštěné čepici a také zdravili.
 
-  
+</section>
+
+<section>
 
 [^61]: Drobné nepříjemnosti lidského života. _(franc.)_
+
+</section>

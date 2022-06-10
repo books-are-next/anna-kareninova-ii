@@ -3,6 +3,8 @@ title: XXX
 contentType: prose
 ---
 
+<section>
+
 Vasilij Lukič zprvu nechápal, kdo je ta dáma, až potom z jejich rozhovoru poznal, že je to Serjožova matka, která opustila muže a kterou nezná, protože přišel ke Kareninovým až po jejím odchodu. Byl nyní na rozpacích, zda má vstoupit, či nikoli, anebo to oznámit Alexeji Alexandroviči. Nakonec uvážil, že jeho povinností je budit Serjožu v určitou hodinu a že tedy nemá co hloubat, kdo tam sedí, zda matka, či někdo jiný, ale musí konat svou povinnost. Ustrojil se, šel ke dveřím a otevřel je.
 
 Ale když viděl, jak se matka mazlí se synem, když slyšel jejich hlasy a vnímal, co říkají – byl nucen změnit svůj úmysl. Potřásl hlavou a s povzdechem zavřel dveře. Počkám ještě deset minut, řekl si, odkašlal a utíral si slzy.
@@ -54,3 +56,5 @@ Serjoža klesl na postel, zakryl si obličej a usedavě se rozplakal. Anna mu o
 Ačkoli před chvílí říkala, že je lepší a hodnější než ona, přece ji teď – když na něj vrhla letmý pohled, kterým zachytila jeho postavu do všech detailů – zaplavil pocit hnusu, zloby i závisti, že má syna u sebe. Prudkým pohybem si stáhla závoj přes obličej, přidala do kroku a téměř vyběhla z pokoje.
 
 Ani se nedostala k tomu, aby vybalila hračky, které tak láskyplně a smutně vybírala včera v obchodě, a přivezla je zase domů.
+
+</section>

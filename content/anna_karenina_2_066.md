@@ -3,6 +3,8 @@ title: XXVII
 contentType: prose
 ---
 
+<section>
+
 Na šestý den byly stanoveny volby gubernské. Velké i malé sály byly plné šlechticů v různých stejnokrojích. Mnozí přijeli jen na tento den. Známí, kteří se už dávno neviděli, jeden z Krymu, druhý z Petrohradu, třetí z ciziny, se potkávali v sálech. U gubernského stolu pod vladařovou podobiznou, určeného k volbám gubernského maršálka, se debatovalo.
 
 Šlechtici ve velkém i v malém se seskupovali do různých táborů a z nepřátelských, nedůvěřivých pohledů, z toho, jak umlkal hovor, kdykoli se přiblížil někdo z tábora cizího, i jak si někteří šeptali a odcházeli až do vzdálené chodby, ze všeho bylo znát, že každá strana má tajemství před druhou. Zevnějškem se šlechtici ostře dělili na dva druhy: na staré a nové. Staří měli většinou buď staré šlechtické upjaté stejnokroje, kordy a klobouky, anebo vlastní uniformy námořnické, jezdecké či pěchotní, které si vysloužili. Stejnokroje starých šlechticů byly ušité podle staré módy s pufničkami na rukávech; byly zřejmě malé, krátké, a úzké v pase, jako by z nich jejich majitelé vyrostli. Mladí měli rozepnuté šlechtické stejnokroje se sníženým pasem, volné v ramenou, a bílé vesty, nebo stejnokroje s černým límcem a s vavřínovými ratolestmi, odznakem ministerstva spravedlnosti. K mladým náležely i uniformy dvorské, jež zástupu tu a tam dodávaly lesku.
@@ -29,6 +31,10 @@ Levin pochopil, ale ne docela, a chtěl se ještě na leccos zeptat, když tu n
 
 „Co je? Co? Koho?“ „Plnou moc? Komu? Cože?“ „Popírají?“ „Plnou moc ne.“ „Flerova nechtějí připustit k volbám.“ „Co na tom, že je soudně stíhán?“ „Takhle by nepřipustili kdekoho. To je hanebnost.“ „Na to je zákon!“ slyšel Levin z různých stran a spolu se všemi ostatními, kteří někam chvátali a báli se, aby něco nepropásli, zamířil do velkého sálu a protlačil se ke gubernskému stolu, u kterého se gubernský maršálek, Svijažskij a ostatní předáci o něco vášnivě přeli.
 
-  
+</section>
+
+<section>
 
 [^39]: Ó svatá prostoto! _(lat.)_
+
+</section>

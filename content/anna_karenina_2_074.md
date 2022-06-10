@@ -3,6 +3,8 @@ title: II
 contentType: prose
 ---
 
+<section>
+
 „Tak zajeď prosím tě k Bolovým,“ řekla Kitty manželovi, když se v jedenáct hodin stavil u ní, dříve než odešel z domu. „Vím, že obědváš v klubu, tatínek tě dal zapsat. A co budeš dělat dopoledne?“
 
 „Jedu jenom ke Katavasovovi,“ odvětil Levin.
@@ -103,6 +105,10 @@ Když Levin vyřešil dík městským poměrům tak jednoduše a snadno nesnáz
 
 Neproduktivní, a přece nutné výdaje, pro člověka z venkova nezvyklé, které na něm byly v Moskvě požadovány ze všech stran, ho překvapovaly jen první dobu. Teď už si na ně zvykl. Dělo se mu v té věci, jak prý se děje opilcům: první sklenka hrdlo svírá, druhá srdce otevírá, třetí – ztracena je míra. Když Levin rozměnil první storublovou bankovku, aby koupil livreje lokajovi a vrátnému, napadlo ho bezděčně, že ty livreje, neužitečné, a přece nezbytně nutné (podle toho, jak se kněžna i Kitty podivily, když naznačil, že by to snad šlo i bez livrejí) – že ty livreje ho budou stát tolik jako dva dělníci najatí na celé léto, což je kolem tří set pracovních dní od Velikonoc do ostatků[^44], a každý den se těžce pracuje od rána do pozdního večera. A ta storublová bankovka ještě svírala hrdlo. Avšak další, rozměněná na nákup potravin k obědu pro příbuzné, který přišel na osmadvacet rublů, sice v Levinovi vyvolala představu, že osmadvacet rublů se rovná devíti měřicím ovsa, který lidé v potu tváře sekali, vázali, mlátili, čistili, přehazovali a přesypávali – ta další stovka šla z kapsy přece jen snadněji. A bankovky, které měnil dnes, už v něm nevyvolávaly takové úvahy a míra byla ztracena. Levin už dávno neuvažoval, zda práce vynaložená na získání peněz odpovídá radosti z věcí za ně koupených. Zásada hospodáře, podle níž nesmí prodat určitý druh obilí pod určitou cenou, byla rovněž zapomenuta. Žito, s kterým tak dlouho čekal, až stoupne cena, bylo nakonec prodáno o padesát kopejek na měřici levněji, než za ně nabízeli před měsícem. Ani správný předpoklad, že při takových výdajích nemůže vydržet celý rok, aniž se zadluží, ani ten už nic neznamenal. Byl tu jediný požadavek: mít peníze v bance, neptat se, odkud se berou, a vždycky vědět, zač zítra koupit maso. A ten požadavek až dosud plnil, vždycky měl v bance peníze. Ale teď peníze v bance došly a dost dobře nevěděl, kde vezme další. A právě to ho na chvilku rozladilo, když se mu Kitty zmínila o penězích; ale neměl čas o tom uvažovat. Myslil cestou na Katavasova a na brzké seznámení s Metrovem.
 
-  
+</section>
+
+<section>
 
 [^44]: Poslední dny masopustu. Pozn. red.
+
+</section>

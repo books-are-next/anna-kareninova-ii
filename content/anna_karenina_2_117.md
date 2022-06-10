@@ -3,6 +3,8 @@ title: XIII
 contentType: prose
 ---
 
+<section>
+
 A Levinovi se vynořil v paměti nedávný výjev s Dolly a s jejími dětmi. Děti zůstaly samy a začaly si opékat maliny nad svíčkou a mléko si lily proudem do úst. Matka je přistihla a začala jim před Levinem vštěpovat, co práce dá velkým lidem to, co ony ničí, že ta práce se koná pro ně, budou-li rozbíjet šálky, že nebudou mít z čeho pít čaj, a když budou rozlévat mléko, že nebudou mít co jíst a umřou hlady.
 
 Levina překvapila ta klidná, ponurá nedůvěra, s jakou děti poslouchaly, co jim matka říká. Jenom je rmoutilo, že skončila zajímavá hra, a nevěřily matce ani slovo. Ani nemohly věřit, poněvadž si nedovedly představit v plném rozsahu všechno, čeho užívaly, a proto si neuměly představit, že vlastně ničí to, z čeho jsou živy.
@@ -40,3 +42,5 @@ Ležel na zádech a díval se na vysoké bezoblačné nebe. Což nevím – p�
 Levin už nepřemýšlel a jen naslouchal tajemným hlasům, které se mezi sebou o něčem radostně a starostlivě domlouvaly.
 
 Skutečně je to víra? Bál se věřit svému štěstí. „Bože můj, díky tobě!“ zašeptal. Potlačil propukávající vzlyky a utíral si oběma rukama slzy, které mu vhrkly do očí.
+
+</section>

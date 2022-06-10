@@ -3,6 +3,8 @@ title: XIII
 contentType: prose
 ---
 
+<section>
+
 Člověk si zvykne na všecko, zvlášť když vidí, že celé okolí žije stejně jako on. Před třemi měsíci by Levin nebyl uvěřil, že by mohl klidně usnout za takových okolností jako nyní; že by dokázal vést bezúčelný, nesmyslný život, ke všemu nad poměry, opíjet se (jinak nemohl nazvat to, co se dělo v klubu), navazovat nejapné přátelské vztahy s člověkem, do něhož kdysi byla zamilovaná jeho manželka, učinit ještě nejapnější návštěvu ženě, kterou nebylo lze nazvat jinak než beznadějně ztracenou, propadnout kouzlu té ženy a zarmoutit manželku – a za všech těch okolností klidně usnout. Ale únavou, po bezesné noci a vypitém víně usnul pevně a klidně.
 
 V pět hodin vrzly dveře, jak je kdosi otevřel, a to Levina vzbudilo. Vyskočil a rozhlédl se. Kitty vedle něho na posteli nebyla. Ale za přepážkou se míhalo světlo a Levin slyšel její kroky.
@@ -60,3 +62,5 @@ Na rohu potkal spěchajícího nočního drožkáře. V malých saních seděla
 „Tak asi dvě hodiny? Ne víc?“ zeptala se Lizaveta Petrovna. „Petr Dmitrič bude doma, ale nespěchejte na něho. A kupte v lékárně opium.“
 
 „Tak vy myslíte, že to dobře dopadne? Kéž by bůh dal!“ řekl Levin a už spatřil, jak ze vrat vyjíždí povoz. Naskočil do saní ke Kuzmovi a poručil mu, aby jel k lékaři.
+
+</section>

@@ -3,6 +3,8 @@ title: IX
 contentType: prose
 ---
 
+<section>
+
 „Tak jakou máme maršrutu? Popiš nám to podrobně,“ řekl Oblonskij.
 
 „Mám takovýhle plán: teď jedeme na Gvozděvo. Po této straně je bažina, kde se zdržují sluky, a za Gvozděvem se táhnou nádherné bažiny, kde jsou bekasiny a vyskytují se tam i sluky. Teď je horko a kvečeru – je to dvacet verst – dojedeme a uděláme si večerní hon. Přespíme, a zítra už půjdem do velkých bažin.“
@@ -73,6 +75,10 @@ Levin se zlobil, že mu zkazili ránu, že mu zavedli koně do bažiny a nejví
 
 Levin se trochu bál, že koně ztrhá, zvlášť podsedního ryzáka, kterého neuměl držet. Ale dal se bezděky strhnout jeho veselím, poslouchal romance, jež Veslovskij na kozlíku zpíval celou cestu, anebo se díval, když vykládal a předváděl, jak se má po anglicku řídit čtyřspřeží. Takto, po svačině všichni v nejlepší míře, dojeli ke gvozděvské bažině.
 
-  
+</section>
+
+<section>
 
 [^17]: Dobrá chuť – čisté svědomí. To kuře mi zapadne až do bot. _(franc.)_
+
+</section>

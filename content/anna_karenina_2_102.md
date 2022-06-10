@@ -3,6 +3,8 @@ title: XXX
 contentType: prose
 ---
 
+<section>
+
 Zase jedu! Zase všecko chápu, řekla si Anna, jakmile se koleska houpavě rozjela a zahrčela na drobné dlažbě, a opět se začaly střídat dojmy jeden za druhým.
 
 V čem se mi to naposled tak hezky přemýšlelo? vzpomínala usilovně. Ťuťkin, coiffeur? Ne, to ne. Ovšemže, o tom, co říká Jašvin: boj o bytí a nenávist – to je to jediné, co lidi spojuje. Ne, zbytečně se namáháte, v duchu oslovila společnost v kolesce s dvěma páry koní, která nejspíš jela za zábavou někam za město. Ani pes, kterého si vezete s sebou, vám nepomůže. Sobě neutečete. Vrhla pohled směrem, kterým se otáčel Petr, a uviděla továrního dělníka opilého do němoty, až se mu klátila hlava. Strážník ho někam vezl. Tenhle snad spíš, napadlo ji. My s hrabětem Vronským jsme také nenalezli uspokojení, třebaže jsme si tolik slibovali. A to ostré světlo, v kterém Anna všecko viděla, otočila teď poprvé na jejich vztah, ačkoliv dřív se těm myšlenkám vyhýbala. Co v ní hledal! Ani ne tak lásku, jako spíš ukojení marnivosti. Vzpomínala na jeho slova, na výraz jeho obličeje, připomínající poslušného stavěcího psa, jaký míval na začátku jejich poměru. A dnes vše nasvědčovalo, že se nemýlí. Ano, byl to triumf marnivého úspěchu. Byla tu ovšem i láska, ale pýcha, že dosáhl úspěchu, převažovala. Chlubil se, že jí dobyl. Teď už je to pryč. Už nemá být na co pyšný. Nemůže být pyšný, ale musí se stydět. Vzal jí všecko, co mohl, a teď ji už nepotřebuje. Je mu na obtíž, ale on se snaží, aby se k ní nezachoval nečestně. Včera se podřekl – přeje si rozvod a chce se oženit, aby za sebou spálil všecky mosty. Máji rád, jenže jak? The zest is gone.[^59] Tenhle chce všecky omráčit a je tuze spokojen sám se sebou, řekla si Anna, pozorujíc růžolícího příručího, který měl koně vypůjčeného z jízdárny. Ano, už to pro něho nemá žádnou chuť. Kdyby od něho odešla, bude v hloubi duše rád.
@@ -19,6 +21,10 @@ Anna docela zapomněla, kam a proč jede, a jen s velkou námahou porozuměla
 
 Když se prodírala zástupem do čekárny první třídy, postupně si vyvolávala v paměti všecky detaily své situace a různé plány, mezi nimiž váhala. A hned naděje, hned zoufalství jí opět jitřilo dávné rozbolavělé rány zmučeného, strašlivě bušícího srdce. Seděla na hvězdicovité pohovce, čekajíc na vlak, s odporem se dívala, jak lidé přicházejí a odcházejí (byli jí všichni protivní), a přemýšlela, jak přijede na stanici a napíše mu dopis, uvažovala, co mu má napsat, a zase myslila na to, jak si teď Vronskij stěžuje matce (protože nechce chápat její trápení), jak vstoupí k nim do pokoje a co mu řekne. Chvílemi zas myslila na to, jak by ještě mohl být život šťastný, jak mučivě ho miluje i nenávidí a jak strašně jí buší srdce.
 
-  
+</section>
+
+<section>
 
 [^59]: Chuť je pryč. _(angl.)_
+
+</section>

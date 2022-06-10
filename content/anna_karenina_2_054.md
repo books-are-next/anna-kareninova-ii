@@ -3,6 +3,8 @@ title: XV
 contentType: prose
 ---
 
+<section>
+
 Levin doprovodil ženu nahoru a pak šel za Dolly. Darja Alexandrovna dnes také měla samé mrzutosti. Chodila po pokoji a hněvivě mluvila k děvčátku, které stálo v koutě a brečelo.
 
 „Budeš stát celý den na hanbě a obědvat budeš sama, a nedostaneš žádnou panenku a žádné nové šaty ti neušiju,“ říkala. Už nevěděla, jak by ji potrestala.
@@ -113,10 +115,14 @@ Nicméně na sklonku dne všichni (kromě kněžny, která Levinovi nechtěla te
 
 „Kdybys dal aspoň zapřáhnout do kočáru! No ne, a pak slyším: Počkejte! Už jsem si myslila, že byl vzat na milost. Koukám, jak mu tam posadili tlustého Němce, a už je vezli… A tak mi moje mašličky nebyly nic platné!“
 
-  
+</section>
+
+<section>
 
 [^22]: Představte si, že ta holčička... _(franc.)_
 
 [^23]: Myslím, že Veslovskij se Kitty trochu dvoří. _(franc.)_
 
 [^24]: Krytý vůz na dlouhém pružinovém podvozku používaný zejména na ruském venkově. Pozn. red.
+
+</section>

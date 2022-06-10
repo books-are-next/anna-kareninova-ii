@@ -3,6 +3,8 @@ title: XXI
 contentType: prose
 ---
 
+<section>
+
 Po skvostném obědě a značném množství koňaku, vypitého u Bart­ňanského, přišel Stěpan Arkaďjič jen s nepatrným zpožděním k hraběnce Lydii Ivanovně.
 
 „Kdo je ještě u paní hraběnky? Ten Francouz?“ zeptal se vrátného, zatímco si prohlížel známý svrchník Alexeje Alexandroviče a prapodivný, dětinský plášť s přezkami.
@@ -113,8 +115,12 @@ Landau vstal a přistoupil k nim.
 
 Alexej Alexandrovič a Lydie Ivanovna se na sebe významně podívali a čtení začalo.
 
-  
+</section>
+
+<section>
 
 [^51]: Bezpečný a blažený. _(angl.)_
 
 [^52]: Pod křídlem. _(angl.)_
+
+</section>

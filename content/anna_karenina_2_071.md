@@ -3,6 +3,8 @@ title: XXXII
 contentType: prose
 ---
 
+<section>
+
 Než Vronskij odjel k volbám, uvážila Anna, že scény, které se mezi nimi opakovaly při každém jeho odjezdu, by v něm spíš mohly vzbudit jen chlad, než aby ho připoutaly; proto si řekla, že se všemožně ovládne, aby snášela rozloučení klidně. Avšak chladný, strohý pohled, s jakým jí přišel oznámit svůj odjezd, ji urazil, a Vronskij ještě ani neodjel, a její klid už byl tentam.
 
 Když pak o samotě sama přemýšlela o tom pohledu, který vyjadřoval právo na svobodu, dospěla k stejnému závěru jako vždy – k vědomí vlastního pokoření. On má právo odjet, kdykoli a kamkoli chce. Nejen odjet, ale i opustit ji. Má všechna práva, ona nemá žádná. Ale protože to ví, neměl to dělat. Ale co udělal? Podíval se na ni a tvářil se při tom chladně a přísně. Dá se to ovšem těžko určit, těžko postihnout, jenže nic takového se dříve nedělo, a ten pohled znamená mnoho. Ten pohled nasvědčuje, že nastává ochlazení.
@@ -84,3 +86,5 @@ Ale v očích se mu zableskl nejen chladný, nýbrž zlý pohled člověka pron
 „Když je to takové, pak je to neštěstí!“ pravil ten pohled. Byl to jen chvilkový dojem, ale nezapomněla na něj už nikdy.
 
 Anna napsala muži dopis, v kterém ho prosila o souhlas k rozvodu, koncem listopadu se rozloučila s princeznou Varvarou, která měla jet do Petrohradu, a společně s Vronským se přestěhovala do Moskvy. Poněvadž očekávala každým dnem odpověď od Alexeje Alexandroviče a hned potom rozvod, ubytovali se tentokrát společně jako manželé.
+
+</section>

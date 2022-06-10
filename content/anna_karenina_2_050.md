@@ -3,6 +3,8 @@ title: XI
 contentType: prose
 ---
 
+<section>
+
 Když Levin a Oblonskij přišli do chalupy k sedlákovi, u kterého Levin vždycky přespával, Veslovskij už tam byl. Seděl uprostřed světnice, oběma rukama se držel lavice a voják, selčin bratr, mu stahoval boty olepené bahnem. Veslovskij se smál svým veselým, nakažlivým smíchem.
 
 „Zrovna jsem přišel. Byli moc roztomilí. Považte, dali mi napít i najíst. Chleba, jedna báseň! Pravá pochoutka. A takovou dobrou vodku jsem jaktěživo nepil! A ani za nic nechtěli vzít peníze. Pořád říkali, jestli se neurazím nebo tak nějak.“
@@ -129,10 +131,14 @@ Ve spaní zaslechl smích a veselý hovor Veslovského a Oblonského. Na okam�
 
 „Pánové, zítra, než se rozední!“ A hned zase usnul.
 
-  
+</section>
+
+<section>
 
 [^19]: Typ vozu taženého koňmi, v němž byl pod kozlíkem a sedačkou pro spolu­jezdce box na přepravu psů. Pozn. red.
 
 [^20]: Král je mrtev, ať žije král! _(franc.)_
 
 [^21]: Úmyslně klamný důkaz. Pozn. red.
+
+</section>

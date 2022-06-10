@@ -3,6 +3,8 @@ title: II
 contentType: prose
 ---
 
+<section>
+
 Na terase se shromáždila celá dámská společnost. Vůbec tam po obědě rády sedávaly, ale dnes měly ke všemu práci. Kromě šití košilek a háčkování povijánů, kterým byly všecky zaměstnány, se tam dnes zavářelo podle metody, jež byla pro Agafju Michajlovnu novinkou, totiž bez přidání vody. Kitty zaváděla tuto novou metodu, které se používalo u nich doma. Dříve to mívala na starosti Agafja, a jelikož pokládala za vyloučené, že by se u Levinů něco dělalo špatně, přece nalila do zahradních a lesních jahod vodu a tvrdila, že to jinak nejde. Byla přistižena a teď se zavářely maliny v přítomnosti všech. Agafja měla být názorně přesvědčena, že i bez vody se zavařenina povede.
 
 Agafja s rozpáleným a uraženým obličejem, vlasy rozcuchané a hubené ruce obnažené po loket, otáčela pánví nad železným bubnem s řeřavým dřevěným uhlím, zamračeně se dívala na maliny a přála si z duše, aby ztuhly a neprovařily se. Kněžna tušila, že asi proti ní jakožto hlavní rádkyni při zavařování malin bude namířen Agafjin hněv, a tak se snažila budit dojem, že je zaměstnána něčím jiným a o maliny se nezajímá. Proto mluvila o jiných věcech, ale tu a tam zašilhala po kamínkách.
@@ -144,3 +146,5 @@ Agafja se na Kitty kysele podívala.
 „Pojeďte s námi na houby, ukážete nám, kde rostou.“ Agafja se usmála a zakroutila hlavou, jako by říkala: nemohu se na vás zlobit, kdybych chtěla.
 
 „Udělejte to, prosím, jak jsem vám doporučovala,“ řekla stará kněžna. „Dejte do sklenice nahoru papírek namočený v rumu. I když nebude u ledu, nemůže se udělat plíseň.“
+
+</section>

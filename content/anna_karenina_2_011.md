@@ -3,6 +3,8 @@ title: VI
 contentType: prose
 ---
 
+<section>
+
 Když skončil zásnubní obřad, rozprostřel žalmista před stolkem uprostřed kostela kus růžového hedvábí, sbor zapěl umný složitý žalm, v kterém se střídaly bas a tenor, a kněz se obrátil a ukázal snoubencům na prostřené růžové hedvábí. Třebaže Levin i Kitty často a mnoho slyšeli o pověře, podle které ten, kdo si první stoupne na koberec, bude hlavou rodiny, žádný si na to nevzpomněl, když udělali těch několik kroků. Neslyšeli ani hlasité poznámky a spory, neboť jedni prý viděli, že první si stoupl on, kdežto dle tvrzení druhých oba zároveň.
 
 Po obvyklých otázkách, zda vstupují ve stav manželský dobrovolně a zda nejsou vázáni jiným slibem, po jejich odpovědích, které jim samotným zněly tak podivně, po tom všem začal nový obřad. Kitty naslouchala slovům modlitby, snažíc se pochopit jejich význam, ale nedařilo se jí to. Stále víc jí za obřadu naplňoval duši vítězoslavný pocit, pocit slunný a radostný, takže se nemohla na nic soustředit.
@@ -22,3 +24,5 @@ Konečně jim kněz sundal koruny, odříkal poslední modlitbu a blahopřál n
 Levin ji jemně políbil na usměvavé rty, podal jí ruku a s pocitem nové, zvláštní důvěrnosti odcházel z kostela. Nevěřil, nemohl věřit, že je to pravda. Jen když se jejich užaslé, nesmělé zraky setkávaly, pak tomu věřil, neboť cítil, že oba už jedno jsou.
 
 Po večeři odjeli novomanželé ještě té noci na venkov.
+
+</section>

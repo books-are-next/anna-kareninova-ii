@@ -3,6 +3,8 @@ title: XXV
 contentType: prose
 ---
 
+<section>
+
 Vronskij a Anna strávili celé léto a část podzimu na venkově a na jejich poměrech se nic nezměnilo, dosud nic nepodnikli, aby Anna dosáhla rozvodu. Domluvili se, že nikam nepojedou. Ale čím déle žili sami, zejména na podzim a bez hostí, cítili oba, že takový život dlouho nesnesou a že jej musí změnit.
 
 Byl to život zdánlivě nad pomyšlení krásný: měli všeho hojnost, byli zdrávi, měli dítě, každý měl své zaměstnání. I když neměli hosty, věnovala Anna péči svému zevnějšku a hodně se zabývala četbou – románů i vážných knih, které byly zrovna v módě. Objednávala si všecky knihy, o kterých našla pochvalné zmínky v cizích novinách a časopisech, jež odbírala, a pročítala je s onou pozorností, jaké je člověk schopen jen v osamění. Kromě toho studovala z knih a odborných časopisů všecko, čím se zabýval Vronskij, takže se často obracel přímo k ní s otázkami agronomickými, stavitelskými a někdy i s otázkami z chovu koní nebo sportu. Podivoval se jejím znalostem i paměti, ačkoli zpočátku míval pochybnosti a žádal, aby doložila svá tvrzení; a pak mu vyhledala v knihách, nač se tázal, a ukazovala mu to.
@@ -24,3 +26,5 @@ Den předtím se Vronskij a Anna pro tuto zamýšlenou cestu málem pohádali. 
 Chce se vpravit do tohoto způsobu, tím lépe, pomyslil si, jinak už to bylo věčně stejné!
 
 A tak ji nevyzval k upřímnému doznání a odjel k volbám. Bylo to v jejich spolužití poprvé, co se s ní rozloučil, aniž si všecko řekli. Zčásti ho to znepokojovalo, zčásti soudil, že je to lepší. Nejdřív tu bude, jako teď, něco nejasného, utajeného, ale pak si zvykne. Tak či onak jí mohu dát všechno, jenom ne svou mužskou nezávislost, říkal si.
+
+</section>

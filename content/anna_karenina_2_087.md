@@ -3,6 +3,8 @@ title: XV
 contentType: prose
 ---
 
+<section>
+
 Levin nevěděl, zda je pozdě, či brzy. Všechny svíce už dávno dohořely. Dolly byla před chvilkou v pánském pokoji a radila lékaři, aby si šel lehnout. Levin seděl, poslouchal lékařovo vyprávění o dryáčnickém hypnotizérovi a díval se na popel jeho cigarety. Byla to chvíle oddechu a Levin se v myšlenkách zatoulal jinam. Docela zapomněl, co se nyní děje. Poslouchal lékařovo vyprávění a rozuměl mu. Vtom se ozval strašný křik. Ten křik byl tak děsný, že Levin ani nevyskočil, ale se zatajeným dechem pohlédl ulekaně a tázavě na lékaře. Lékař sklonil hlavu na stranu, pozorně poslouchal a pochvalně se usmál. Všecko bylo tak nezvyklé, že Levina už nic nezaráželo. Asi to musí tak být, myslil si a zůstal sedět. Čí to byl křik? Levin vyskočil, po špičkách vběhl do ložnice, obešel Lizavetu Petrovnu a kněžnu a stoupl si na své místo u hlav postele. Křik ustal, ale něco se tu změnilo. Co vlastně – neviděl a nechápal, ani nechtěl vidět a chápat. Ale poznal to na Lizavetě Petrovně. Její tvář byla přísná a bledá a stále stejně odhodlaná, ačkoli se jí čelisti trochu škubaly a oči měla pozorně upřeny na Kitty. Rozpálená, zmučená, zpocená Kittina tvář s přilepenou kadeří vlasů byla obrácena k němu a hledala jeho pohled. Zvednuté ruce se vztahovaly po jeho rukou. Uchopila ho zpocenýma rukama za studené ruce a tiskla si je k obličeji.
 
 „Nechoď pryč, nechoď pryč! Já se nebojím, nebojím se!“ chrlila překotně. „Maminko, sundejte mi náušnice. Překážejí mi. Nebojíš se? Už to brzo bude, Lizaveto Petrovno…“
@@ -38,3 +40,5 @@ Jen vzlykot jí byl odpovědí.
 A jako neklamná odpověď na matčinu otázku zazněl do ticha hlas docela jiný, než byly všechny hlasy v pokoji, tlumeně hovořící. Byl to smělý, vyzývavý, bezohledný křik nového lidského tvora, který se tu najednou objevil.
 
 Kdyby byl předtím Levinovi někdo řekl, že Kitty zemřela, že on zemřel s ní, že jejich děti jsou andělé a že zde stojí před tváří boží – nic by se nebyl divil. Ale když se teď vrátil do světa skutečnosti, dalo mu velkou námahu, aby si uvědomil, že je živa a zdráva a že ten nemožně vřeštící tvor je jeho syn. Kitty žila, útrapy skončily. A Levin byl nevýslovně šťasten. To si uvědomoval, a proto byl dokonale šťasten. Ale dítě? Kde se vzalo, proč, kdo je to? Pořád nemohl pochopit, nemohl si zvyknout na tu myšlenku. Připadalo mu to zbytečné, nepřiměřené a dlouho si nemohl zvyknout.
+
+</section>

@@ -3,6 +3,8 @@ title: XXIV
 contentType: prose
 ---
 
+<section>
+
 „Tím spíš tedy musíš uspořádat své poměry, pokud to jde,“ řekla Dolly.
 
 „Ano, pokud to jde,“ řekla Anna pojednou docela jiným hlasem, tiše a smutně.
@@ -51,7 +53,9 @@ Vzal Annu za ruku a zpytavě jí pohlédl do očí.
 
 Rozuměla jeho pohledu jinak, a proto se na něho usmála.
 
-  
+</section>
+
+<section>
 
 Příští ráno se Darja Alexandrovna chystala k odjezdu, třebaže ji hostitelé přemlouvali, aby zůstala. Levinův kočí ve svém obnošeném kabátě a klobouku skoro poštovském, v kolesce se spravovanými blatníky a s koňmi různé barvy, zasmušilý a rázný, vjel na příjezd sypaný pískem.
 
@@ -75,6 +79,10 @@ Když se Darja Alexandrovna vrátila domů a shledala, že jsou všichni zdráv
 
 „Člověk musí znát Annu a Vronského – a toho jsem teď líp poznala –, aby si uvědomil, jak jsou milí a dojemní,“ říkala teď zcela upřímně, když zapomněla na nejasný pocit nespokojenosti a stísněnosti, který tam zakoušela.
 
-  
+</section>
+
+<section>
 
 [^38]: Nesmírně přízemní. _(franc.)_
+
+</section>

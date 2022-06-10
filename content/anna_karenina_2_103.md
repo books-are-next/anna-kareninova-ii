@@ -3,6 +3,8 @@ title: XXXI
 contentType: prose
 ---
 
+<section>
+
 Ozvalo se zvonění, kolem přešli nějací mladí muži, ohyzdní a drzí. Chvátali, ale přitom dávali pozor, jaký budí dojem. Čekárnou přešel i Petr ve své livreji a botkách, s tupým živočišným obličejem, a přistoupil k Anně, aby ji doprovodil k vozu. Povykující muži ztichli, když šla kolem po nástupišti, a jeden cosi zašeptal druhému, jistěže nějakou ohavnost. Anna vystoupila na vysoké stupátko a usedla sama v kupé na pérované sedadlo, kdysi bílé, teď už zašpiněné. Kabela poskočila na pérách a zůstala ležet. Petr s pitomým úsměvem smekl u okna na rozloučenou svůj premovaný klobouk, drzý průvodčí přibouchl dvířka a otočil kličkou. Ohyzdná dáma s honzíkem (Anna si v duchu tu ženu svlékla a zhrozila se její šerednosti) a děvčátko, nepřirozeně se smějící, přeběhly podél vozu.
 
 „Katěrina Andrejevna, ona má všecko u sebe, ma tante[^60]!“ volalo děvčátko.
@@ -47,6 +49,10 @@ Tam! Hleděla do stínu vozu, na písek smíšený s mourem, kterým byly zavá
 
 Chtěla se vrhnout pod první vůz, jehož střed se octl proti ní. Ale začala si sundávat z ruky červenou kabelku a to ji zdrželo, až už bylo pozdě, střed vozu ji minul. Musela čekat na další vůz. Zmocnil se jí pocit, jaký mívala, když se při koupání chystala vejít do vody, a udělala si křížek. Navyklý pohyb při znamení kříže vyvolal v její duši celý řetěz dětských dívčích vzpomínek, temnota, která jí všecko zahalovala, náhle spadla a na okamžik před ní vyvstal život se všemi hřejivými minulými radostmi. Ale nespouštěla zrak z kol druhého vozu, který se blížil. A přesně ve chvíli, kdy byl střed mezi koly proti ní, odhodila červenou kabelku, s hlavou vtaženou mezi ramena padla pod vůz na ruce a lehce, jako by chtěla hned zase vstát, poklekla. A v témž okamžiku se zhrozila, co dělá. Kde to je? Co dělá? Proč? Chtěla se zvednout a uskočit zpět; ale cosi obrovského, neúprosného ji udeřilo do hlavy a vleklo ji za záda. „Panebože, odpusť mi všecko!“ hlesla, když si uvědomila, že zápas je marný. Stařeček cosi mumlal a pracoval s železem. A svíce, při níž četla knihu plnou nepokoje, klamu, bolesti a zla, ta svíce vzplanula jasnějším světlem než kdy jindy, ozářila jí vše, co předtím bylo obestřeno tmou, zapraskala, začala skomírat a zhasla navždy.
 
-  
+</section>
+
+<section>
 
 [^60]: Teto! _(franc.)_
+
+</section>

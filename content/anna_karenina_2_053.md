@@ -3,6 +3,8 @@ title: XIV
 contentType: prose
 ---
 
+<section>
+
 Nazítří v deset hodin, když už měl za sebou obchůzku v hospodářství, zaklepal Levin na dveře pokoje, kde spal Váseňka.
 
 „Dále!“ zavolal Veslovskij. „Promiňte mi, teprv teď jsem dokončil svou očistu,“ řekl s úsměvem, oblečen před Levinem v pouhém prádle.
@@ -102,3 +104,5 @@ V zahradě narazili na zahradníka, který uhraboval pěšiny. A už neuvažov
 „Bylo,“ pravila chvějícím se hlasem. „Ale, Kosťo, copak nevidíš, že to není moje vina? Chtěla jsem ho už ráno odkázat do příslušných mezí, jenže tihle lidi… Proč přijel? Byli jsme tak šťastní!“ říkala a dusily ji vzlyky, které jí otřásaly celým, nyní silným tělem.
 
 Zahradník překvapen viděl – třebaže je nikdo nepronásledoval a neměli před čím prchat a třebaže na lavičce nemohli najít nic obzvlášť radostného – zahradník viděl, že se kolem něho vracejí domů uklidnění a rozzáření.
+
+</section>

@@ -3,6 +3,8 @@ title: IV
 contentType: prose
 ---
 
+<section>
+
 Lvov, choť Kittiny sestry Natali, strávil celý život v hlavních městech a v cizině, kde také byl vychován a později sloužil jako diplomat.
 
 Loni diplomatických služeb zanechal, nikoli pro nějaké nepříjemnosti (jakživ s nikým nepříjemnosti neměl), a přešel na správu carského dvora v Moskvě, aby mohl svým dvěma chlapcům poskytnout co nejlepší vychování.
@@ -68,3 +70,5 @@ Levin dočista zapomněl, co měl vyřídit. Vzpomněl si, až když odcházel d
 „Ano, ovšem, mamá si přeje, abychom my švagři na něho zaútočili,“ řekl s úsměvem a začervenal se. „Ale proč já?“
 
 „Tak já ho přepadnu sama,“ s úsměvem řekla Lvovová v bílé kožešinové pláštěnce, čekajíc, kdy rozmluva skončí. „Tak už pojedem.“
+
+</section>

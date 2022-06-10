@@ -3,6 +3,8 @@ title: IV
 contentType: prose
 ---
 
+<section>
+
 „Už jsou tu!“ „To je on!“ „Který? Ten mladší?“ „Ale ona je chudinka polomrtvá!“ ozývalo se ze zástupu, když Levin přivítal nevěstu u vchodu a společně s ní vešel do kostela.
 
 Stěpan Arkaďjič vysvětlil ženě, jak došlo k zdržení, a rozesmátí hosté si mezi sebou šeptali. Levin nikoho a nic nevnímal. Hleděl na svou nevěstu a oka z ní nespustil.
@@ -84,3 +86,5 @@ Dolly, Čirikov a Oblonskij pokročili kupředu a chtěli jim pomoci. Nastal z
 „Neboť ty jsi od počátku stvořil pohlaví mužské a ženské,“ odříkával kněz hned po výměně prstenů, „a od tebe jest žena spojena s mužem, ku pomoci a k zachování rodu lidského. Hospodine náš, kterýž jsi seslal pravdu dědictví svému a zaslíbení svému, služebníkům svým, otcům našim, v každém pokolení vyvolencům svým, popatři na služebníka svého Konstantina a na služebnici svou Jekatěrinu a upevni zásnuby jich ve víře, svornosti, pravdě i lásce…“
 
 Levin si stále víc a víc uvědomoval, že všechny jeho myšlenky na sňatek, jeho sny o tom, jak si uspořádá život – to vše bylo dětinství, ale že toto je něco, čemu dosud nerozuměl a nyní rozumí ještě méně, ačkoli se to stává skutečností. Hruď se mu dmula a zachvívala a neposlušné slzy se mu draly do očí.
+
+</section>

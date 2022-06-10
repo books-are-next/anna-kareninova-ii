@@ -3,6 +3,8 @@ title: II
 contentType: prose
 ---
 
+<section>
+
 V den svatby Levin podle starodávného zvyku (kněžna a Darja Alexandrovna úzkostlivě lpěly na zachování všech obyčejů) svou nevěstu neviděl a obědval v hotelu s třemi mládenci, kteří se u něho náhodou sešli. Byl to Sergej Ivanovič Koznyšov, potom Katavasov, kolega ze studií, dnes profesor přírodních věd, jehož Levin potkal na ulici a zatáhl k sobě, a konečně Levinův družba Girikov, moskevský smírčí soudce, který s ním chodil na medvědy. U oběda bylo tuze veselo. Sergej Ivanovič byl v nejlepším rozmaru a bavil se originalitou pana Katavasova. Katavasov s vědomím, že jeho originalita je oceňována a chápána, stavěl ji na odiv. Čirikov se vesele a dobrácky připojoval ke každé debatě.
 
 „Vezměme si například,“ říkal Katavasov, přičemž protahoval slova, jak si na to zvykl za katedrou, „našeho přítele Konstantina Dmitriče, jaký to byl nadaný hoch. Mluvím o nepřítomných, protože on už neexistuje. Měl tehdy po absolvování fakulty zálibu ve vědě, měl i lidské zájmy. Ale dnes je jedna polovina jeho schopností zaměřena na to, aby klamal sám sebe, a druhá – aby tento sebeklam omluvil.“
@@ -116,3 +118,5 @@ Požehnání svatým obrazem odbyli. Stěpan Arkaďjič zaujal komickou slavnost
 „A my přijedeme hned. Věci máš odeslané?“ řekl Stěpan Arkaďjič.
 
 „Mám,“ odpověděl Levin a nařídil Kuzmovi, aby mu přinesl šaty.
+
+</section>

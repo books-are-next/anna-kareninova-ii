@@ -3,6 +3,8 @@ title: XX
 contentType: prose
 ---
 
+<section>
+
 Jako vždy, Oblonskij ani tentokrát v Petrohradě nezahálel. Kromě řízení, které měl s rozvodem sestřiným a s obstaráváním místa, musel se v Petrohradě jako vždy osvěžit po moskevské zatuchlosti, jak říkal.
 
 Přes své šantány a omnibusy byla Moskva přece jen rybník se stojatou vodou. Stěpan Arkaďjič to vždy pociťoval. Po delším pobytu v Moskvě – zvlášť v bezprostředním styku s rodinou – cítil, jak klesá na mysli. Po delším nepřetržitém pobytu v Moskvě to s ním docházelo tak daleko, že mu dělala těžkou hlavu špatná ženina nálada a její výčitky, zdraví a výchova dětí i malicherné starosti v úřadě; dokonce si dělal těžkou hlavu z toho, že má dluhy. Ale stačilo, aby přijel do Petrohradu a zůstal tam nějakou dobu v kruzích, v kterých se pohyboval, kde se žilo, skutečně žilo, a nikoli živořilo jako v Moskvě – a už všechny ty myšlenky mizely a rozplývaly se jako vosk nad ohněm.
@@ -62,3 +64,5 @@ Mezi kněžnou Betsy Tverskou a Stěpanem Arkaďjičem byl odedávna prapodivn�
 „Jak to adoptovala?“
 
 „Tak, přijala ho za vlastního. On už není Landau, ale hrabě Bezzubov. Ale o to nejde. Jenomže Lydie – mám ji moc ráda, ale taky to nemá v hlavě v pořádku – se ovšem do toho Landaua zbláznila a bez něho se ani u ní, ani u Alexeje Alexandroviče nesmí nic rozhodnout. A proto je osud vaší sestry v rukou toho Landaua alias hraběte Bezzubova.“
+
+</section>

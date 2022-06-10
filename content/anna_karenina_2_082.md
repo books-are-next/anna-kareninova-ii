@@ -3,6 +3,8 @@ title: X
 contentType: prose
 ---
 
+<section>
+
 Šla ho uvítat a nijak se netajila radostí, že ho vidí. A v klidu, s jakým mu podala energickou malou ruku, ho představila Vorkujevovi a ukázala na hezké ryšavé děvčátko, které tu sedělo nad ruční prací a které nazvala svou schovankou, v tom klidu poznával Levin příjemné vystupování dámy velkého světa, vždy klidné a přirozené.
 
 „Těší mě, velice mě těší,“ opakovala a ta prostá slova nabyla v jejích ústech pro Levina nějak zvláštního významu. „Znám vás dávno a líbíte se mi. Jednak že jste Stivův přítel, jednak kvůli vaší paní… Znala jsem ji velmi krátce, ale zanechala ve mně dojem jako rozkošné poupě, ano, poupě. A bude už brzo matkou!“
@@ -105,8 +107,12 @@ Pustila jeho ruku a přimhouřila oči.
 
 „Jistě, ano, vyřídím…,“ řekl Levin s uzarděním.
 
-  
+</section>
+
+<section>
 
 [^47]: Dej prosím prostřít k čaji v salóně. _(angl.)_
 
 [^48]: Nemám dost široké srdce. _(franc.)_
+
+</section>

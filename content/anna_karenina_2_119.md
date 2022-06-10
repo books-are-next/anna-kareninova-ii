@@ -3,6 +3,8 @@ title: XV
 contentType: prose
 ---
 
+<section>
+
 „A víš, Kosťo, s kým Sergej Ivanovič jel?“ řekla Dolly, když podělila děti okurkami a medem. „S Vronským! Jede do Srbska.“
 
 „A k tomu ne sám, ale veze celou škadronu na vlastní útraty!“ dodal Katavasov.
@@ -76,3 +78,5 @@ Krásný stařec s černým prošedivělým vousem a hustými stříbrnými vl
 „Říkám ti, žádné stovky, žádní ztřeštěnci, ale nejlepší představitelé lidu!“ řekl Sergej Ivanovič tak podrážděně, jako by hájil svůj poslední majetek. „A co sbírky? Tady už přímo všechen lid vyjadřuje svou vůli.“
 
 „To slovo ‚lid‘ je tak neurčité,“ řekl Levin. „Okresní písaři, učitelé a mezi rolníky jeden z tisíce, ti možná vědí, oč jde. Ale ostatních osmdesát miliónů, stejně jako Michajlyč, nejenže nevyjadřuje svou vůli, ale ani nemají nejmenší ponětí, v čem by měli svou vůli vyjadřovat. Jaké tedy máme právo tvrdit, že je to vůle lidu?“
+
+</section>

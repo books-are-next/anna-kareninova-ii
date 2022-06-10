@@ -3,6 +3,8 @@ title: XIII
 contentType: prose
 ---
 
+<section>
+
 Lovecká pověra – nedáte-li si ujít první kus, lov bude zdařilý – se ukázala pravdivou.
 
 Unavený, vyhladovělý a šťastný se Levin vrátil do chalupy kolem desáté dopoledne, když měl za sebou nějakých třicet verst chůze, a nesl si devatenáct sluk a bekasin a jednu kachnu, kterou si přivázal k pasu, protože do brašny se mu už nevešla. Přátelé už byli dávno vzhůru, dostali mezitím hlad a posnídali.
@@ -40,3 +42,5 @@ Zpáteční cesta uběhla stejně vesele jako cesta tam. Veslovskij zpíval, s 
 „Vůbec jsem ohromně spokojený s naším výletem. A co vy, Levine?“
 
 „Jsem velice spokojený,“ pravil Levin upřímně. Měl nesmírnou radost, že už proti Váseňkovi není zaujat, jak tomu bylo doma, ale že k němu naopak cítí přátelskou náklonnost.
+
+</section>

@@ -3,6 +3,8 @@ title: XXVI
 contentType: prose
 ---
 
+<section>
+
 Ještě nikdy se nepohádali na celý den. Dnes se to stalo poprvé. A nebyla to rozepře. Bylo to otevřené přiznání k naprostému ochladnutí. Což by se jinak mohl na ni podívat tak, jak se na ni podíval, když si přišel do pokoje pro rodokmen? Podívat se na ni, vidět, že srdce jí puká zoufalstvím, a minout ji s takovým lhostejným, klidným obličejem? Nejenže k ní ochladl, ale nenáviděl ji, protože miloval jinou ženu – to bylo jasné.
 
 Anna vzpomínala na všechna krutá slova, která jí řekl, a vymýšlela si ještě slova další, která jí patrně chtěl a mohl říci, a byla stále podrážděnější.
@@ -54,3 +56,5 @@ Stála mlčky uprostřed pokoje a upřeně na něho hleděla. Podíval se na ni
 Zalekl se zoufalého výrazu, s jakým byla ta slova řečena, proto vyskočil a chtěl se rozběhnout za ní, ale vzpamatoval se, opět si sedl, pevně zaťal zuby a zachmuřil se. Ta neslušná – jak soudil – pohrůžka ho podráždila. Zkoušel jsem všecko možné, pomyslil si, zbývá jediné – nevšímat si toho. A začal se chystat do města a znova k matce, od které měl dostat podpis na plné moci.
 
 Slyšela jeho kroky v pánském pokoji a v jídelně. Před salónem se zastavil. Ale nešel tam, jenom dal rozkaz, aby v jeho nepřítomnosti vydali Vojtovovi hřebce. Potom slyšela, jak předjela koleska, jak se otevřely dveře a Vronskij opět vyšel ven. Ale pak se vrátil znovu do předsíně a kdosi vyběhl nahoru. To komorník běžel pro zapomenuté rukavice. Anna přistoupila k oknu a viděla, jak si lhostejně vzal rukavice, jemně strčil kočího do zad a cosi mu řekl. Potom, aniž se podíval do oken, zaujal v kolesce obvyklou pózu, totiž dal nohu přes nohu, navlékl si rukavice a zmizel za rohem.
+
+</section>

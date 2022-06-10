@@ -3,6 +3,8 @@ title: VIII
 contentType: prose
 ---
 
+<section>
+
 Když Levin vstal od stolu, cítil, jak se mu v chůzi klátí ruce zvlášť pravidelně a lehce. Šel s Gaginem prostornými místnostmi ke kulečníkové síni. Ve velkém sále potkal tchána.
 
 „Tak co? Jakpak se ti líbí náš chrám zahálky?“ řekl kníže a vzal ho pod paží. „Pojď se projít.“
@@ -66,3 +68,5 @@ Když byla partie dohrána, vzal Stěpan Arkaďjič Levina pod paží.
 „Výborně, pojedem! Běž se podívat, jestli tu mám vůz,“ obrátil se Oblonskij k číšníkovi.
 
 Levin šel ke stolu, zaplatil prosázených čtyřicet rublů, ve dveřích zapravil útratu, kterou měl stařičký číšník záhadným způsobem přesně spočítanou, a podivně se rozháněje rukama, ubíral se přes všechny sály k východu.
+
+</section>

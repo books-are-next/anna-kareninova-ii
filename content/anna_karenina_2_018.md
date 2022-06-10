@@ -3,6 +3,8 @@ title: XIII
 contentType: prose
 ---
 
+<section>
+
 Michajlov prodal Vronskému svůj obrázek a uvolil se malovat Anninu podobiznu. V určený den přišel a dal se do práce.
 
 Po pátém sezení vzbudil portrét všeobecný úžas, zejména ve Vronském, a to nejen výstižnou podobou, ale i zvláštní krásou. Bylo s podivem, jak Michajlov dokázal tuto její zvláštní krásu objevit. Člověk ji musí znát a milovat, jako ji miluji já, aby vystihl její nejhezčí, nejvlastnější výraz, myslil si Vronskij, ačkoli její nejhezčí, nejvlastnější výraz poznal až z této podobizny. Ale byl to výraz tak pravdivý, že se jemu i ostatním zdálo, že jej znají už dávno.
@@ -28,3 +30,5 @@ A Michajlov? Ačkoli maloval Anninu podobiznu s velkým zaujetím, měl ješt�
 Vronskij pro malířství a středověk nehoroval dlouho. Měl tolik uměleckého vkusu, že nedovedl svůj obraz dokončit. Obraz uvízl na mrtvém bodě. Vronskij nejasně tušil, že jeho vady, zpočátku málo patrné, budou bít do očí, bude-li pokračovat. Dělo se mu stejně jako Goleniščevovi, když cítil, že nemá co říci, a neustále si nalhával, že myšlenka ještě nedozrála, že ji musí donosit a připravit si materiál. Jenže Goleniščeva to zatvrdilo a utrápilo, kdežto Vronskij si neuměl nic nalhávat ani se trápit, a zatvrdit se teprve nedovedl. Nic nevysvětloval, neomlouval se a s rozhodností, vlastní jeho povaze, zanechal malování.
 
 Ale bez tohoto zaměstnání zdál se jemu i Anně (divila se jeho rozčarování) život v italském městečku tak nudný, palác byl najednou tak očividně starý a špinavý, skvrny na záclonách, škvíry v podlaze, oprýskaná štukatura na římsách, všecko se jim tak přejedlo, ten věčně stejný Goleniščev, italský profesor i německý cestovatel je tak omrzeli, že bylo nutné pomýšlet na životní změnu. Domluvili se, že pojedou do Ruska, na venkov. Vronskij chtěl v Petrohradě dojednat s bratrem rozdělení majetku a Anna se chtěla podívat na syna. Léto hodlali strávit u Vronského na velkém dědičném panství.
+
+</section>

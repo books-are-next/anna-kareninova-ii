@@ -3,6 +3,8 @@ title: XXIII
 contentType: prose
 ---
 
+<section>
+
 Aby se v rodinném životě mohlo něco podniknout, k tomu je nezbytný buď naprostý rozkol mezi manžely, anebo láskyplná shoda. Je-li poměr mezi manžely nejasný a chybí jedno i druhé, pak nelze podnikat nic.
 
 Mnohé rodiny zůstávají léta na stejném místě, i když se oběma manželům dávno zprotivilo, a to jen proto, že zde není ani úplný rozkol, ani shoda.
@@ -46,3 +48,5 @@ A když viděla, že nedosáhla vytouženého klidu, ale jen opsala znovu kruh,
 Aby už nemusila přemýšlet a rozčilovat se, zazvonila a dala přinést kufry, do kterých měly být uloženy věci na cestu.
 
 V deset hodin Vronskij přijel.
+
+</section>

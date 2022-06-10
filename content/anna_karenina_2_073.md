@@ -3,6 +3,8 @@ title: I
 contentType: prose
 ---
 
+<section>
+
 Levinovi žili už třetí měsíc v Moskvě. Už dávno minula lhůta, kdy podle nejspolehlivějších výpočtů lidí, rozumějících těm věcem, měla Kitty rodit. Zatím ještě byla s outěžkem a neobjevily se žádné známky, že by teď její těžká hodinka byla blíž než před dvěma měsíci. Lékař i porodní asistentka, Dolly i matka, a především Levin, který nemohl na nastávající událost pomyslit bez hrůzy, všichni začínali být netrpěliví a neklidní. Jen Kitty se cítila dokonale klidná a šťastná.
 
 Nyní si jasně uvědomovala, že se v ní probudil nový cit lásky k budoucímu, pro ni zčásti už přítomnému dítěti, a s rozkoší ten cit v sobě pěstovala. Dítě už nebylo docela její částí, nýbrž žilo někdy vlastním, nezávislým životem. Často jí to působilo bolest, ale zároveň jí bylo až do smíchu podivnou novou radostí.
@@ -32,3 +34,5 @@ Levin zrudl mnohem víc než ona, když mu sdělila, že se u kněžny Marie Bo
 Poctivé oči řekly Levinovi, že je sama se sebou spokojena. Třebaže se zardívala, rázem se uklidnil a začal se jí vyptávat, a Kitty si nic jiného nepřála. Když se dověděl všecko až po tu podrobnost, že se jen v prvním okamžiku neubránila ruměnci, ale potom se cítila prostě a volně jako s kterýmkoli náhodným známým, Levin se docela rozveselil a řekl, že z toho má velkou radost a už se nebude chovat tak hloupě jako při volbách, ale bude se při nejbližším setkání s Vronským snažit, aby byl co nejpřívětivější.
 
 „Je to zoufalé pomyšlení, když existuje někdo, kdo je člověku takřka nepřítelem, s kterým je zatěžko se stýkat,“ řekl Levin. „Mám velkou, velkou radost.“
+
+</section>

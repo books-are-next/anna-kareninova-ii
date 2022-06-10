@@ -3,6 +3,8 @@ title: XVI
 contentType: prose
 ---
 
+<section>
+
 Kolem desáté hodiny seděli u Levina starý kníže, Sergej Ivanovič a Stěpan Arkaďjič, a když pohovořili o rodičce, mluvili také o jiných věcech. Levin poslouchal, bezděčně při těch řečech vzpomínal na nedávnou událost, na všechno, co se zběhlo do dnešního rána, a vzpomínal i na sebe, jaký byl včera, než se to stalo. Od té doby jako by uplynulo sto let. Připadal si jako na nějakém nedostupném vrcholu, z kterého opatrně sestupoval, aby neurazil své společníky. Mluvil a bez ustání myslil na ženu, zevrubně uvažoval, jak se jí daří, vzpomínal na syna a snažil se přivyknout myšlence na jeho existenci. Celý ženský svět, který pro něho nabyl nového, neznámého významu po tom, co se oženil, stoupl teď v jeho představách do takové výše, že jej nemohl ve své fantazii obsáhnout. Naslouchal rozhovoru o včerejším obědě v klubu a přemýšlel: Co teď asi dělá, jestlipak usnula? Jak se jí daří? Nač myslí? Křičí syn Dmitrij? A uprostřed rozmluvy, uprostřed věty vyskočil a odcházel z pokoje.
 
 „Vzkaž mi, jestli k ní smím,“ pravil kníže.
@@ -52,3 +54,5 @@ Najednou Levina přiměl smích, aby zvedl hlavu. To se zasmála Kitty. Dítě s
 Levin se sotva ubránil slzám něhy, s úsměvem ženu políbil a odešel z pokoje.
 
 Cítil k tomu tvorečku něco úplně jiného, než očekával. Nic veselého a radostného v tom citu nebylo; naopak, byl to nový mučivý strach. Bylo to vědomí, že je zde nová oblast zranitelnosti. A to vědomí bylo první dobu tak mučivé, strach, aby se tomu bezbrannému stvoření něco nestalo, byl tak mocný, že za ním mizel zvláštní pocit bláhové radosti a téměř pýchy, který se ho zmocnil, když dítě kýchlo.
+
+</section>

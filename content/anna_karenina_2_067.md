@@ -3,6 +3,8 @@ title: XXVIII
 contentType: prose
 ---
 
+<section>
+
 Levin stál dost daleko. Vedle něho těžce, chrčivě oddychoval jakýsi šlechtic a jiný šoupal tlustými podešvemi. Levina to rušilo, takže neslyšel dobře. Slyšel z dálky něžný hlas maršálkův, pak vřískavý hlas jízlivého šlechtice a Svijažského. Přeli se, pokud rozuměl, o smysl jistého článku zákona a o význam slov _býti vyšetřován_.
 
 Zástup se rozestoupil a uvolnil cestu Koznyšovovi, který kráčel ke stolu. Koznyšov vyčkal, až jízlivý šlechtic domluvil, potom řekl, že dle jeho mínění by bylo nejlepší nahlédnout do sbírky zákonů a požádat tajemníka, aby příslušný článek vyhledal. V článku bylo řečeno, že při různosti názorů je nutno hlasovat.
@@ -53,6 +55,10 @@ Debata o Flerovovi získala nové straně nejen jeho hlas, ale také časovou v
 
 „Kdepak, drží se. Jenom aby mu tady nedali napít… Už jsem říkal číšníkovi, aby mu za žádných okolností nenalévali.“
 
-  
+</section>
+
+<section>
 
 [^40]: Tajné hlasování různobarevnými kuličkami. Pozn. red.
+
+</section>

@@ -3,6 +3,8 @@ title: IV
 contentType: prose
 ---
 
+<section>
+
 Váreňka ve svém bílém šátku na černých vlasech, obklopena dětmi, kterým se dobromyslně a vesele věnovala, a patrně rozechvělá vyhlídkou, že muž, který se jí líbí, se možná vyjádří, byla velice půvabná. Sergej Ivanovič chodil vedle ní a stále ji se zalíbením pozoroval. Při pohledu na ni vzpomínal na všecky ty milé řeči, které od ní slyšel, na všecko, co o ní věděl hezkého, a stále víc a víc si uvědomoval, že k ní chová docela zvláštní cit, jaký poznal dávno a dávno a jen jednou, v raném mládí. Radostný pocit, že je jí nablízku, stále vzrůstal. A když jí pak dával do košíku obrovského kozáka na tenké nožičce a s ohnutým okrajem, pohlédl jí do očí, zpozoroval, jak jí obličej polila červeň radostného i bázlivého rozechvění, také upadl do rozpaků a mlčky se na ni usmál až příliš výmluvně.
 
 Když je tomu tak, řekl si, musím se rozmyslit a rozhodnout se a nepoddávat se chvilkovému opojení jako nějaký hošík.
@@ -13,8 +15,12 @@ Když je tomu tak, řekl si, musím se rozmyslit a rozhodnout se a nepoddávat
 
 I když si usilovně vybavoval v paměti ženy a dívky, jež znával, nemohl si vzpomenout na žádnou dívku, která by takovou měrou v sobě slučovala všecky, skutečně všecky vlastnosti, jaké si při střízlivé úvaze přál vidět u své ženy. Měla svůj půvab a kouzlo mládí, ale nebyla dítě, a jestliže ho milovala, pak ho milovala uvědoměle, jak má milovat žena. To za prvé. Za druhé jí byly vyšší kruhy nejen vzdáleny, ale patrně jimi pohrdala, ale zároveň je znala a měla všecky způsoby ženy z lepší společnosti, bez nichž si Sergej Ivanovič nedovedl životní družku představit. Za třetí: byla zbožná a přitom to nebyla dětsky neuvědomělá zbožnost a dobrota jako například u Kitty; ale její život byl založen na náboženském přesvědčení. I v podrobnostech u ní Sergej Ivanovič shledával vše, co požadoval od ženy: byla chudobná a osamělá, takže by nepřivedla houf příbuzných a jejich vliv do mužovy domácnosti, jak to viděl u Kitty, ale byla by vším povinována muži, což si rovněž povždy přál pro svůj budoucí rodinný život. A tato dívka, která v sobě spojovala všechny hodnoty, ho měla ráda. Sergej Ivanovič byl skromný, ale to mu nemohlo uniknout. I on ji měl rád. Jediným důvodem, mluvícím proti, byla jeho léta. Avšak u nich v rodě žili lidé dlouho, on sám neměl jediný šedivý vlas, nikdo mu nehádal čtyřicet a také si vzpomínal, jak Váreňka říkala, že jen v Rusku se padesátníci považují za starce, kdežto ve Francii si padesátník říká, že je dans la force de l’âge[^12], a čtyřicátník je un jeune homme[^13]. Ale co znamenala léta, když byl mlád srdcem tak jako před dvaceti roky? Nebyla to snad mladost, ten cit, který se ho nyní zmocnil, když vyšel druhou stranou opět na kraj lesa a v jasném světle šikmých slunečních paprsků spatřil ladnou postavu Váreňky v žlutých šatech a s košíkem, svižným krokem míjející kmen staré břízy, a když ten dojem z Váreňčina zjevu splynul s úchvatným obrazem žlutého ovesného pole zaplaveného šikmými paprsky a vzdáleného starého lesa za polem, posetého žlutými skvrnami a mizejícího v modré dálce? Srdce se mu sevřelo radostí. Zaplavil ho pocit něhy. Cítil, že je rozhodnut. Váreňka se shýbla, aby sebrala houbu, a teď se zas mrštně vztyčila a ohlédla se. Sergej Ivanovič odhodil doutník a rázným krokem zamířil k ní.
 
-  
+</section>
+
+<section>
 
 [^12]: V nejlepších letech. _(franc.)_
 
 [^13]: Mladý muž. _(franc.)_
+
+</section>

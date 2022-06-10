@@ -3,6 +3,8 @@ title: V
 contentType: prose
 ---
 
+<section>
+
 Do kostela přišla celá Moskva, příbuzní a známí. A při svatebním obřadu v nádherně osvětleném kostele, v kruhu vyšňořených paní a dívek a pánů s bílými nákrčníky, ve fracích a uniformách, ne­utuchal diskrétní tichý hovor, který začínali převážně muži, kdežto ženy se cele oddaly sledování všech detailů posvátného úkonu, který je vždy tolik dojímá.
 
 V hloučku docela blízko nevěsty byly její dvě sestry, Dolly a prostřední sestra, vyrovnaná kráska Lvovová, která přijela z ciziny.
@@ -70,3 +72,5 @@ Posvátný úkon do nejmenších podrobností nesledovaly jen sestry, přítelky
 „Nevěstinka jak andílek, jako z cukru! Ale nic naplat, člověku je každé ženské líto.“
 
 Tak se hovořilo v zástupu zvědavých žen, které šťastně proklouzly do kostela.
+
+</section>

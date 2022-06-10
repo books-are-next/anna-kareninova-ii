@@ -3,6 +3,8 @@ title: X
 contentType: prose
 ---
 
+<section>
+
 Váseňka poháněl koně tak zčerstva, že přijeli k bažině příliš brzo, ještě když bylo vedro.
 
 Když dojeli k pořádné bažině, hlavnímu cíli výpravy, uvažoval Levin mimoděk o tom, jak by se zbavil Váseňky, aby mohl nerušeně chodit sám. Stěpan Arkaďjič si asi přál totéž a Levin mu četl ve tváři starostlivost, jaká se vždy projevuje u pravého lovce před zahájením lovu, a pozoroval na něm i výraz jistého dobromyslného šibalství, které mu bylo vlastní.
@@ -91,6 +93,10 @@ Měl čtrnáct kusů.
 
 „Znamenitá bažina. Tobě jistě překážel Veslovskij. Dva s jedním psem, to dost dobře nejde,“ řekl Oblonskij, aby oslabil svůj triumf.
 
-  
+</section>
+
+<section>
 
 [^18]: Pojďme, to je zajímavé. _(franc.)_
+
+</section>

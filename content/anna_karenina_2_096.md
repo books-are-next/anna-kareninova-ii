@@ -3,6 +3,8 @@ title: XXIV
 contentType: prose
 ---
 
+<section>
+
 „Bavil ses dobře?“ otázala se Anna, když ho s provinilou a smířlivou tváří šla přivítat.
 
 „Jako vždycky,“ odpověděl. Stačilo mu, aby se na ni podíval, a už věděl, že má jednu ze svých dobrých nálad. Uvykl už těm zvratům a dnes byl obzvlášť rád, protože byl také v nejlepším rozmaru.
@@ -108,3 +110,5 @@ Anna mlčela.
 Vronskij ji zapřísahal, aby se uklidnila, a ujišťoval ji, že nemá ani nejmizivější důvod k žárlivosti, že ji nikdy nepřestal a nepřestane milovat, že ji miluje víc než dříve.
 
 „Anno, proč takhle trápíš sebe i mne?“ říkal a líbal jí ruce. Ve tváři se mu teď zračila něha a Anně se zdálo, že slyší z jeho hlasu pláč a cítí na ruce krůpěje slz. A bezmezná Annina žárlivost se v mžiku proměnila v bezmeznou, vášnivou něhu. Objímala ho, pokrývala mu polibky hlavu, šíji, ruce.
+
+</section>

@@ -3,6 +3,8 @@ title: XXIX
 contentType: prose
 ---
 
+<section>
+
 Když se Anna vracela do Ruska, pomýšlela také na shledání se synkem. Od toho dne, co odjela z Itálie, myšlenka na to shledání ji neustále rozechvívala. A čím víc se blížila k Petrohradu, tím se jí zdálo radostnější a významnější. Ani si nekladla otázku, jak to zařídí. Myslila, že je přirozené a jednoduché uvidět syna, když bude v témž městě jako on; ale když přijela do Petrohradu, tu si jasně uvědomila své nynější společenské postavení a pochopila, že shledání je těžko uskutečnitelné.
 
 Byla v Petrohradě už dva dny. Myšlenka na syna ji neopouštěla ani na okamžik, ale ještě ho neviděla. Cítila, že nemá právo jet rovnou k němu domů, kde by se mohla setkat s Alexejem Alexandrovičem. Mohlo se stát, že by ji nevpustili a dostalo by se jí urážky. Aby snad psala muži a nějak s ním vyjednávala? Už pouhé pomyšlení jí působilo muka. Vždyť mohla být klidná, jen když nemyslila na muže. Zjistit si, kdy a kam chodí syn na procházku, a tam se s ním setkat, jí bylo málo. Tolik se na shledání těšila, měla mu toho tolik co říci, tak ráda by ho objala a zulíbala. Serjožova stará chůva by jí jistě pomohla a poradila. Jenže už v domě Alexeje Alexandroviče nebydlila. V té nejistotě a pátrání po chůvě uplynuly dva dni.
@@ -94,3 +96,5 @@ A Serjoža se dal do hlasitého smíchu. Anna se na něho podívala a usmála 
 „Já to věděl, já to věděl!“ opakoval svou oblíbenou větu.
 
 Vzal matku za ruku, která ho hladila po vlasech, tiskl si ji dlaní k ústům a líbal ji.
+
+</section>

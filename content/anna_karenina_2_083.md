@@ -3,6 +3,8 @@ title: XI
 contentType: prose
 ---
 
+<section>
+
 Taková úžasná, milá a ubohá žena, myslil si Levin, když vycházel se Stěpanem Arkaďjičem na mrazivý vzduch.
 
 „Tak co? Říkal jsem ti to,“ řekl Stěpan Arkaďjič, když viděl, že Levin je úplně přemožen.
@@ -52,3 +54,5 @@ Když se vrátil, nalezl Kitty, jak dosud sedí v křesle. Jakmile k ní přis
 „Ty ses do té ohavné ženy zamiloval, ona tě omámila. Poznala jsem ti to na očích. Ano! Jak to může dopadnout? V klubu jsi pil a pil, hrál jsi a potom jsi jel… ke komu? Ne, odjedem… Zítra odjedu.“
 
 Levin dlouho nemohl ženu uklidnit. Nakonec ji uklidnil, teprve když přiznal, že víno mu zatemnilo smysly a dal se zmýlit soucitem, takže podlehl Anninu šálivému kouzlu, ale že se jí bude vyhýbat. Ze všeho nejupřímněji se přiznával, že tím dlouhým pobytem v Moskvě, kdy jenom mluví, jí a pije, už pomalu zpitoměl. Rozprávěli do tří hodin do rána. Teprve ve tři hodiny se udobřili natolik, že mohli usnout.
+
+</section>

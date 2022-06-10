@@ -3,6 +3,8 @@ title: XXIII
 contentType: prose
 ---
 
+<section>
+
 Hraběnku Lydii Ivanovnu provdali jako mladičkou exaltovanou dívku za bohatého, urozeného, velice dobromyslného a velice rozmařilého muže, který měl rád zábavu a veselí. Druhý měsíc po svatbě ji opustil a na její exaltované citové výlevy reagoval jen posměchem, ba záští, kterou si lidé neuměli vysvětlit, neboť znali dobré srdce hraběte a na exaltované Lydii neviděli žádné chyby. Třebaže se nedali rozvést, žili od té doby odděleně, a kdykoli se manžel setkal s manželkou, vždy se k ní choval s obvyklou jedovatou ironií, jejíž příčina byla nepochopitelná.
 
 Hraběnka Lydie Ivanovna už dávno nebyla do muže zamilovaná, ale od těch dob nikdy nepřestala být zamilovaná do někoho. Bývala zamilovaná do několika lidí najednou, do mužů i do žen. Bývala zamilovaná skoro do všech lidí, kteří v něčem zvlášť vynikali. Byla zamilovaná do všech nových princezen a princů, kteří vstupovali do příbuzenského svazku s carskou rodinou, byla zamilovaná do jednoho metropolity, jednoho vikáře a jednoho kněze. Byla zamilovaná do jednoho novináře, do tří Slovanů, do Komisarova. Do jednoho ministra, jednoho lékaře, do jednoho anglického misionáře a do Karenina. Všechny ty lásky, hned ochabující, hned zas vzrůstající, jí nijak nebránily, aby pěstovala rozsáhlé a spletité dvorské a společenské styky. Ale od té doby, co Karenina potkalo neštěstí a hraběnka ho vzala pod svou zvláštní ochranu, od té doby, co si dala takovou práci s Kareninovou domácností, aby pečovala o jeho blaho, od té doby cítila, že všecky ostatní lásky nejsou pravé, ale že je teď opravdově zamilovaná jen do Karenina. Cit, který teď k němu chovala, zdál se jí mocnější než všechny dřívější city. Když svůj cit podrobila analýze a srovnávala jej s těmi dřívějšími, viděla jasně, že by se nebyla zamilovala do Komisarova, kdyby nebyl zachránil život panovníkovi, že by se nebyla zamilovala do Rističe-Kudžického, nebýt slovanské otázky, že však Karenina miluje pro něho samého, pro jeho nepochopenou vznešenou duši, pro jeho vysoký, jí tak milý hlas s táhlými tóny, pro jeho znavený pohled, jeho povahu a měkké bílé ruce s naběhlými žilami. Těšila se na každé setkání a nejen to, pátrala v jeho tváři, jaký na něho dělá dojem. Chtěla, aby se mu líbily nejen její oči, ale celá její osobnost. Kvůli němu teď věnovala svému zevnějšku větší péči. Přistihovala se při blouznění o tom, jaké by to bylo, kdyby nebyla vdaná a on by byl svobodný. Rudla rozčilením, kdykoli vcházel do pokoje, nemohla se ubránit obdivnému úsměvu, kdykoli jí řekl něco hezkého.
@@ -17,7 +19,9 @@ Lydie Ivanovna vyzvídala prostřednictvím svých známých, co hodlají dělat
 
 Hraběnka Lydie Ivanovna se dlouho nemohla posadit a přečíst si dopis. Z rozčilení dostala záchvat záduchy, kterou trpěla. Když se konečně uklidnila, přečetla si francouzský dopis:
 
-  
+</section>
+
+<section>
 
 „Paní hraběnko,
 
@@ -32,3 +36,5 @@ Všecko v tom dopise hraběnku Lydii Ivanovnu popudilo: obsah i narážka na v
 „Musím s Vámi mluvit v důležité a smutné věci. Tam se domluvíme kde. Nejlepší by to bylo u mne. Dám Vám připravit _Váš_ čaj. Je to nutné. On ukládá kříž, ale zároveň nám dává sílu,“ dodávala, aby ho duševně alespoň trochu připravila.
 
 Hraběnka Lydie Ivanovna psávala Alexejovi Alexandroviči dvakrát až třikrát denně. Líbil se jí tento sdělovací proces, mající do sebe cosi elegantního a tajuplného, což jí chybělo ve stycích osobních.
+
+</section>

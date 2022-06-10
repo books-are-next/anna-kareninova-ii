@@ -3,6 +3,8 @@ title: VII
 contentType: prose
 ---
 
+<section>
+
 Vronskij a Anna cestovali spolu už tři měsíce po Evropě. Byli v Benátkách, v Římě, v Neapoli a teď právě přijeli do menšího italského města, kde se chtěli na nějaký čas usadit.
 
 Sličný vrchní číšník s hustými napomádovanými vlasy, s pěšinkou začínající nad krkem, ve fraku a široké bílé batistové náprsence, se svazkem přívěsků nad kulatým bříškem, ruce v kapsách a oči pohrdavě přimhouřené, stroze odpovídal pánovi, který se před ním zastavil. Jakmile vrchní zaslechl, že na druhé straně kdosi stoupá po schodech, otočil se, a když uviděl ruského hraběte, který měl u nich pronajaté nejlepší pokoje, uctivě vytáhl ruce z kapes a s úklonou hlásil, že kurýr tu byl a s nájmem paláce je všecko zařízeno. Vrchní správce je ochoten podepsat smlouvu.
@@ -84,3 +86,5 @@ Když Anna v klobouku a v pláštěnce vstoupila, a pohrávajíc si hbitým 
 „Ano, kdysi jsem se tomu věnoval a teď zas pomalu začínám,“ odpověděl Vronskij a zrudl.
 
 „Má velký talent,“ pravila Anna s radostným úsměvem. „Já to ovšem nemohu tak posoudit. Ale znalci to prohlásili také.“
+
+</section>

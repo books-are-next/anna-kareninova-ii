@@ -3,6 +3,8 @@ title: XVIII
 contentType: prose
 ---
 
+<section>
+
 „Ještě mám něco, ty víš co. Týká se to Anny,“ řekl po krátké pomlčce Stěpan Arkaďjič, když ze sebe setřásl nelibý dojem.
 
 Jakmile Oblonskij vyslovil Annino jméno, obličej Alexeje Alexandroviče se úplně změnil, místo nedávné živosti se v něm objevila únava a mrtvolná bledost.
@@ -59,6 +61,10 @@ Alexej Alexandrovič mu podal ruku a zamyslil se.
 
 „Musím si všecko rozmyslit a zeptat se na radu. Pozítří dostanete určitou odpověď,“ dodal po chvíli přemýšlení.
 
-  
+</section>
+
+<section>
 
 [^49]: Platíš za volnomyšlenkáře. _(franc.)_
+
+</section>

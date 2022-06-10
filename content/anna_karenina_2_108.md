@@ -3,6 +3,8 @@ title: IV
 contentType: prose
 ---
 
+<section>
+
 Na zastávce v gubernském městě nešel Sergej Ivanovič do bufetu, ale procházel se po nástupišti sem a tam.
 
 Když poprvé míjel kupé Vronského, všiml si, že na okně je zatažena záclonka. Ale když šel kolem podruhé, zahlédl u okna starou hraběnku. Vyzvala Koznyšova, aby šel blíž.
@@ -31,8 +33,12 @@ Když poprvé míjel kupé Vronského, všiml si, že na okně je zatažena zác
 
 Sergej Ivanovič řekl, že to mile rád udělá, a přešel na druhou stranu vlaku.
 
-  
+</section>
+
+<section>
 
 [^62]: Úplné zhroucení. _(franc.)_
 
 [^63]: V Petrohradě to neradi vidí. _(franc.)_
+
+</section>

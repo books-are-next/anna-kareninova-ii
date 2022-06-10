@@ -3,6 +3,8 @@ title: VII
 contentType: prose
 ---
 
+<section>
+
 Levin se vrátil domů, teprve když pro něho vzkázali k večeři. Na schodech stála Kitty s Agafjou a radily se, jaká vína mají k večeři podávat.
 
 „Ale k čemu ten povyk? Dáte, co obyčejně pijeme.“
@@ -83,7 +85,9 @@ Podle Levina se provinila tím, že připustila takové chování, a ještě v�
 
 „Jak můžete jít spát!“ pravil Stěpan Arkaďjič. Po několika sklenicích vína, které vypil u večeře, měl tu nejrůžovější, nejvýš poetickou náladu. „Podívej, Kitty,“ ukázal na měsíc vyplouvající nad korunami lip, „jaká nádhera! Veslovskij, teď by se hodila serenáda. Víš, on má příjemný hlas, cestou jsme se sezpívali. Dovezl dvě úchvatné nové romance. Měli bychom si zazpívat s Varvarou Andrejevnou.“
 
-  
+</section>
+
+<section>
 
 Když se všichni rozešli, Oblonskij a Veslovskij se ještě dlouho procházeli alejí, odkud zaznívaly jejich hlasy, zkoušející novou romanci.
 
@@ -131,6 +135,10 @@ Pověděla mu, o čem mluvili. A když vyprávěla, rozčilením stěží popa
 
 „Ne, tak já ho naopak schválně u nás zdržím na celé léto a budu se před ním rozplývat zdvořilostí,“ řekl Levin a líbal ženě ruce. „Však uvidíš. Zítra… Ach ano, zítra jedeme.“
 
-  
+</section>
+
+<section>
 
 [^16]: Středně velký pták, druh bahňáka. _Pozn. red._
+
+</section>

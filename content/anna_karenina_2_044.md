@@ -3,6 +3,8 @@ title: V
 contentType: prose
 ---
 
+<section>
+
 „Varvaro Andrejevno, když jsem byl ještě hodně mladý, vytvořil jsem si ideál ženy, do které se zamiluji a kterou pln štěstí učiním svou ženou. Prožil jsem dlouhý život a teď poprvé jsem ve vás potkal, co jsem hledal. Miluji vás a žádám vás o ruku.“
 
 Sergej Ivanovič si to říkal ve chvíli, když už byl deset kroků od Váreňky. Klečela na zemi, a chráníc houbu před Gríšou, volala na malou Mášu.
@@ -64,3 +66,5 @@ Za dětmi vyšli z lesa i Sergej Ivanovič a Váreňka. Kitty se ani nemusela
 „Tamhle jedou sedláci…“
 
 „Nic neviděli…“
+
+</section>

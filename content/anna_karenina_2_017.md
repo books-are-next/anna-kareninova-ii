@@ -3,6 +3,8 @@ title: XII
 contentType: prose
 ---
 
+<section>
+
 Anna a Vronskij se na sebe už dlouho dívali, rozzlobeni na přítele pro jeho učenou mnohomluvnost, a Vronskij už nakonec nečekal na malířovo vyzvání a šel k dalšímu, menšímu obrazu.
 
 „Ach, to je rozkošné, opravdu rozkošné! Kouzelné! Rozkošné!“ zvolali oba unisono.
@@ -26,3 +28,5 @@ Noha Kristova v perspektivě přece jen nebyla dobrá. Chopil se palety a dal 
 Vronskij, Anna a Goleniščev byli cestou domů zvlášť rozjaření a veselí. Hovořili o Michajlovovi a o jeho obrazech. Slovo _talent_, kterým mínili vrozenou, takřka fyzickou schopnost nezávislou na rozumu a citu a kterým chtěli označit vše, co malíř prožíval, to slovo se v jejich debatě ozývalo zvlášť často, neboť je nutně potřebovali, aby mohli pojmenovat, o čem chtěli mluvit, i když o tom neměli ani ponětí. Říkali, že talent mu nelze upřít, že však se jeho talent nemohl rozvinout pro nedostatek vzdělání, což je obecné neštěstí našich ruských malířů. Ale obrázek chlapců se jim vtiskl do paměti a co chvíli se k němu vraceli.
 
 „Rozkošná věc! Úžasně se mu to podařilo a přitom je to docela prostinké! On ani neví, jak je to hezké. Rozhodně si ten obrázek nesmím dát ujít, musím ho koupit,“ řekl Vronskij.
+
+</section>
