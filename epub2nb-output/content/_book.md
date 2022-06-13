@@ -12,6 +12,7 @@ meta:
   edition: beletrie
   publisherShort: mkp
   languageCode: cs
+  isbn: 978-80-274-2486-3
 readingOrder:
   - promo.html
   - anna_karenina_2_005.html
