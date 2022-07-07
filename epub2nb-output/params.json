@@ -61,7 +61,7 @@
             "filename": "anna_karenina_2_003.md",
             "xhtml": "anna_karenina_2_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -71,7 +71,7 @@
             "filename": "anna_karenina_2_004.md",
             "xhtml": "anna_karenina_2_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -1394,7 +1394,7 @@
             "filename": "anna_karenina_2_124.md",
             "xhtml": "anna_karenina_2_124.xhtml",
             "id": 123,
-            "role": "colophon",
+            "role": "about",
             "listType": "plain",
             "inToc": false,
             "hiddenTitle": false,
@@ -2231,6 +2231,6 @@
       "user": "books-are-next",
       "repo": "anna-kareninova-ii"
     },
-    "generatedAt": 1655977887239
+    "generatedAt": 1657181613299
   }
 }
